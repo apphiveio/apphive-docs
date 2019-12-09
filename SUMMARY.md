@@ -118,6 +118,7 @@
 
 ## Publish
 
+* [Publish Website](publish/publish-website.md)
 * [Publish Web App](publish/publish-web-app.md)
 * [Publish to Play Store \(Android\)](publish/publish-to-play-store-android.md)
 * [Publish to App Store \(IOS\)](publish/publish-to-app-store-ios.md)
