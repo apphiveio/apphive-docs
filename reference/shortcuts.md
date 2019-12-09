@@ -1,2 +1,2 @@
-# Shortcuts ⌨️
+# Keyboard shortcuts ⌨️
 
