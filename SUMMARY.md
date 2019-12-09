@@ -13,7 +13,9 @@
 * [Database 𝌏](reference/database.md)
 * [Styles 🎨](reference/styles.md)
 * [UI Elements 📱](reference/ui-elements.md)
-* [Functions ∑](reference/functions-sum.md)
+* [Functions ∑](reference/functions-sum/README.md)
+  * [Navigation](reference/functions-sum/navigation/README.md)
+    * [Return To Last Screen](reference/functions-sum/navigation/return-to-last-screen.md)
 
 ## Templates <a id="templates-1"></a>
 
