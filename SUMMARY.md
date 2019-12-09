@@ -23,9 +23,21 @@
 
 ## Templates <a id="templates-1"></a>
 
-* [App Templates](templates-1/templates.md)
-* [Page Templates](templates-1/page-templates.md)
-* [Functions Templates](templates-1/functions-templates.md)
+* [App Templates](templates-1/templates/README.md)
+  * [Real State](templates-1/templates/real-state.md)
+  * [Like Airbnb](templates-1/templates/like-airbnb.md)
+  * [Like Uber](templates-1/templates/like-uber.md)
+  * [Restaurant](templates-1/templates/restaurant.md)
+  * [eShop](templates-1/templates/eshop.md)
+* [Page Templates](templates-1/page-templates/README.md)
+  * [Maps](templates-1/page-templates/maps.md)
+  * [Checkout](templates-1/page-templates/checkout.md)
+  * [Details](templates-1/page-templates/details.md)
+  * [Galleries](templates-1/page-templates/galleries.md)
+  * [Lists](templates-1/page-templates/lists.md)
+  * [User Management](templates-1/page-templates/user-management.md)
+* [Functions Templates](templates-1/functions-templates/README.md)
+  * [User Management](templates-1/functions-templates/user-management.md)
 
 ## ❓FAQs <a id="faqs-1"></a>
 
@@ -36,5 +48,7 @@
 
 * [Algolia](apis/algolia.md)
 * [Shopify](apis/shopify.md)
+* [Mercado Pago](apis/mercado-pago.md)
+* [Stripe](apis/stripe.md)
 * [YouTube](apis/youtube.md)
 
