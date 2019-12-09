@@ -114,9 +114,9 @@
 * [Stripe](integrations/stripe.md)
 * [YouTube](integrations/youtube.md)
 
-## APIs
+## Custom Integrations
 
-* [Custom APIs](apis/custom-apis.md)
+* [Custom APIs](custom-integrations/integration-apis.md)
 
 ## Publish
 
