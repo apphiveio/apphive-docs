@@ -90,13 +90,17 @@
 * [FAQs](faq/faqs.md)
 * [Pricing](faq/pricing.md)
 
+## Integrations
+
+* [Algolia](integrations/algolia.md)
+* [Shopify](integrations/shopify.md)
+* [Mercado Pago](integrations/mercado-pago.md)
+* [Stripe](integrations/stripe.md)
+* [YouTube](integrations/youtube.md)
+
 ## APIs
 
-* [Algolia](apis/algolia.md)
-* [Shopify](apis/shopify.md)
-* [Mercado Pago](apis/mercado-pago.md)
-* [Stripe](apis/stripe.md)
-* [YouTube](apis/youtube.md)
+* [Custom APIs](apis/custom-apis.md)
 
 ## Publish
 
