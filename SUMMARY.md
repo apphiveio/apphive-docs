@@ -39,10 +39,10 @@
 * [Functions Templates](templates-1/functions-templates/README.md)
   * [User Management](templates-1/functions-templates/user-management.md)
 
-## ❓FAQs <a id="faqs-1"></a>
+## ❓FAQs <a id="faq"></a>
 
-* [FAQs](faqs-1/faqs.md)
-* [Pricing](faqs-1/pricing.md)
+* [FAQs](faq/faqs.md)
+* [Pricing](faq/pricing.md)
 
 ## APIs
 
