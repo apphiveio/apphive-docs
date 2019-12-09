@@ -2,7 +2,7 @@
 description: Changelog for Apphive
 ---
 
-# Changelog
+# 🗒 Changelog
 
 ## Release \#170 \(12/04/2019\)
 

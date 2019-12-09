@@ -2,7 +2,7 @@
 description: Preview your app in real time on any Android or iOS device.
 ---
 
-# Apphive Previewer App
+# ⚡️ Apphive Previewer App
 
 ### What is Apphive Previewer App?
 
