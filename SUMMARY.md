@@ -108,6 +108,7 @@
 * [Publish to Play Store \(Android\)](publish/publish-to-play-store-android.md)
 * [Publish to App Store \(IOS\)](publish/publish-to-app-store-ios.md)
 * [Publish to Apphive Store](publish/publish-to-apphive-store.md)
+* [Export binaries \(.ipa, .apk\)](publish/export-binaries-.ipa-.apk.md)
 
 ## Tutorials
 
