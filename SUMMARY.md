@@ -6,7 +6,7 @@
 ## Getting Started
 
 * [🚀 Creating a new project](creating-a-new-project/README.md)
-  * [Start Using a Template](creating-a-new-project/start-using-a-template.md)
+  * [Start With a Template](creating-a-new-project/start-using-a-template.md)
   * [Start From Scratch](creating-a-new-project/start-from-scratch.md)
 * [⚡️ Apphive Previewer App](apphive-previewer-app/README.md)
   * [IOS App Preview](apphive-previewer-app/ios-app-preview.md)
@@ -108,4 +108,8 @@
 * [Publish to Play Store \(Android\)](publish/publish-to-play-store-android.md)
 * [Publish to App Store \(IOS\)](publish/publish-to-app-store-ios.md)
 * [Publish to Apphive Store](publish/publish-to-apphive-store.md)
+
+## Tutorials
+
+* [How to Create a Chat App](tutorials/how-to-create-a-chat-app.md)
 
