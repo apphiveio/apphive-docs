@@ -70,6 +70,7 @@
     * [Replace Screen](reference/functions-sum/navigation/replace-screen.md)
     * [Push Screen](reference/functions-sum/navigation/push-screen.md)
     * [Return To Last Screen](reference/functions-sum/navigation/return-to-last-screen.md)
+* [User Management 👨](reference/user-management.md)
 * [Shortcuts ⌨️](reference/shortcuts.md)
 
 ## Global Functions
