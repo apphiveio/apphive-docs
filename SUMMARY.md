@@ -14,7 +14,11 @@
 * [Styles 🎨](reference/styles.md)
 * [UI Elements 📱](reference/ui-elements.md)
 * [Functions ∑](reference/functions-sum/README.md)
+  * [Elements](reference/functions-sum/elements/README.md)
+    * [Modify Control](reference/functions-sum/elements/modify-control.md)
   * [Navigation](reference/functions-sum/navigation/README.md)
+    * [Replace Screen](reference/functions-sum/navigation/replace-screen.md)
+    * [Push Screen](reference/functions-sum/navigation/push-screen.md)
     * [Return To Last Screen](reference/functions-sum/navigation/return-to-last-screen.md)
 
 ## Templates <a id="templates-1"></a>
