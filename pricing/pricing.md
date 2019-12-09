@@ -1,4 +1,4 @@
-# Pricing
+# Plans
 
 | Suscription | Free | Entrepreneur | Premium | Ultimate |
 | :--- | :--- | :--- | :--- | :--- |

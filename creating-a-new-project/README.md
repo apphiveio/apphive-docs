@@ -1,2 +1,2 @@
-# 🚀 Creating a new project
+# 🆕 Creating a new project
 

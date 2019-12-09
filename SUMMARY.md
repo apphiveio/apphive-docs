@@ -1,11 +1,10 @@
 # Table of contents
 
 * [👋 Welcome to Apphive](README.md)
-* [🗒 Changelog](changelog.md)
 
-## Getting Started
+## 🚀 Getting Started
 
-* [🚀 Creating a new project](creating-a-new-project/README.md)
+* [🆕 Creating a new project](creating-a-new-project/README.md)
   * [Start With a Template](creating-a-new-project/start-using-a-template.md)
   * [Start From Scratch](creating-a-new-project/start-from-scratch.md)
   * [Versions](creating-a-new-project/versions.md)
@@ -71,12 +70,13 @@
     * [Push Screen](reference/functions-sum/navigation/push-screen.md)
     * [Return To Last Screen](reference/functions-sum/navigation/return-to-last-screen.md)
 * [User Management 👨](reference/user-management.md)
-* [Keyboard shortcuts ⌨️](reference/shortcuts.md)
 
 ## Global Functions
 
 * [Global Functions](global-functions/global-functions.md)
 * [Push Notifications](global-functions/push-notifications.md)
+* [Cloud Functions](global-functions/cloud-functions.md)
+* [Webhooks](global-functions/webhooks.md)
 
 ## Templates <a id="templates-1"></a>
 
@@ -100,10 +100,11 @@
 * [Functions Templates](templates-1/functions-templates/README.md)
   * [User Management](templates-1/functions-templates/user-management.md)
 
-## ❓FAQs <a id="faq"></a>
+## 💵Pricing
 
-* [FAQs](faq/faqs.md)
-* [Pricing](faq/pricing.md)
+* [Plans](pricing/pricing.md)
+* [Billing policy](pricing/billing-policy.md)
+* [Non-profit discounts](pricing/non-profit-discounts.md)
 
 ## Integrations
 
@@ -130,7 +131,10 @@
 
 * [How to Create a Chat App](tutorials/how-to-create-a-chat-app.md)
 
-## Help
+## Resources
 
-* [Help](help/help.md)
+* [FAQs](resources/faqs.md)
+* [Keyboard shortcuts](resources/shortcuts.md)
+* [Changelog](resources/changelog.md)
+* [Help](resources/help.md)
 
