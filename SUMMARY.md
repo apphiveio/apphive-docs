@@ -130,3 +130,7 @@
 
 * [How to Create a Chat App](tutorials/how-to-create-a-chat-app.md)
 
+## Help
+
+* [Help](help/help.md)
+
