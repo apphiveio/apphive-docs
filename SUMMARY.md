@@ -1,9 +1,10 @@
 # Table of contents
 
 * [👋 Welcome to Apphive](README.md)
+* [Changelog](changelog.md)
 
-## Editor
+## Getting Started
 
-* [Preview on IOS](editor/preview-on-ios.md)
-* [App preview](editor/app-preview.md)
+* [Creating a new project](creating-a-new-project.md)
+* [Apphive Previewer App](apphive-previewer-app.md)
 
