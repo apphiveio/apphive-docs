@@ -28,6 +28,7 @@
     * [Delete Data](reference/database/local-database/delete-data.md)
     * [Read Data](reference/database/local-database/read-data.md)
     * [Write Data](reference/database/local-database/write-data.md)
+  * [Custom Database](reference/database/custom-database.md)
 * [Styles 🎨](reference/styles/README.md)
   * [Element Styles](reference/styles/element-styles.md)
   * [Global Styles](reference/styles/global-styles/README.md)
