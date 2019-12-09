@@ -8,6 +8,13 @@
 * [🚀 Creating a new project](creating-a-new-project/README.md)
   * [Start With a Template](creating-a-new-project/start-using-a-template.md)
   * [Start From Scratch](creating-a-new-project/start-from-scratch.md)
+  * [Versions](creating-a-new-project/versions.md)
+* [📐 App Layout](app-layout/README.md)
+  * [Working With Containers](app-layout/working-with-containers.md)
+  * [Responsive Design](app-layout/responsive-design.md)
+  * [Sidebar](app-layout/sidebar.md)
+  * [Top Navigation Bar](app-layout/top-navigation-bar.md)
+  * [Bottom Navigation Bar](app-layout/bottom-navigation-bar.md)
 * [⚡️ Apphive Previewer App](apphive-previewer-app/README.md)
   * [IOS App Preview](apphive-previewer-app/ios-app-preview.md)
   * [Android App Preview](apphive-previewer-app/android-app-preview.md)
@@ -63,6 +70,12 @@
     * [Replace Screen](reference/functions-sum/navigation/replace-screen.md)
     * [Push Screen](reference/functions-sum/navigation/push-screen.md)
     * [Return To Last Screen](reference/functions-sum/navigation/return-to-last-screen.md)
+* [Shortcuts ⌨️](shortcuts.md)
+
+## Global Functions
+
+* [Global Functions](global-functions/global-functions.md)
+* [Push Notifications](global-functions/push-notifications.md)
 
 ## Templates <a id="templates-1"></a>
 
