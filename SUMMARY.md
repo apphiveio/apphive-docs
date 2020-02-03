@@ -21,7 +21,9 @@
 ## Reference
 
 * [Database 𝌏](reference/database/README.md)
-  * [Database](reference/database/database/README.md)
+  * [Database Editor](reference/database/database-editor/README.md)
+    * [Open database editor](reference/database/database-editor/open-database-editor.md)
+  * [Cloud Database](reference/database/database/README.md)
     * [Delete Data](reference/database/database/delete-data.md)
     * [Links to Data](reference/database/database/links-to-data.md)
     * [Import Data](reference/database/database/import-data.md)
