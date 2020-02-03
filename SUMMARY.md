@@ -30,7 +30,7 @@
     * [Export database data](reference/database/database-editor/export-database-data.md)
     * [View data nested collections](reference/database/database-editor/view-data-nested-collections.md)
   * [Cloud Database](reference/database/database/README.md)
-    * [Delete Data](reference/database/database/delete-data.md)
+    * [Delete Database Data](reference/database/database/delete-data.md)
     * [Links to Data](reference/database/database/links-to-data.md)
     * [Import Data](reference/database/database/import-data.md)
     * [Export Data](reference/database/database/export-data.md)
