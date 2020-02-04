@@ -4,7 +4,7 @@ description: Function to save data on the Cloud Database
 
 # Save Database Data
 
-The Save data in DB data is a function on the Cloud Database group, this function allows you to save data on the database from any source
+The Save data in DB data is a function on the [Cloud Database](./) group, this function allows you to save data on the database from any source
 
 ![](../../../.gitbook/assets/captura-de-pantalla-2020-02-03-a-la-s-17.18.20.png)
 

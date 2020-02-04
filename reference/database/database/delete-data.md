@@ -4,7 +4,7 @@ description: Function to delete data from database
 
 # Delete Database Data
 
-The Delete database data is a function on the Cloud Database group, this function allows you to delete specific records on the database or the hole collection
+The Delete database data is a function on the [Cloud Database](./) group, this function allows you to delete specific records on the database or the hole collection
 
 ![](../../../.gitbook/assets/captura-de-pantalla-2020-02-03-a-la-s-16.03.27.png)
 
