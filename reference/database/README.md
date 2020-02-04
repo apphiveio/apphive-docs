@@ -13,9 +13,9 @@ You can use two kinds of a database:
 * **Local database.** Provide local data storage, the data you store can be read only with the same device, read and write speed is extremely fast 
 * **Cloud database.** Your data is stored in the cloud and could be shared between devices. You can show the stored data from your project dashboard, the reading and writing speed depends on your Internet connection.
 
-{% page-ref page="local-database/" %}
-
 {% page-ref page="database/" %}
+
+{% page-ref page="local-database/" %}
 
 ## Data model
 
