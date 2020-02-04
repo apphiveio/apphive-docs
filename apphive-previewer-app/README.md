@@ -12,3 +12,13 @@ Apphive Previewer App allows you to watch in real time your app while you are wo
 
 Apphive Previewer app allows you to live test your app on your device, in real-time, while you are building it. 
 
+![App preview in real time](../.gitbook/assets/app-review.gif)
+
+### Download the App previewer for Android and IOS
+
+{% page-ref page="ios-app-preview.md" %}
+
+{% page-ref page="android-app-preview.md" %}
+
+
+
