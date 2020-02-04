@@ -11,8 +11,6 @@
   * [Working With Containers](app-layout/working-with-containers.md)
   * [Responsive Design](app-layout/responsive-design.md)
   * [Sidebar](app-layout/sidebar.md)
-  * [Top Navigation Bar](app-layout/top-navigation-bar.md)
-  * [Bottom Navigation Bar](app-layout/bottom-navigation-bar.md)
 * [⚡️ Apphive Previewer App](apphive-previewer-app/README.md)
   * [IOS App Preview](apphive-previewer-app/ios-app-preview.md)
   * [Android App Preview](apphive-previewer-app/android-app-preview.md)

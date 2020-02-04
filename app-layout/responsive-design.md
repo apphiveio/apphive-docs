@@ -1,3 +1,7 @@
+---
+description: Create a responsive design for your app
+---
+
 # Responsive Design
 
 To create a responsive app the first containers you add to a screen should sum 100% height, for example:
