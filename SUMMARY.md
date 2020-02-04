@@ -7,7 +7,6 @@
 * [🆕 Creating a new project](creating-a-new-project/README.md)
   * [Start With a Template](creating-a-new-project/start-using-a-template.md)
   * [Start From Scratch](creating-a-new-project/start-from-scratch.md)
-  * [Versions](creating-a-new-project/versions.md)
 * [📐 App Layout](app-layout/README.md)
   * [Working With Containers](app-layout/working-with-containers.md)
   * [Responsive Design](app-layout/responsive-design.md)
