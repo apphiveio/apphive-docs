@@ -1,8 +1,6 @@
----
-description: button
----
-
 # Button
+
+![](../../../.gitbook/assets/captura-de-pantalla-2020-02-06-a-la-s-12.20.22.png)
 
 ### 🎨 Styles
 
