@@ -1,6 +1,6 @@
 # Modify Control
 
-Modify control data is a function on the [Elements group](./), this function allows you to modify any control on the current page
+Modify control data is a function on the [Elements group](./) witch allows you to modify any control on the current page
 
 ![](../../../.gitbook/assets/captura-de-pantalla-2020-02-06-a-la-s-7.30.06.png)
 
