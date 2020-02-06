@@ -4,7 +4,7 @@
 
 
 
-### 🎨 Styles
+### 🎨 Styles 
 
 * **Typography**
   * Font size
