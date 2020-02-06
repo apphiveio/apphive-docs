@@ -1,2 +1,20 @@
 # Modify Control
 
+Modify control data is a function on the [Elements group](./), this function allows you to modify any control on the current page
+
+![](../../../.gitbook/assets/captura-de-pantalla-2020-02-06-a-la-s-7.30.06.png)
+
+###  ​​ 📥 Entry vars <a id="entry-vars"></a>
+
+* **Data to send.** Enter the data to be modified on the control
+* **Element.** Select the control you want to modify
+* **Property to modify.** Pick the property to be modified on the control
+
+{% hint style="info" %}
+To make easier to identify the control to select you can rename the control name
+{% endhint %}
+
+### ​​ 👉 Examples. <a id="examples"></a>
+
+#### Modify text <a id="save-a-form-to-the-database"></a>
+
