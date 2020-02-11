@@ -2,7 +2,7 @@
 
 Modify control data is a function on the [Elements group](./) witch allows you to modify any control on the current page
 
-![](../../../.gitbook/assets/captura-de-pantalla-2020-02-06-a-la-s-7.30.06.png)
+![](../../../.gitbook/assets/captura-de-pantalla-2020-02-10-a-la-s-10.21.49.png)
 
 ###  ​​ 📥 Entry vars <a id="entry-vars"></a>
 
