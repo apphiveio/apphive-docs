@@ -14,16 +14,12 @@ description: Text fiel is a basic component that allows the user to enter text.
 
 * **Font size:** size of the text that appears on the text field element.
 * **Appearance**
-
   * **Background color:** select the background color using the [color picker](../../styles/color-picker.md).
   * **Text color**: select text color in the text field element using the [color picker](../../styles/color-picker.md).
   * **Placeholder color:** select text input color using the [color picker](../../styles/color-picker.md) that will be modified before text input has been entered.
-
 * **Dimensions**
-
   * **Width:** set how wide the text field element is using.
   * **Height:** set how tall the text field element is using.
-
 * **Margins**
   * **Padding:** you can specify how much space you want between the border and contents of the text field element.
   * **Margin**: you can specify how much space you want between the edges of the text field element with the screen or another elements.
@@ -76,10 +72,14 @@ S - Accept alphanumeric.
 * **On blur:** the on blur event that is called when the text field input is blurred.
 * **On charge:** the on charge event that is called when the text field input's text changes.
 * **On focus:** the on focus event ****that is called when the text field input is focused.
-* **On submit editing:** the on submit editing event ****that is called when the text field input's submit button is pressed.
+* **On submit editing:** the on submit editing event ****that is called when the text input's submit button is pressed.
+
+\*\*\*\*📝 **Writable Properties**
 
 ### 📝 Writable Properties
 
+* Value 
+* Focus
 * **Focus** 
 * **Value**
 

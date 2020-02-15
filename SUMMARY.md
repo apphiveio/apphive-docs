@@ -221,8 +221,10 @@
 
 * [Publish Website](publish/publish-website.md)
 * [Publish Web App](publish/publish-web-app.md)
-* [Publish to Play Store \(Android\)](publish/publish-to-play-store-android.md)
-* [Publish to App Store \(IOS\)](publish/publish-to-app-store-ios.md)
+* [Publish to Play Store \(Android\)](publish/publish-to-play-store-android/README.md)
+  * [Add a Splash Screen](publish/publish-to-play-store-android/add-a-splash-screen.md)
+* [Publish to App Store \(IOS\)](publish/publish-to-app-store-ios/README.md)
+  * [Add a Splash Screen](publish/publish-to-app-store-ios/add-a-splash-screen.md)
 * [Publish to Apphive Store](publish/publish-to-apphive-store.md)
 * [Export binaries \(.ipa, .apk\)](publish/export-binaries-.ipa-.apk.md)
 
