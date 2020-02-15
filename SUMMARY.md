@@ -66,6 +66,10 @@
     * [Container](reference/ui-elements/containers/container.md)
     * [Swiper](reference/ui-elements/containers/swiper.md)
 * [Functions ∑](reference/functions-sum/README.md)
+  * [Navigation](reference/functions-sum/navigation/README.md)
+    * [Return To Last Screen](reference/functions-sum/navigation/return-to-last-screen.md)
+    * [Push Screen](reference/functions-sum/navigation/push-screen.md)
+    * [Replace Screen](reference/functions-sum/navigation/replace-screen.md)
   * [Stripe](reference/functions-sum/stripe/README.md)
     * [Create a Subscription](reference/functions-sum/stripe/create-a-subscription.md)
     * [Cancel a Suscription](reference/functions-sum/stripe/cancel-a-suscription.md)
@@ -164,10 +168,6 @@
     * [Toogle Side Menu](reference/functions-sum/elements/toogle-side-menu.md)
     * [Add Collections To UI](reference/functions-sum/elements/add-collections-to-ui.md)
     * [Toggle Page Loading](reference/functions-sum/elements/toggle-page-loading.md)
-  * [Navigation](reference/functions-sum/navigation/README.md)
-    * [Return To Last Screen](reference/functions-sum/navigation/return-to-last-screen.md)
-    * [Push Screen](reference/functions-sum/navigation/push-screen.md)
-    * [Replace Screen](reference/functions-sum/navigation/replace-screen.md)
 * [User Management 👨](reference/user-management.md)
 
 ## Global Functions
