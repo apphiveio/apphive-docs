@@ -14,8 +14,8 @@ description: This function is the process by which user get out access to the ap
 
 ### ↗ Callbacks <a id="entry-vars"></a>
 
-* **Error logout:** You can set functions after the user can't log out from the app.
-* **Successful logout:** You can set functions after the user log out from the app.
+* **Error logout:** you can set functions after the user can't log out from the app.
+* **Successful logout:** you can set functions after the user log out from the app.
 
 
 
