@@ -12,10 +12,10 @@ description: This function allow our users to change their password.
 
 ### 📥 Entry vars <a id="entry-vars"></a>
 
-* **New password:** Select a text field to provide a way for the user to change the password.
+* **New password:** select a text field to provide a way for the user to change the password.
 
 ### ↗ Callbacks <a id="entry-vars"></a>
 
-* **Error changing password:** You can set functions after the user can't change his password.
-* **Password changed successfully:**You can set functions after the user can change his password.
+* **Error changing password:** you can set functions after the user can't change his password.
+* **Password changed successfully:** you can set functions after the user can change his password.
 
