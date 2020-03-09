@@ -6,7 +6,9 @@ description: This function allow our users to change their password.
 
 ![](../../../.gitbook/assets/captura-de-pantalla-2020-02-10-a-la-s-10.31.05.png)
 
+![](../../../.gitbook/assets/ezgif.com-video-to-gif-6.gif)
 
+![](../../../.gitbook/assets/ezgif.com-video-to-gif-7.gif)
 
 ### 📥 Entry vars <a id="entry-vars"></a>
 
@@ -16,8 +18,4 @@ description: This function allow our users to change their password.
 
 * **Error changing password:** You can set functions after the user can't change his password.
 * **Password changed successfully:**You can set functions after the user can change his password.
-
-###  <a id="entry-vars"></a>
-
-
 
