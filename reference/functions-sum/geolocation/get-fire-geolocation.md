@@ -1,3 +1,9 @@
+---
+description: >-
+  That allows you to store and query a set of keys based on their geographic
+  location.
+---
+
 # Get Fire Geolocation
 
 
@@ -8,17 +14,12 @@
 
 ### 📥 Entry vars <a id="entry-vars"></a>
 
-* **Group name**
+* **Group name:** you can add a group name from the apps settings.
 * **Key location**
 
 ### \*\*\*\*↗ **Callbacks**
 
-* **Error at get location**
-* **No data found**
-* **Success at get location**
-
-### 📤 Out vars <a id="entry-vars"></a>
-
-* **Latitude**
-* **Longitude**
+* **Error at get location:** you can set functions after there was an error getting the location of the user.
+* **No data found:** you can set functions after query the user locations and there isn't data In the database.
+* **Success at get location:** you can set functions after query the user location and get a data successfully.
 
