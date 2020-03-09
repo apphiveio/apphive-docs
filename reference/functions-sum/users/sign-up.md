@@ -16,14 +16,14 @@ description: >-
 
 ### 📥 Entry vars <a id="entry-vars"></a>
 
-* **Email:** Select a text field to provide a way for the user to set his email.
-* **Name:** Select a text field to provide a way for the user to set his name.
-* **Password:** Select a text field to provide a way for the user to set his password.
-* **Phone:** Select a text field to provide a way for the user to set his phone.
+* **Email:** select a text field to provide a way for the user to set his email.
+* **Name:** select a text field to provide a way for the user to set his name.
+* **Password:** select a text field to provide a way for the user to set his password.
+* **Phone:** select a text field to provide a way for the user to set his phone.
 
 \*\*\*\*↗ **Callbacks**
 
-* **Error registering:** You can set functions after the user can't register to the app.
-* **Success:** You can set functions after the user can register to the app.
-* **User is already signed  in:** You can set functions after the user is already sign up in the app.
+* **Error registering:** you can set functions after the user can't register to the app.
+* **Success:** you can set functions after the user can register to the app.
+* **User is already signed  in:** you can set functions after the user is already sign up in the app.
 
