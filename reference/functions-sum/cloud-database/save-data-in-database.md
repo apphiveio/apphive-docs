@@ -16,12 +16,12 @@ description: >-
 
 ### 📥 Entry vars <a id="entry-vars"></a>
 
-* **Should update DB cache:** You could activate this function to update de database cache data.
-* **Updates to make to the DB:** You can open the database path to view and modify the database.
-* **Database path:** You can open the database path to view and modify the database.
+* **Should update DB cache:** you could activate this function to update de database cache data.
+* **Updates to make to the DB:** you can open the database path to view and modify the database.
+* **Database path:** you can open the database path to view and modify the database.
 
 ### \*\*\*\*↗ **Callbacks**
 
-* **Error saving data:** You can set functions after the database can't be saved.
-* **Data saved:** You can set functions after the database can be saved.
+* **Error saving data:** you can set functions after the database can't be saved.
+* **Data saved:** you can set functions after the database can be saved.
 
