@@ -14,12 +14,12 @@ description: This function send an email to the user email address to recover hi
 
 ### 📥 Entry vars <a id="entry-vars"></a>
 
-* **Email:** Select a the text field to provide a way for the user to set his email address.
+* **Email:** select a the text field to provide a way for the user to set his email address.
 
 ### ↗ Callbacks <a id="entry-vars"></a>
 
-* **Email not sent:** You can set functions after the app can't send the email.
-* **Email sent:** You can set functions after the app send the email.
+* **Email not sent:** you can set functions after the app can't send the email.
+* **Email sent:** you can set functions after the app send the email.
 
 
 
