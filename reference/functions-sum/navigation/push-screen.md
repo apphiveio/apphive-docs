@@ -16,5 +16,5 @@ description: >-
 
 ### 📥 Entry vars <a id="entry-vars"></a>
 
-* **Page transition:** Select the page for the transition.
+* **Page transition:** select the page for the transition.
 
