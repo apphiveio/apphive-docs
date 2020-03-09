@@ -8,7 +8,7 @@ description: >-
 
 ![](../../../.gitbook/assets/captura-de-pantalla-2020-02-10-a-la-s-11.05.03.png)
 
-![](../../../.gitbook/assets/ezgif.com-video-to-gif-15.gif)
+![](../../../.gitbook/assets/ezgif.com-video-to-gif-15%20%281%29.gif)
 
 ![](../../../.gitbook/assets/ezgif.com-video-to-gif-17.gif)
 
