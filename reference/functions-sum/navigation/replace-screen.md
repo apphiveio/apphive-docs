@@ -10,7 +10,7 @@ description: >-
 
 ![](../../../.gitbook/assets/ezgif.com-video-to-gif%20%283%29.gif)
 
-![](../../../.gitbook/assets/ezgif.com-video-to-gif-1%20%284%29.gif)
+![](../../../.gitbook/assets/ezgif.com-video-to-gif-1%20%285%29.gif)
 
 
 

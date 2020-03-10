@@ -10,7 +10,7 @@ description: >-
 
 ![](../../../.gitbook/assets/ezgif.com-gif-maker.gif)
 
-![](../../../.gitbook/assets/ezgif.com-video-to-gif%20%284%29.gif)
+![](../../../.gitbook/assets/ezgif.com-video-to-gif%20%285%29.gif)
 
 {% hint style="info" %}
 This method will not work if the previous screen doesn't exist before you close the app.
