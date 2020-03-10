@@ -14,13 +14,13 @@ description: Retrieve a value by the key from the local storage data.
 
 ### 📥 Entry vars <a id="entry-vars"></a>
 
-* **Is real time**
-* **Path on local storage**
-* **Database path:** You can open the database path to view and modify the database.
+* **Is real time:** you can activate this option if you want update your app with the local storage data.
+* **Path on local storage:** you can open the local database path to view and modify the local database.
+* **Database path:** you can open the database path to view and modify the database.
 
 ### \*\*\*\*↗ **Callbacks**
 
-* **Error retrieving data:** You can set functions after there was an error on retrieving data from the local storage data.
-* **Empty data:** You can set functions when there wasn't nothing on the local storage data.
-* **Success retrieving data:** You can set functions when you already get local storage data from the database.
+* **Error retrieving data:** you can set functions after there was an error on retrieving data from the local storage data.
+* **Empty data:** you can set functions when there wasn't nothing on the local storage data.
+* **Success retrieving data:** you can set functions when you already get local storage data from the database.
 
