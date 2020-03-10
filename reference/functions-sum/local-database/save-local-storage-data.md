@@ -16,7 +16,7 @@ description: >-
 
 ### 📥 Entry vars <a id="entry-vars"></a>
 
-* **Updates to make to the local storage:** you can set functions after  was an error saving data in the local storage data.
+* **Updates to make to the local storage**
 * **Database path:** you can open the database path to view and modify the database.
 
 ### \*\*\*\*↗ **Callbacks**
