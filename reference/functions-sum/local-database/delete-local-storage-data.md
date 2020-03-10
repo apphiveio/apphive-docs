@@ -14,7 +14,7 @@ description: The delete local storage data method removes all the records on the
 
 ### 📥 Entry vars <a id="entry-vars"></a>
 
-* **Updates to make to the local storage:** 
+* **Updates to make to the local storage**
 * **Database path:** you can open the database path to view and modify the database.
 
 ### \*\*\*\*↗ **Callbacks**
