@@ -6,7 +6,7 @@ description: The delete local storage data method removes all the records on the
 
 ![](../../../.gitbook/assets/captura-de-pantalla-2020-02-10-a-la-s-11.53.33.png)
 
-![](../../../.gitbook/assets/ezgif.com-video-to-gif%20%284%29.gif)
+![](../../../.gitbook/assets/ezgif.com-video-to-gif%20%285%29.gif)
 
 ![](../../../.gitbook/assets/ezgif.com-video-to-gif-1%20%282%29.gif)
 
