@@ -6,7 +6,7 @@ description: Retrieve a value by the key from the local storage data.
 
 ![](../../../.gitbook/assets/captura-de-pantalla-2020-02-10-a-la-s-11.55.58.png)
 
-![](../../../.gitbook/assets/ezgif.com-video-to-gif-2%20%283%29.gif)
+![](../../../.gitbook/assets/ezgif.com-video-to-gif-2%20%284%29.gif)
 
 ![](../../../.gitbook/assets/ezgif.com-video-to-gif-3%20%281%29.gif)
 
