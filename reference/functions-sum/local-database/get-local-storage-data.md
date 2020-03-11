@@ -8,7 +8,7 @@ description: Retrieve a value by the key from the local storage data.
 
 ![](../../../.gitbook/assets/ezgif.com-video-to-gif-2%20%284%29.gif)
 
-![](../../../.gitbook/assets/ezgif.com-video-to-gif-3%20%281%29.gif)
+![](../../../.gitbook/assets/ezgif.com-video-to-gif-3%20%282%29.gif)
 
 
 
