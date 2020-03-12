@@ -16,12 +16,12 @@ description: >-
 
 ### 📥 Entry vars <a id="entry-vars"></a>
 
-* **Operating A:** First element with a value to the operation process.
-* **Operating B:** Second element with a value to the operation process.
-* **Operating C:** Third element with a value to the operation process.
-* **Operating D:** Fourth element with a value to the operation process.
-* **Operator +:** The symbol \(+\) indicating summation or a positive quality.
-* **Operator - : T**he symbol \(−\) denoting subtraction or a negative quantity.
+* **Operating A:** first element with a value to the operation process.
+* **Operating B:** second element with a value to the operation process.
+* **Operating C:** third element with a value to the operation process.
+* **Operating D:** fourth element with a value to the operation process.
+* **Operator +:** the symbol \(+\) indicating summation or a positive quality.
+* **Operator - :** the symbol \(−\) denoting subtraction or a negative quantity.
 * **Operator \*:** the symbol \(∗\) two elements, denoting multiplication of the second by the first element value.
 * **Operator / :** the symbol \(/\) placed between two elements and denoting division of the first by the second element value.
 
