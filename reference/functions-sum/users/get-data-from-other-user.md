@@ -8,7 +8,7 @@ description: This functions allow to get the data of a specific user from the da
 
 ![](../../../.gitbook/assets/captura-de-pantalla-2020-02-10-a-la-s-10.38.28.png)
 
-![](../../../.gitbook/assets/ezgif.com-video-to-gif-12%20%281%29.gif)
+![](../../../.gitbook/assets/ezgif.com-video-to-gif-1%20%281%29.gif)
 
 ![](../../../.gitbook/assets/ezgif.com-video-to-gif-13.gif)
 

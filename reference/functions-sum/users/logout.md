@@ -8,7 +8,7 @@ description: This function is the process by which user get out access to the ap
 
 ![](../../../.gitbook/assets/ezgif.com-video-to-gif%20%282%29.gif)
 
-![](../../../.gitbook/assets/ezgif.com-video-to-gif-1%20%285%29.gif)
+![](../../../.gitbook/assets/ezgif.com-video-to-gif-1%20%286%29.gif)
 
 
 
