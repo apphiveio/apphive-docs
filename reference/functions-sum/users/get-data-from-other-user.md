@@ -16,10 +16,10 @@ description: This functions allow to get the data of a specific user from the da
 
 ### 📥 Entry vars <a id="entry-vars"></a>
 
-* **User ID:** Select the specific user ID to get his data.
+* **User ID:** select the specific user ID to get his data.
 
 ### ↗ Callbacks <a id="entry-vars"></a>
 
-* **Error retrieving data from user:** You can set functions after the database can't retrieve user data.
-* **Success retrieving data from user:** You can set functions after the database can retrieve user data.
+* **Error retrieving data from user:** you can set functions after the database can't retrieve user data.
+* **Success retrieving data from user:** you can set functions after the database can retrieve user data.
 
