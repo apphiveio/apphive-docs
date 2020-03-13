@@ -6,7 +6,7 @@ description: Set values or change a value on a element.
 
 ![](../../../.gitbook/assets/captura-de-pantalla-2020-02-10-a-la-s-12.01.17.png)
 
-![](../../../.gitbook/assets/ezgif.com-video-to-gif-2%20%282%29.gif)
+![](../../../.gitbook/assets/ezgif.com-video-to-gif-2%20%283%29.gif)
 
 ###  <a id="entry-vars"></a>
 
