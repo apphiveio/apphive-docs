@@ -12,7 +12,7 @@ description: Create a list of elements
 
 ### 📥 Entry vars <a id="entry-vars"></a>
 
-* **Enable horizontal.**
+* **Enable horizontal:** you can select to see you list in a horizontal way
 * **List data:** select the output for retrieve the list.
 * **List instructions.** 
 * **Modify element:** open a modifier on elements in your list.
