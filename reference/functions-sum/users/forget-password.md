@@ -8,7 +8,7 @@ description: This function send an email to the user email address to recover hi
 
 ![](../../../.gitbook/assets/ezgif.com-video-to-gif-13%20%281%29.gif)
 
-![](../../../.gitbook/assets/ezgif.com-video-to-gif-9%20%281%29.gif)
+![](../../../.gitbook/assets/ezgif.com-video-to-gif-9%20%282%29.gif)
 
 
 

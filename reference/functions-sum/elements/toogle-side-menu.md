@@ -1,3 +1,7 @@
+---
+description: Open and close a left navigation bar
+---
+
 # Toogle Side Menu
 
 ![](../../../.gitbook/assets/captura-de-pantalla-2020-02-10-a-la-s-10.22.52.png)
@@ -10,6 +14,6 @@
 
 ### ↗ Callbacks <a id="entry-vars"></a>
 
-* **Error opening side menu**
+* **Error opening side menu:** you can set 
 * **Side menu opened**
 

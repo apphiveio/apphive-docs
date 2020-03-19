@@ -8,7 +8,7 @@ description: This functions allow to get the data of all the users in the data b
 
 ![](../../../.gitbook/assets/ezgif.com-video-to-gif%20%285%29.gif)
 
-![](../../../.gitbook/assets/ezgif.com-video-to-gif-11.gif)
+![](../../../.gitbook/assets/ezgif.com-video-to-gif-11%20%281%29.gif)
 
 
 
