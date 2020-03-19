@@ -6,9 +6,9 @@ description: This function allow our users to change their password.
 
 ![](../../../.gitbook/assets/captura-de-pantalla-2020-02-10-a-la-s-10.31.05.png)
 
-![](../../../.gitbook/assets/ezgif.com-video-to-gif-12.gif)
+![](../../../.gitbook/assets/ezgif.com-video-to-gif-16.gif)
 
-![](../../../.gitbook/assets/ezgif.com-video-to-gif-7.gif)
+![](../../../.gitbook/assets/ezgif.com-video-to-gif-17%20%282%29.gif)
 
 ### 📥 Entry vars <a id="entry-vars"></a>
 
