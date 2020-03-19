@@ -12,11 +12,12 @@ description: Create a list of elements
 
 ### 📥 Entry vars <a id="entry-vars"></a>
 
-* **List data.** 
+* **Enable horizontal.**
+* **List data:** select the output for retrieve the list.
 * **List instructions.** 
-* **Modify element**
-* **List reverse**
-* **Scroll inverted**
+* **Modify element:** open a modifier on elements in your list.
+* **List reverse:** change the order of the elements on the list.
+* **Scroll inverted:** change the direction of the scroll in the list.
 
 \*\*\*\*
 
