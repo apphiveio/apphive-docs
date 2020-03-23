@@ -73,7 +73,7 @@
   * [Elements](reference/functions-sum/elements/README.md)
     * [Generate Swiper Content](reference/functions-sum/elements/generate-swiper-content.md)
     * [Modify Control](reference/functions-sum/elements/modify-control.md)
-    * [Toogle Side Menu](reference/functions-sum/elements/toogle-side-menu.md)
+    * [Toggle Side Menu](reference/functions-sum/elements/toogle-side-menu.md)
     * [Add Collections To UI](reference/functions-sum/elements/add-collections-to-ui.md)
     * [Toggle Page Loading](reference/functions-sum/elements/toggle-page-loading.md)
   * [Users](reference/functions-sum/users/README.md)
