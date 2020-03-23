@@ -8,11 +8,21 @@ description: Enable and disable a page loading.
 
 ![](../../../.gitbook/assets/ezgif.com-video-to-gif-15.gif)
 
-{% hint style="info" %}
+#### Activate a toggle page loading
 
-{% endhint %}
+1. Select and element and add a toggle page loading.
+2. Activate the option only enable.
 
-![](../../../.gitbook/assets/ezgif.com-video-to-gif-13.gif)
+#### Activate a Login function
+
+1. Add a login function.
+2. Select which element the user will use to write an email.
+3. Select which element the user will use to write a password.
+4. Open the callbacks on the login.
+5. Add another toggle page loading in the successful login.
+6. Activate the option only disable.
+
+![Before the user login replace the screen with a home page.](../../../.gitbook/assets/ezgif.com-video-to-gif-13.gif)
 
 
 
