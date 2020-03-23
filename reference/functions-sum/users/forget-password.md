@@ -8,6 +8,12 @@ description: This function send an email to the user email address to recover hi
 
 ![](../../../.gitbook/assets/ezgif.com-video-to-gif-16.gif)
 
+#### Forget password
+
+1. Add a forget password in the button.
+2. Select an element to fill with a mail.
+3. Add a send alert if the mail  was send correctly. 
+
 ![](../../../.gitbook/assets/ezgif.com-video-to-gif-17%20%282%29.gif)
 
 ### 📥 Entry vars <a id="entry-vars"></a>
