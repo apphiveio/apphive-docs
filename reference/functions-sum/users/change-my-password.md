@@ -8,6 +8,15 @@ description: This function allow our users to change their password.
 
 ![](../../../.gitbook/assets/ezgif.com-video-to-gif-18.gif)
 
+#### User is logged in and change password
+
+1. Select the button
+2. Add a is logged in? function to verify if the user is logged
+3. Open the callbacks to add a change password in the user is logged in.
+4. Select the element for the user to fill with the new password.
+5. Open the callbacks on the password changed successfully and add a logout.
+6. Add a replace screen in the successful logout.
+
 ![](../../../.gitbook/assets/ezgif.com-video-to-gif-19.gif)
 
 ### 📥 Entry vars <a id="entry-vars"></a>
