@@ -8,7 +8,13 @@ The toggle side menu is a function in the [elements](./) functions which allows 
 
 ![](../../../.gitbook/assets/captura-de-pantalla-2020-02-10-a-la-s-10.22.52.png)
 
+#### How to open the left navigation bar
 
+1. Click on the menu button.
+2. Activate the left navigation bar.
+3. Click on the left navigation button to modify this element.
+
+![](../../../.gitbook/assets/ezgif.com-video-to-gif-22.gif)
 
 ### ↗ Callbacks <a id="entry-vars"></a>
 
