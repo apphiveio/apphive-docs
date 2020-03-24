@@ -29,5 +29,3 @@ The forget password is a function in the [users](./) functions which allows to t
 
 ![The user will recibe a email to change his password](../../../.gitbook/assets/ezgif.com-video-to-gif-17%20%282%29.gif)
 
-
-
