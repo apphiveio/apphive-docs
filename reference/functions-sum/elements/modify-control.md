@@ -1,14 +1,27 @@
 ---
-description: >-
-  Modify control data is a function on the Elements group witch allows you to
-  modify any control on the current page
+description: Function to modify any element on a screen.
 ---
 
 # Modify Control
 
+The modify control is a function in the [elements](./) functions which allows you to modify any element on the current screen, it could be a color, label, value, background color, etc.
+
 
 
 ![](../../../.gitbook/assets/captura-de-pantalla-2020-02-10-a-la-s-10.21.49.png)
+
+  
+​​ 📥 Entry vars
+
+* **Data to send.** Enter the data to be modified on the control
+* **Element.** Select the control you want to modify
+* **Property to modify.** Pick the property to be modified on the control
+
+{% hint style="info" %}
+To make easier to identify the control to select you can rename the control name
+{% endhint %}
+
+### ​​ 👉 Example. <a id="examples"></a>
 
 ![](../../../.gitbook/assets/ezgif.com-video-to-gif-4%20%281%29.gif)
 
@@ -28,17 +41,5 @@ description: >-
 
 ![When the user push the button it will change the color an the text.](../../../.gitbook/assets/ezgif.com-video-to-gif-6%20%282%29.gif)
 
-###  ​​ 📥 Entry vars <a id="entry-vars"></a>
 
-* **Data to send.** Enter the data to be modified on the control
-* **Element.** Select the control you want to modify
-* **Property to modify.** Pick the property to be modified on the control
-
-{% hint style="info" %}
-To make easier to identify the control to select you can rename the control name
-{% endhint %}
-
-### ​​ 👉 Examples. <a id="examples"></a>
-
-#### Modify text <a id="save-a-form-to-the-database"></a>
 
