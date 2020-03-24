@@ -4,7 +4,7 @@ description: Usually used to verify if the user is logged and access in the app.
 
 # Is Logged In?
 
-The is logged in? is a function in the [elements](../elements/) functions which allows to the app and admin if that user is actually logged to have access to data associated with that user and his private content.
+The is logged in? is a function in the users functions which allows to the app and admin if that user is actually logged to have access to data associated with that user and his private content.
 
 ![](../../../.gitbook/assets/captura-de-pantalla-2020-02-10-a-la-s-10.40.34.png)
 
