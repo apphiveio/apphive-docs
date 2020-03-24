@@ -1,5 +1,5 @@
 ---
-description: This function allow the user access to the app with a facebook account.
+description: This function allow the user access to the app with a Facebook account.
 ---
 
 # Login With Facebook
