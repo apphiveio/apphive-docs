@@ -4,7 +4,7 @@ description: Create list of elements using data in the database data
 
 # Add Collections To UI
 
-The add collection to UI is a function in the [elements](./) functions which allows to create lists of elements and modify using the registers on the [database data.](../../database/)
+The add collection to UI is a function in the [elements](./) functions which allows to create lists of elements and modify using the registers on the [database data.](../../database/) 
 
 ![](../../../.gitbook/assets/captura-de-pantalla-2020-02-10-a-la-s-10.26.28.png)
 
