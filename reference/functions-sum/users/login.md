@@ -28,7 +28,7 @@ The login is a function in the [users](./) functions which allows to the users a
 1. Select the login button and add on press.
 2. Add a [toggle page loading](../elements/toggle-page-loading.md) function  and activate only enable.
 3. Activate a login function.
-4. Select the element email and password.
+4. Select the element to input the email and password.
 5. Open the callbacks of the login function and add a toggle page loading on the successful login with and activate the only disable.
 6. Add a replace screen and select a screen on the successful login.
 
