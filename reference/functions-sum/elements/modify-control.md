@@ -27,14 +27,14 @@ To make easier to identify the control to select you can rename the control name
 
 #### Modify a text on a button
 
-1. Select the element and add a modify control.
+1. Select the element and add a [modify control.](modify-control.md)
 2. Add an unable in data to send.
 3. Select the element text disabled to modify in the element input 
 4. Select text as the property to modify.
 
 #### Modify a color on a button
 
-1. Select the element and add a modify control.
+1. Select the element and add a [modify control](modify-control.md).
 2. Add a color value to modify the element.
 3. Select the element button to modify in the element input.
 4. Select style.background as the property to modify.
