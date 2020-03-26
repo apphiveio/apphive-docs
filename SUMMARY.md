@@ -199,7 +199,7 @@
 * [Functions Templates](templates/functions/README.md)
   * [User Management](templates/functions/user-management.md)
 
-## 💵Pricing
+## ��Pricing
 
 * [Plans](pricing/pricing.md)
 * [Billing policy](pricing/billing-policy.md)
