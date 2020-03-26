@@ -4,9 +4,7 @@ description: Save data in the cloud database
 
 # Save Data in Database
 
-The save data in database is a function in the [elements](../elements/) functions which allows to create lists of elements and modify using the registers on the [database data.](../../database/) 
-
-The basic database write operation is a set which saves new data to the specified database reference, replacing any existing data at that path.
+The save database data is a function in the [cloud database](./) functions which allows to write registers on the database this is a set which saves new data to the specified database path, adding or replacing any existing data at that path.
 
 ![](../../../.gitbook/assets/captura-de-pantalla-2020-02-10-a-la-s-11.43.06.png)
 
