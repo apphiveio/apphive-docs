@@ -22,7 +22,7 @@ The login with Facebook is a function in the [users](./) functions which allows 
 4. Add a [toggle page loading](../elements/toggle-page-loading.md) and activate on disable in the success with Facebook login.
 5. Activate a [replace screen](../navigation/replace-screen.md) function and select which screen will go after the Facebook login.
 
-![](../../../.gitbook/assets/ezgif.com-video-to-gif-1%20%285%29.gif)
+![](../../../.gitbook/assets/ezgif.com-video-to-gif-1%20%284%29.gif)
 
 \*\*\*\*
 

@@ -31,5 +31,5 @@ The Sign up is a function in the [users](./) functions which allows to the users
 4. Add a [replace screen](../navigation/replace-screen.md) in the user is already signed in.
 5. Choose which screen the user will se after sign up. 
 
-![](../../../.gitbook/assets/ezgif.com-video-to-gif-3%20%281%29.gif)
+![](../../../.gitbook/assets/ezgif.com-video-to-gif-3%20%284%29.gif)
 

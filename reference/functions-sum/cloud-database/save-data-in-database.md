@@ -33,5 +33,5 @@ The save database data is a function in the [cloud database](./) functions which
 8. Open the callbacks of in save data in database and add a [send alert](../notifications/send-alert.md).
 9. Put OK in the title of the send alert.
 
-![](../../../.gitbook/assets/ezgif.com-video-to-gif-3%20%284%29.gif)
+![](../../../.gitbook/assets/ezgif.com-video-to-gif-3%20%283%29.gif)
 

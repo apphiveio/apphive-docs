@@ -8,7 +8,7 @@ description: The concat takes 3 input elements and joins them into one.
 
 ![](../../../.gitbook/assets/ezgif.com-video-to-gif-7%20%281%29.gif)
 
-![](../../../.gitbook/assets/ezgif.com-video-to-gif-8%20%282%29.gif)
+![](../../../.gitbook/assets/ezgif.com-video-to-gif-8%20%281%29.gif)
 
 
 
