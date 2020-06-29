@@ -1,18 +1,20 @@
 ---
-description: La platform to create dynamic mobile apps without code knowledge
+description: >-
+  La plataforma para crear aplicaciones móviles sin conocimientos de
+  programación
 ---
 
-# 👋 Welcome to Apphive
+# 👋 Bienvenido a Apphive
 
-## Getting Started
+## Inicio
 
-{% page-ref page="creating-a-new-project/" %}
+{% page-ref page="crear-un-nuevo-proyecto/" %}
 
-{% page-ref page="app-layout/" %}
+{% page-ref page="diseno-de-la-app/" %}
 
-{% page-ref page="apphive-previewer-app/" %}
+{% page-ref page="previsualizador-apphive/" %}
 
-### Reference
+### Referencia
 
 {% page-ref page="reference/database/" %}
 

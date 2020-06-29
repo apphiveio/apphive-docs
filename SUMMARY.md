@@ -1,21 +1,21 @@
 # Table of contents
 
-* [👋 Welcome to Apphive](README.md)
+* [👋 Bienvenido a Apphive](README.md)
 
-## 🚀 Getting Started
+## 🚀 Inicio <a id="iniciar"></a>
 
 ---
 
-* [🆕 Creating a new project](creating-a-new-project/README.md)
-  * [Start With a Template](creating-a-new-project/start-using-a-template.md)
-  * [Start From Scratch](creating-a-new-project/start-from-scratch.md)
-* [📐 App Layout](app-layout/README.md)
-  * [Working With Containers](app-layout/working-with-containers.md)
-  * [Responsive Design](app-layout/responsive-design.md)
-  * [Sidebar](app-layout/sidebar.md)
-* [⚡️ Apphive Previewer App](apphive-previewer-app/README.md)
-  * [IOS App Preview](apphive-previewer-app/ios-app-preview.md)
-  * [Android App Preview](apphive-previewer-app/android-app-preview.md)
+* [🆕 Crea un nuevo proyecto](crear-un-nuevo-proyecto/README.md)
+  * [Start With a Template](crear-un-nuevo-proyecto/start-using-a-template.md)
+  * [Start From Scratch](crear-un-nuevo-proyecto/start-from-scratch.md)
+* [📐 Diseño de la app](diseno-de-la-app/README.md)
+  * [Working With Containers](diseno-de-la-app/working-with-containers.md)
+  * [Responsive Design](diseno-de-la-app/responsive-design.md)
+  * [Sidebar](diseno-de-la-app/sidebar.md)
+* [⚡️ Previsualizador Apphive](previsualizador-apphive/README.md)
+  * [IOS App Preview](previsualizador-apphive/ios-app-preview.md)
+  * [Android App Preview](previsualizador-apphive/android-app-preview.md)
 
 ## Reference
 
