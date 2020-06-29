@@ -1,5 +1,5 @@
 ---
-description: The platform to create dynamic mobile apps without code knowledge
+description: La platform to create dynamic mobile apps without code knowledge
 ---
 
 # 👋 Welcome to Apphive
