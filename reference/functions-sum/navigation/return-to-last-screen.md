@@ -10,7 +10,7 @@ description: >-
 
 ![you can activate this function in a return arrow.](../../../.gitbook/assets/ezgif.com-video-to-gif-9%20%281%29.gif)
 
-![User can return from login to home screen with the return arrow.](../../../.gitbook/assets/ezgif.com-video-to-gif%20%287%29.gif)
+![User can return from login to home screen with the return arrow.](../../../.gitbook/assets/ezgif.com-video-to-gif%20%286%29.gif)
 
 {% hint style="info" %}
 This method will not work if the previous screen doesn't exist before you close the app.

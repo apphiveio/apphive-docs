@@ -4,6 +4,8 @@
 
 ## 🚀 Getting Started
 
+---
+
 * [🆕 Creating a new project](creating-a-new-project/README.md)
   * [Start With a Template](creating-a-new-project/start-using-a-template.md)
   * [Start From Scratch](creating-a-new-project/start-from-scratch.md)

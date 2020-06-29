@@ -8,7 +8,7 @@ description: The delete all local data method removes all the storage database.
 
 ![](../../../.gitbook/assets/ezgif.com-video-to-gif.gif)
 
-![](../../../.gitbook/assets/ezgif.com-video-to-gif-1%20%282%29.gif)
+![](../../../.gitbook/assets/ezgif.com-video-to-gif-1%20%281%29%20%281%29.gif)
 
 
 

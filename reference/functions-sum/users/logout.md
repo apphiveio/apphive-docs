@@ -21,7 +21,7 @@ The logout is a function in the [users](./) functions which allows to get out fr
 2. Activate a [replace screen](../navigation/replace-screen.md) in the successful logout.
 3. Select which screen the user will see after he logout.
 
-![](../../../.gitbook/assets/ezgif.com-video-to-gif-1%20%286%29.gif)
+![](../../../.gitbook/assets/ezgif.com-video-to-gif-1%20%285%29.gif)
 
 
 

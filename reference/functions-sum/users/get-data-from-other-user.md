@@ -10,7 +10,7 @@ description: This functions allow to get the data of a specific user from the da
 
 ![](../../../.gitbook/assets/ezgif.com-video-to-gif-1%20%281%29.gif)
 
-![](../../../.gitbook/assets/ezgif.com-video-to-gif-13%20%281%29.gif)
+![](../../../.gitbook/assets/ezgif.com-video-to-gif-13%20%282%29.gif)
 
 
 

@@ -28,7 +28,7 @@ The is logged in? is a function in the users functions which allows to the app a
 3. Activate a [replace screen](../navigation/replace-screen.md) to the home if the user is logged in.
 4. Activate a [replace screen](../navigation/replace-screen.md) to the register page if the user is not logged in or he [logout](logout.md) from the app.
 
-![](../../../.gitbook/assets/ezgif.com-video-to-gif-15%20%281%29.gif)
+![](../../../.gitbook/assets/ezgif.com-video-to-gif-15%20%282%29.gif)
 
 {% hint style="info" %}
 If the fist page of the app is a splash screen the app will check if the user previously login or not. 
