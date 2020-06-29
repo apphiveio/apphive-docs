@@ -7,7 +7,7 @@
 ---
 
 * [🆕 Crea un nuevo proyecto](crear-un-nuevo-proyecto/README.md)
-  * [Start With a Template](crear-un-nuevo-proyecto/start-using-a-template.md)
+  * [Iniciar con una plantilla](crear-un-nuevo-proyecto/start-using-a-template.md)
   * [Start From Scratch](crear-un-nuevo-proyecto/start-from-scratch.md)
 * [📐 Diseño de la app](diseno-de-la-app/README.md)
   * [Working With Containers](diseno-de-la-app/working-with-containers.md)

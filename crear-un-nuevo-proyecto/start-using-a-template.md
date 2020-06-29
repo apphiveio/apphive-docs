@@ -1,8 +1,8 @@
-# Start With a Template
+# Iniciar con una plantilla
 
-### Start a project using a template
+### Iniciar utilizando una plantilla
 
-When you create a new project or add a new app you can choose a template to start with
+Para iniciar un nuevo proyecto iniciando con una plantilla
 
 ![](../.gitbook/assets/gif-new-project.gif)
 
