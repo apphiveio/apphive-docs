@@ -16,11 +16,11 @@ description: >-
 
 ### Referencia
 
-{% page-ref page="reference/database/" %}
+{% page-ref page="reference/base-de-datos/" %}
 
-{% page-ref page="reference/database/database-editor/" %}
+{% page-ref page="reference/base-de-datos/database-editor/" %}
 
-{% page-ref page="reference/database/database/" %}
+{% page-ref page="reference/base-de-datos/database/" %}
 
 
 

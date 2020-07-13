@@ -14,7 +14,7 @@ Un proyecto es un grupo de aplicaciones que comparten la misma base de datos y c
 
 La configuración de un proyecto afecta a todas las aplicaciones que están dentro de él, las configuraciones disponibles son:
 
-* [B](../reference/database/)ase de datos
-* [Suscripción](../pricing/pricing.md)
+* [B](../reference/base-de-datos/)ase de datos
+* [Suscripción](../pricing/precio.md)
 * Geofire categorias
 
