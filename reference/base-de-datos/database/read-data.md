@@ -27,6 +27,7 @@ When you get data from the database you also get all the child collections
 * **Permission denied.** This callback is called when the database permissions doesn't allow to read the specified path
 * **Empty data.** This is called if the specified path and filters doesn't return any data
 * **Data obtained.** This is called once the server returns at least one result with the specified parameters
+* End.
 
 ### 📤 Out vars
 

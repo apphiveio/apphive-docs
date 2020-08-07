@@ -18,3 +18,11 @@ You can add any control in a sidebar, once activated you need to open the sideba
 
 ![Add controls in a sidebar](../.gitbook/assets/add-elements-to-sidebar.gif)
 
+### Ocultar o mostrar el  la barra lateral
+
+Para olcutar o mostrar la barra lateral puedes ocupar la función siguiente:
+
+{% page-ref page="../reference/funciones/elements/toogle-side-menu.md" %}
+
+
+

@@ -10,7 +10,8 @@ The Delete database data is a function on the [Cloud Database](./) group, this f
 
 ### 📥 Entry vars
 
-* **Database path to delete** 
+* **Database path to delete.** Te permite abrir el [editor de la base datos](../database-editor/) para seleccionar la colección o el dato a eliminar
+* **Should update db cache.** Si en alguna consulta de la base de datos de cloud se agregó caché, a activar está opción tambien actualizará ese caché
 
 {% hint style="danger" %}
 If you don't set any specific data index all the data in the collection will be deleted
@@ -19,6 +20,7 @@ If you don't set any specific data index all the data in the collection will be 
 ### ↗ Callbacks
 
 * **Error deleting data.** This callback is called when for some reason it is not possible to delete the data from the database
+  * La variable de salida será la razon por la cual no se pudo eliminar los datos
 * **Data deleted.** This is called once the database record \(s\) have been deleted successfully.
 
 ### 👉 Examples.
