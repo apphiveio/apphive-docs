@@ -2,7 +2,7 @@
 
 ### Iniciar utilizando una plantilla
 
-Para iniciar un nuevo proyecto iniciando con una plantilla
+Podemos iniciar un nuevo proyecto con una plantilla pre diseñada
 
 ![](../.gitbook/assets/gif-new-project.gif)
 

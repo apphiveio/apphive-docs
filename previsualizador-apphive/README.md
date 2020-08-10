@@ -1,22 +1,24 @@
 ---
-description: Preview your app in real time on any Android or iOS device.
+description: >-
+  Obtenga una vista previa de su aplicación en tiempo real en cualquier
+  dispositivo Android o iOS.
 ---
 
 # ⚡️ Previsualizador Apphive
 
-### Download the App previewer for Android and IOS
+### Descargue la vista previa de la aplicación para Android e IOS
 
-You can open this link in your phone [https://app.apphive.io](https://app.apphive.io) or scan this QR Code
+puede abrir este enlace en su teléfono [https://app.apphive.io](https://app.apphive.io) o escanear este código QR
 
 ![Apphive Previewer App](../.gitbook/assets/descarga-1.png)
 
-### What is Apphive Previewer App?
+### ¿Qué es la aplicación Apphive Previewer?
 
-Apphive Previewer App allows you to watch in real time your app while you are working on this. 
+La aplicación Apphive Previewer le permite ver su aplicación en tiempo real mientras trabaja en esto. 
 
 ### Apphive Previewer App
 
-Apphive Previewer app allows you to live test your app on your device, in real-time, while you are building it. 
+La aplicación Apphive Previewer le permite probar en vivo, su aplicación en su dispositivo, en tiempo real, mientras la está construyendo. 
 
 ![App preview in real time](../.gitbook/assets/app-review.gif)
 

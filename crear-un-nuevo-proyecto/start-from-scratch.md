@@ -1,8 +1,8 @@
-# Start From Scratch
+# Empezar desde el principio
 
-### Start a project from scratch
+Iniciar un proyecto desde cero
 
-When you create a new project or add a new app you can choose to start from scratch.
+Cuando crea un nuevo proyecto o agrega una nueva aplicación, puede elegir comenzar desde cero.
 
-![Start project from scratch](../.gitbook/assets/start-project-from-scratch.gif)
+![Iniciar proyecto desde cero](../.gitbook/assets/start-project-from-scratch.gif)
 

@@ -1,40 +1,40 @@
 ---
-description: Layout designs with containers
+description: Diseños de distribución con contenedores
 ---
 
 # Trabajar con contenedores
 
-The container is one of the most important controls because it can help you order your content and create great designs.
+El contenedor es uno de los controles más importantes porque puede ayudarlo a ordenar su contenido y crear excelentes diseños..
 
-You can add any other control inside a container even other containers
+Puede agregar cualquier otro control dentro de un contenedor, incluso otros contenedores
 
 ![](../.gitbook/assets/containers.gif)
 
-### Dividing the containers
+### Dividiendo los contenedores
 
-You can split the container into different columns with different percentages on each one. To divide a container you need to select it and on the data tab select the number of columns you want or add the percents manually
+Puede dividir el contenedor en diferentes columnas con diferentes porcentajes en cada una. Para dividir un contenedor, debe seleccionarlo y en la pestaña de datos seleccionar la cantidad de columnas que desea o agregar los porcentajes manualmente, recuerda que estos porcentajes deben sumar 100
 
 ![](../.gitbook/assets/dividing-container.gif)
 
-### Align the elements inside a container
+### Alinear los elementos dentro de un contenedor
 
-All the controls inside a container have the same align, and the same direction, you can change the alignment with the **align controls** at the top and left of the screen view, to change the alignment you need to select any control inside the container
+Todos los controles que estén dentro de un contenedor tienen la misma alineación y la misma dirección, puede cambiar la alineación con los controles de alineación en la parte superior e izquierda de la vista de la pantalla, para cambiar la alineación necesita seleccionar cualquier control dentro del contenedor
 
-![Align the elements inside a container](../.gitbook/assets/controls-align.gif)
+![](../.gitbook/assets/controls-align.gif)
 
 {% hint style="info" %}
-If you selected scroll option on the control you can't change the alignment
+Si seleccionó la opción de desplazamiento en el control, no puede cambiar la alineación
 {% endhint %}
 
-You can also change the controls direction, to change the direction you need to select the container and then click on the style tab:
+También puede cambiar la dirección de los controles, para cambiar la dirección necesita seleccionar el contenedor y luego hacer clic en la pestaña de estilo:
 
-![Layout direction using containers](../.gitbook/assets/direction.gif)
+![](../.gitbook/assets/direction.gif)
 
-### Multiple alignments and directions using containers
+### Múltiples alineaciones y direcciones usando contenedores.
 
-As we see before the containers can just have a single direction and alignment and sometimes you need to add elements in more than one direction, to make it possible you can add a container inside a container to change the direction:
+Como vimos antes, los contenedores pueden tener una sola dirección y alineación y, a veces, es necesario agregar elementos en más de una dirección, para que sea posible, puede agregar un contenedor dentro de un contenedor para cambiar la dirección:
 
-![Multiple alignments in containers](../.gitbook/assets/diferent-alignments.gif)
+![](../.gitbook/assets/diferent-alignments.gif)
 
 
 

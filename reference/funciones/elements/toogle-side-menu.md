@@ -1,29 +1,27 @@
 ---
-description: Open and close a left navigation bar
+description: (Alternar menú lateral)  Abrir y cerrar una barra de navegación izquierda
 ---
 
 # Toggle Side Menu
 
-The toggle side menu is a function in the [elements](./) functions which allows to the user open a side menu to get an access to a quick launch menu.
+El menú lateral de alternancia es una función en las funciones de los [elementos ](https://docs.apphive.io/reference/funciones/elements)que permite al usuario abrir un menú lateral para acceder a un menú de inicio rápido.
 
 ![](../../../.gitbook/assets/captura-de-pantalla-2020-02-10-a-la-s-10.22.52.png)
 
-#### How to open the left navigation bar
+#### Cómo abrir la barra de navegación izquierda
 
-1. Click on the menu button.
-2. Activate the left navigation bar.
-3. Click on the left navigation button to modify this element.
+1. Haga clic en el botón de menú.
+2. Activar la barra de navegación izquierda.
+3. Haga clic en el botón de navegación izquierdo para modificar este elemento.
 
 ![](../../../.gitbook/assets/ezgif.com-video-to-gif-22.gif)
 
-### ↗ Callbacks <a id="entry-vars"></a>
+### ↗ Callbacks \(Devoluciones de llamada\) <a id="entry-vars"></a>
 
-* **Error opening side menu:** you can set functions if the side menu isn't opened correctly.
-* **Side menu opened:** you can set functions after the side menu is opened correctly.
+* **Error al abrir el menú lateral:** puede configurar funciones si el menú lateral no se abre correctamente.
+* **Menú lateral abierto:** puede configurar funciones después de que el menú lateral se abra correctamente.
 
-###  👉 Example.  <a id="examples"></a>
+###  👉 Ejemplo.  <a id="examples"></a>
 
-![Activate the function toggle side menu to open the side menu. ](../../../.gitbook/assets/ezgif.com-video-to-gif-7%20%282%29.gif)
-
-![The user can open the side menu when he press the button.](../../../.gitbook/assets/ezgif.com-video-to-gif-8.gif)
+![](../../../.gitbook/assets/ezgif.com-video-to-gif-8.gif)
 

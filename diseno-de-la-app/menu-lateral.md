@@ -4,23 +4,23 @@ description: Add a sidebar to your app
 
 # Menu lateral
 
-The sidebar is a control you can activate on any screen of your app, the content of the sidebar will be the same in all your app screens
+La barra lateral es un control que puede activar en cualquier pantalla de su aplicación, el contenido de la barra lateral será el mismo en todas las pantallas de su aplicación
 
-### Activate the sidebar
+### Activar la barra lateral
 
-To activate the sidebar just click on the "Left navigation bar" on the menu option you can find on the right sidebar:
+Para activar la barra lateral, simplemente haga clic en la "Barra de navegación izquierda" en la opción de menú que puede encontrar en la barra lateral derecha:
 
 ![Activate the sidebar](../.gitbook/assets/sidebar.gif)
 
-### Add controls in a sidebar
+### Agregar controles en una barra lateral
 
-You can add any control in a sidebar, once activated you need to open the sidebar and drag and drop any element you what to add
+Puede agregar cualquier control en una barra lateral, una vez activado, debe abrir la barra lateral y arrastrar y soltar cualquier elemento que desee agregar
 
 ![Add controls in a sidebar](../.gitbook/assets/add-elements-to-sidebar.gif)
 
 ### Ocultar o mostrar el  la barra lateral
 
-Para olcutar o mostrar la barra lateral puedes ocupar la función siguiente:
+Para ocultar o mostrar la barra lateral puedes ocupar la función siguiente:
 
 {% page-ref page="../reference/funciones/elements/toogle-side-menu.md" %}
 

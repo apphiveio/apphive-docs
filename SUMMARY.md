@@ -8,7 +8,7 @@
 
 * [🆕 Crea un nuevo proyecto](crear-un-nuevo-proyecto/README.md)
   * [Iniciar con una plantilla](crear-un-nuevo-proyecto/start-using-a-template.md)
-  * [Start From Scratch](crear-un-nuevo-proyecto/start-from-scratch.md)
+  * [Empezar desde el principio](crear-un-nuevo-proyecto/start-from-scratch.md)
 * [📐 Diseño de la app](diseno-de-la-app/README.md)
   * [Trabajar con contenedores](diseno-de-la-app/trabajar-con-contenedores.md)
   * [Diseño responsivo](diseno-de-la-app/diseno-responsivo.md)
