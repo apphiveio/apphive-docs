@@ -224,11 +224,18 @@
 * [Publish Website](publish/publish-website.md)
 * [Publish Web App](publish/publish-web-app.md)
 * [Publish to Play Store \(Android\)](publish/publish-to-play-store-android/README.md)
-  * [Add a Splash Screen](publish/publish-to-play-store-android/add-a-splash-screen.md)
+  * [Ajustes Previos](publish/publish-to-play-store-android/ajustes-previos-play-store.md)
+  * [Crear Cuenta de Desarrollador en Play Store](publish/publish-to-play-store-android/crear-cuenta-de-desarrollador-en-play-store.md)
+  * [Carga tu App a Google Play](publish/publish-to-play-store-android/carga-tu-app-a-google-play.md)
+  * [Ajustes Posteriores](publish/publish-to-play-store-android/ajustes-posteriores.md)
 * [Publish to App Store \(IOS\)](publish/publish-to-app-store-ios/README.md)
-  * [Add a Splash Screen](publish/publish-to-app-store-ios/add-a-splash-screen.md)
-* [Publish to Apphive Store](publish/publish-to-apphive-store.md)
-* [Export binaries \(.ipa, .apk\)](publish/export-binaries-.ipa-.apk.md)
+  * [Ajustes Previos](publish/publish-to-app-store-ios/ajustes-previos.md)
+  * [Crear Cuenta de Desarrollador en App Store](publish/publish-to-app-store-ios/crear-cuenta-de-desarrollador-en-app-store.md)
+  * [Certificados, Identificadores y Perfiles.](publish/publish-to-app-store-ios/certificados-identificadores-y-perfiles..md)
+  * [Crear Capturas de Pantalla para Publicar en App Store](publish/publish-to-app-store-ios/crear-capturas-de-pantalla-para-publicar-en-app-store.md)
+  * [Como Llenar el Formulario de la App Store](publish/publish-to-app-store-ios/como-llenar-el-formulario-de-la-app-store.md)
+* [Export binaries APK](publish/export-binaries-.ipa-.apk/README.md)
+  * [Ajustes Previos y Proceso](publish/export-binaries-.ipa-.apk/ajustes-previos-y-proceso.md)
 
 ## Tutorials
 
