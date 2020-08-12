@@ -1,7 +1,5 @@
 # Publicar en Play Store \(Android\)
 
-
-
 {% page-ref page="ajustes-previos-play-store.md" %}
 
 {% page-ref page="crear-cuenta-de-desarrollador-en-play-store.md" %}
