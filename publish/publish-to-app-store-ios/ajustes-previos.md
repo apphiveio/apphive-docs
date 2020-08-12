@@ -4,7 +4,7 @@ description: >-
   que debes seguir
 ---
 
-# Ajustes Previos
+# 1. Ajustes Previos
 
 1.- Debes contar con una suscripción Unlimited para poder obtener este servicio [Obtenerlo aqui](https://apphive.io/es/precio)  
   

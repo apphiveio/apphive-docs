@@ -229,7 +229,7 @@
   * [3. Carga tu App a Google Play](publish/publish-to-play-store-android/carga-tu-app-a-google-play.md)
   * [4. Ajustes Posteriores](publish/publish-to-play-store-android/ajustes-posteriores.md)
 * [Publish to App Store \(IOS\)](publish/publish-to-app-store-ios/README.md)
-  * [Ajustes Previos](publish/publish-to-app-store-ios/ajustes-previos.md)
+  * [1. Ajustes Previos](publish/publish-to-app-store-ios/ajustes-previos.md)
   * [Crear Cuenta de Desarrollador en App Store](publish/publish-to-app-store-ios/crear-cuenta-de-desarrollador-en-app-store.md)
   * [Certificados, Identificadores y Perfiles.](publish/publish-to-app-store-ios/certificados-identificadores-y-perfiles..md)
   * [Crear Capturas de Pantalla para Publicar en App Store](publish/publish-to-app-store-ios/crear-capturas-de-pantalla-para-publicar-en-app-store.md)
