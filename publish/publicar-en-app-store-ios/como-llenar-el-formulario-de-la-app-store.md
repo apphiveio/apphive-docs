@@ -22,5 +22,9 @@ description: >-
 **Apple solicita mucha información sobre tu app, por eso el proceso se puede sentir un poco largo, tanto que puede requerir de 20 a 30 minutos completar los pasos necesarios.**
 {% endhint %}
 
+Cada vez que compiles obtendrás una nueva versión en la sección de TestFlight te mostramos como hacer el lanzamiento de una nueva versión en el siguiente video: [Nueva versión en App Store](https://drive.google.com/file/d/1EDo-rZzg0CVBltj-SBrW9Fxyj0Z0OtZa/view?usp=sharing)
+
+{% embed url="https://drive.google.com/file/d/1EDo-rZzg0CVBltj-SBrW9Fxyj0Z0OtZa/view?usp=sharing" %}
+
 En caso de que requieras más información comunicate por el chat con el equipo de soporte para recibir asesoramiento.
 
