@@ -16,13 +16,13 @@ description: >-
 **Obligatorio uno por proyecto, no por cada app.**
 {% endhint %}
 
-El email a agregar es: [jorge@apphive.io](mailto:jorge@apphive.io)  
+El email a agregar es: [soporte@apphive.io](mailto:soporte@apphive.io)  
   
 ****3.- ¿Tienes accesos con Facebook dentro de tu App? Si la respuesta es un si, es necesario que generes el siguiente proceso: [Obtener app en Facebook Developers](https://drive.google.com/file/d/1cq0QWbMB4wsSEk_qC3WlLhqXWfKhLpTU/view)
 
 {% embed url="https://drive.google.com/file/d/1cq0QWbMB4wsSEk\_qC3WlLhqXWfKhLpTU/view?usp=sharing" %}
 
-El ID a agregar es: jorgeluis.rangel.5855 
+El ID a agregar es: 100054420752837
 
 {% hint style="warning" %}
 **Obligatorio: uno por proyecto en caso de utilizar inicio de sesión con Facebook, no por cada app.**
