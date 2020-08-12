@@ -6,6 +6,10 @@ description: >-
 
 # 5. Como Llenar el Formulario de la App Store
 
+{% hint style="danger" %}
+**No podrás hacer inicio de sesión con cuentas de Facebook o Gmail en tus apps hasta que concluyas todos los pasos del 1 al 5 de** [Publicar en App Store \(IOS\)](https://app.gitbook.com/@apphive/s/apphive/~/drafts/-MEZeXEqtr3sMGulYIlG/publish/publicar-en-app-store-ios)
+{% endhint %}
+
 1.- Entra en [https://appstoreconnect.apple.com/](https://appstoreconnect.apple.com/) 
 
 ![](../../.gitbook/assets/image%20%2813%29.png)

@@ -6,6 +6,10 @@ description: >-
 
 # 1. Ajustes Previos
 
+{% hint style="danger" %}
+**No podrás hacer inicio de sesión con cuentas de Facebook o Gmail en tus apps hasta que concluyas todos los pasos del 1 al 5 de** [Publicar en App Store \(IOS\)](https://app.gitbook.com/@apphive/s/apphive/~/drafts/-MEZeXEqtr3sMGulYIlG/publish/publicar-en-app-store-ios)
+{% endhint %}
+
 1.- Debes contar con una suscripción Unlimited para poder obtener este servicio [Obtenerlo aqui](https://www.jotform.com/201075135847050)  
   
 2.- Es necesario que tu proyecto tenga una cuenta de Firebase con un plan Blaze activo puedes hacerlo con el siguiente tutorial: [Firebase en plan Blaze](https://comunidad.apphive.io/t/importante-actualizacion-de-google-firebase-de-plan-free-a-plan-blaze/1169) Con la finalidad de alojar tu proyecto de manera independiente al servidor de Apphive, esto te permitirá mantener la administración del espacio disponible de tu proyecto. Para ello deberás seguir este tutorial: [Como obtener tu propia Firebase](https://drive.google.com/file/d/1POG8ny8yrKWe0lpSpkV8_HQvwv8CgM2f/view?usp=sharing)
