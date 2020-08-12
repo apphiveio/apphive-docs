@@ -19,9 +19,5 @@ Apple solicita mucha información sobre tu app, por eso el proceso se puede sent
 
 En caso de que requieras más información comunicate por el chat con el equipo de soporte para recibir asesoramiento.
 
-{% hint style="success" %}
-Podrás recibir un correo electrónico de Apple similar al de la parte inferior, esta es solo una advertencia pero no previene la publicación de tu app en la App Store, recomendamos leerlo para saber que ajustes debes realizar en una nueva actualización.
-{% endhint %}
 
-![](../../.gitbook/assets/image%20%2817%29.png)
 
