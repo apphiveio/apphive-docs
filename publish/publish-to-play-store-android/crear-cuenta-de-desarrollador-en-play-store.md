@@ -5,7 +5,7 @@ description: >-
   a tu suscripción en Apphive.
 ---
 
-# Crear Cuenta de Desarrollador en Play Store
+# 2. Crear Cuenta de Desarrollador en Play Store
 
 Google Play Store, $25 USD, pago único de por vida, puedes subir todas las apps que quieras desde Apphive o cualquier plataforma
 

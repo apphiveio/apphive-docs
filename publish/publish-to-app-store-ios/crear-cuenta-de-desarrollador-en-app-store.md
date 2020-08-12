@@ -13,7 +13,7 @@ App Store \(IOS\), $99 USD/anuales, puedes subir todas las apps que quieras desd
 
 ![](../../.gitbook/assets/image%20%2814%29.png)
 
-{% hint style="success" %}
+{% hint style="warning" %}
 Puedes crear tu cuenta de desarrollador de persona o de empresa, para empresa deberás tramitar primero tu numero D-U-N-S en [https://developer.apple.com/enroll/duns-lookup/\#!/search 1](https://developer.apple.com/enroll/duns-lookup/#!/search), para persona sólo necesitas registrarte con tu email y datos personales.
 {% endhint %}
 

@@ -4,7 +4,7 @@ description: >-
   envío por correo a tu Play Store y así administrar el lanzamiento de tu app.
 ---
 
-# Carga tu App a Google Play
+# 3. Carga tu App a Google Play
 
 Accede a tu panel de Google Play Console para generar el siguiente proceso: [Proceso de publicación en Google Play](https://drive.google.com/file/d/1jqvCz_oIPf76LWOJGxabNjmsDXRLAKmJ/view?usp=sharing)  
   
