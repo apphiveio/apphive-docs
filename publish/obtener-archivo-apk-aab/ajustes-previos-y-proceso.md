@@ -98,5 +98,3 @@ Google Api Key:** [**¿Cómo conseguirlo?**](https://drive.google.com/file/d/1zH
 
 {% embed url="https://drive.google.com/file/d/1gq3LoCrAvOcXlRtd2m\_NJIN3RDT-c4Sg/view?usp=sharing" %}
 
-
-
