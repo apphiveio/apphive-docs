@@ -91,7 +91,7 @@ Google Api Key:** [**¿Cómo conseguirlo?**](https://drive.google.com/file/d/1zH
 **Te recomendamos checar tu correo no deseado o spam y agregar la cuenta** [**support@apphive.io**](mailto:support@apphive.io) **a tu lista de contactos de correo para evitarlo.**
 {% endhint %}
 
-7.-  Cuando recibas tus archivos por correo en caso de tu app cuente con acceso mediante Facebook te enviaremos los siguientes datos de tu app por el chat de soporte para que termines el proceso en tu Facebook Developers
+7.-  Cuando recibas tus archivos por correo en caso de que tu app cuente con acceso mediante Facebook te enviaremos los siguientes datos dependiendo de tu app por el chat de soporte para que termines el proceso en tu Facebook Developers
 
 **Android app ID :** io.apphive.clientapps.apprestaurantes8  
  **Codigo base:** zY00cczs2SG28RTn1bZQvsCftvI= 
