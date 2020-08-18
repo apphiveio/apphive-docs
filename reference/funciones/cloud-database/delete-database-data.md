@@ -1,8 +1,8 @@
 ---
-description: Delete a register or all registers in cloud database.
+description: Elimina un registro o todos los registros de la base de datos en la nube.
 ---
 
-# Delete Database Data
+# Eliminar datos de la base de datos \(Delete Database Data\)
 
 The delete database data is a function in the cloud database functions which allows to the user [delete registers](../../base-de-datos/database/delete-data.md) in the cloud database by pressing a element or loading a screen, this is the most useful function for admins apps because the admin can delete a user or all users and their information.
 

@@ -4,49 +4,42 @@ description: Obtain registers from the cloud database data.
 
 # Get Database Data
 
-The get database data is a function in the [cloud database](./) functions which allows to get register from the cloud database data, this function is very useful because this get information of user, products, settings to show in the app.
+Agregar colección a la interfaz de usuario es una función en las funciones de [elementos](https://docs.apphive.io/reference/funciones/elements) que permite crear listas de elementos y modificar utilizando los registros en los datos de la [base de datos. ](https://docs.apphive.io/reference/funciones/elements/add-collections-to-ui)
 
-![](../../../.gitbook/assets/captura-de-pantalla-2020-02-10-a-la-s-11.39.19.png)
+![](../../../.gitbook/assets/captura-de-pantalla-2020-02-10-a-la-s-10.26.28.png)
 
+### 📥 Entry vars  \(Variables de entrada\) <a id="entry-vars"></a>
 
+* **Enable horizontal:** puede seleccionar para ver su lista de forma horizontal
+* **List data:** seleccione la salida para recuperar la lista.
+* **List instructions.** 
+* **Modify element:** abre un modificador en los elementos de tu lista.
+* **List reverse:** cambiar el orden de los elementos de la lista.
+* **Scroll inverted:** cambiar la dirección del desplazamiento en la lista.
 
-### 📥 Entry vars <a id="entry-vars"></a>
-
-* **Filter:**  you can set a filter for the get database data.
-* **Is real time:** you can activate this if the register will be consulting in real time.
-* **Limit to fist:**  you can set a number to start each consult in the database data.
-* **Limit to last:** you can set a number to finish each consult in the database data.
-* **Order by:** you can set an order for the consulting in the database data.
-* **Database path:** open the [editor](../../base-de-datos/database-editor/edit-data.md) of the database data 
-* **Time to refresh \(seconds\):** you can set a number for create a refresh on the consult in database data.
-
-### \*\*\*\*↗ **Callbacks**
-
-* **Permission denied:** you can set functions if there was a problem with a permission to get access to data in database
-* **Empty data:** you can set functions if there aren't anything in the database path selected.
-* **Data obtained:** you can set functions if the data was obtained successfully from the selected database path.
-
-### 👉 Example.  <a id="examples"></a>
+### 👉 Ejemplo.  <a id="examples"></a>
 
 ![](../../../.gitbook/assets/ezgif.com-video-to-gif-10%20%281%29.gif)
 
-#### Use the database element.
+**Utilice el elemento de la base de datos**.
 
-1. Activate the [get database data](get-database-data.md) and open database path.
-2. Add a collection "Driver list" 
-3. Add fields "address, name, phone number, photo and plates"
-4. Push the button view data 
-5. Press the button Add to add a record to "Driver list".
+1. Active la obtención de datos de la base de datos \([get database data](get-database-data.md)\)
 
-#### Add a collection to UI.
+    y abra la ruta de la base de datos.
 
-1. Add a collection to UI in the callback of the get [database data](../../base-de-datos/) when data obtained.
-2. Select the previous output get database data in the list data.
-3. Click on the button [modify elements](../elements/modify-control.md).
-4. Select a container with elements to modify.
-5. Click on list data and select the element to modify.
-6. Select a control property to change like text.
-7. Open the list context and write the name of the element to show in the database.
+2. Agregar una colección "Lista de controladores" Agregue los campos "dirección, nombre, número de teléfono, foto y placas"
+3. Presione el botón ver dato
+4. Presione el botón Agregar para agregar un registro a la "Lista de controladores". \("Driver list"\).
 
-![](../../../.gitbook/assets/ezgif.com-video-to-gif-12%20%281%29.gif)
+#### Add a collection to UI. \(Agregar una colección a la interfaz de usuario\)
+
+1. Agregue una colección a la interfaz de usuario en la devolución de llamada de obtener datos de la [base de datos](https://docs.apphive.io/reference/base-de-datos) cuando se obtengan los datos.
+2. Seleccione la salida anterior para obtener datos de la base de datos en la lista de datos.
+3. Haga clic en el botón modificar elementos. \([modify elements](../elements/modify-control.md)\).
+4. Seleccione un contenedor con elementos para modificar.
+5. Haga clic en los datos de la lista y seleccione el elemento a modificar.
+6. Seleccione una propiedad de control para cambiarla como texto.
+7. Abra el contexto de la lista y escriba el nombre del elemento para mostrar en la base de datos.
+
+![Reload the page to check the modified elements in your list.](../../../.gitbook/assets/ezgif.com-video-to-gif-12%20%281%29.gif)
 

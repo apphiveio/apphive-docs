@@ -1,27 +1,29 @@
 ---
-description: Create list of elements using data in the database data
+description: >-
+  (Agregar colecciones a la interfaz de usuario) Crear una lista de elementos
+  usando datos en la base de datos.
 ---
 
 # Add Collections To UI
 
-The add collection to UI is a function in the [elements](./) functions which allows to create lists of elements and modify using the registers on the [database data.](../../base-de-datos/) 
+Agregar colección a la interfaz de usuario es una función en las funciones de [elementos](https://docs.apphive.io/reference/funciones/elements) que permite crear listas de elementos y modificar utilizando los registros en los datos de la [base de datos. ](https://docs.apphive.io/reference/funciones/elements/add-collections-to-ui)
 
 ![](../../../.gitbook/assets/captura-de-pantalla-2020-02-10-a-la-s-10.26.28.png)
 
-### 📥 Entry vars <a id="entry-vars"></a>
+### 📥 Entry vars  \(Variables de entrada\) <a id="entry-vars"></a>
 
-* **Enable horizontal:** you can select to see you list in a horizontal way
-* **List data:** select the output for retrieve the list.
+* **Enable horizontal:** puede seleccionar para ver su lista de forma horizontal
+* **List data:** seleccione la salida para recuperar la lista.
 * **List instructions.** 
-* **Modify element:** open a modifier on elements in your list.
-* **List reverse:** change the order of the elements on the list.
-* **Scroll inverted:** change the direction of the scroll in the list.
+* **Modify element:** abre un modificador en los elementos de tu lista.
+* **List reverse:** cambiar el orden de los elementos de la lista.
+* **Scroll inverted:** cambiar la dirección del desplazamiento en la lista.
 
-### 👉 Example.  <a id="examples"></a>
+### 👉 Ejemplo.  <a id="examples"></a>
 
 ![](../../../.gitbook/assets/ezgif.com-video-to-gif-10%20%281%29.gif)
 
-#### Use the database element.
+**Utilice el elemento de la base de datos**.
 
 1. Activate the [get database data](../cloud-database/get-database-data.md) and open database path.
 2. Add a collection "Driver list" 

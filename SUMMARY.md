@@ -95,7 +95,7 @@
     * [Update Data From Other User](reference/funciones/users/update-data-from-other-user.md)
   * [Cloud Database](reference/funciones/cloud-database/README.md)
     * [Copy Data From Path](reference/funciones/cloud-database/copy-data-from-path.md)
-    * [Delete Database Data](reference/funciones/cloud-database/delete-database-data.md)
+    * [Eliminar datos de la base de datos \(Delete Database Data\)](reference/funciones/cloud-database/delete-database-data.md)
     * [Get Database Data](reference/funciones/cloud-database/get-database-data.md)
     * [Save Data in Database](reference/funciones/cloud-database/save-data-in-database.md)
     * [Upload File](reference/funciones/cloud-database/upload-file.md)
