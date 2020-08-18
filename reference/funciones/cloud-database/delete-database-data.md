@@ -4,33 +4,33 @@ description: Elimina un registro o todos los registros de la base de datos en la
 
 # Eliminar datos de la base de datos \(Delete Database Data\)
 
-The delete database data is a function in the cloud database functions which allows to the user [delete registers](../../base-de-datos/database/delete-data.md) in the cloud database by pressing a element or loading a screen, this is the most useful function for admins apps because the admin can delete a user or all users and their information.
+La eliminación de datos de la base de datos es una función en las funciones de la base de datos en la nube que le permite al usuario eliminar registros [\(delete registers\)](https://docs.apphive.io/reference/base-de-datos/database/delete-data)en la base de datos en la nube presionando un elemento o cargando una pantalla, esta es la función más útil para las aplicaciones de administrador porque el administrador puede eliminar un usuario o todos usuarios y su información.
 
 
 
 ![](../../../.gitbook/assets/captura-de-pantalla-2020-02-10-a-la-s-11.33.10.png)
 
-### 📥 Entry vars <a id="entry-vars"></a>
+### 📥 Entry vars \(variables de entrada\) <a id="entry-vars"></a>
 
-* **Should update DB cache:** you could activate this function to update de database cache data.
-* **Updates to make to the DB:** you can open the database path to view and [modify the database ](../../base-de-datos/database-editor/edit-data.md)
-* **Database path:** you can open the [database path](../../base-de-datos/database-editor/open-database-editor.md) to view and modify the database
+* **Debería actualizar la caché de la base de datos:** puede activar esta función para actualizar los datos del caché de la base de datos.
+* Actualizaciones para realizar en la base de datos: puede abrir la ruta de la base de datos para ver y [modificar la base de datos](https://docs.apphive.io/reference/base-de-datos/database-editor/edit-data)[ ](../../base-de-datos/database-editor/edit-data.md)
+* Ruta de la base de datos: puede abrir la [ruta de la base de datos](https://docs.apphive.io/reference/base-de-datos/database-editor/open-database-editor) para ver y modificar la base de datos
 
 ### \*\*\*\*↗ **Callbacks**
 
-* **Error deleting data:** you can set functions after the database can't be deleted
-* **Data deleted:** you can set functions after the database can be deleted.
+* **Error al eliminar datos:** puede configurar funciones después de que la base de datos no se pueda eliminar 
+* **Datos eliminados:** puede configurar funciones después de que se pueda eliminar la base de datos.
 
 ![](../../../.gitbook/assets/ezgif.com-video-to-gif-4.gif)
 
-1. Select the button.
-2. Add a on press.
-3. Activate the delete database data function
-4. Open the [database path](../../base-de-datos/database-editor/open-database-editor.md) and select which [collection](../../base-de-datos/) will be deleted.
-5. Add a [new register](../../base-de-datos/database-editor/add-data.md) in cloud database data.
-6. Activate the function of should update DB cache.
-7. Add a [send alert](../notifications/send-alert.md) on the error deleting data.
-8. Activate a [send alert](../notifications/send-alert.md) in the data deleted section.
+1. Seleccione el botón
+2. Agregue un en prensa.
+3. Activar la función de borrar datos de la base de datos
+4. Abra la[ ruta de la base de datos](https://docs.apphive.io/reference/base-de-datos/database-editor/open-database-editor) y seleccione qué [colección](https://docs.apphive.io/reference/base-de-datos) se eliminará.
+5. Agregue un [nuevo registro](https://docs.apphive.io/reference/base-de-datos/database-editor/add-data) en los datos de la base de datos en la nube.
+6. Active la función de debería actualizar la caché de la base de datos.
+7. Agregue una alerta de envío \([send alert](../notifications/send-alert.md)\) sobre el error al eliminar datos.
+8. Active una [alerta de envío](https://docs.apphive.io/reference/funciones/notifications/send-alert) en la sección de datos eliminados.
 
 ![Once you push the button all the drivers register is deleted](../../../.gitbook/assets/ezgif.com-video-to-gif-5.gif)
 
