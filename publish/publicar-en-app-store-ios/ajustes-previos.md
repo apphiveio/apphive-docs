@@ -61,6 +61,7 @@ Google Api Key:** [**¿Cómo conseguirlo?**](https://drive.google.com/file/d/1zH
 **Activar acceso mediante correo electrónico:**[ **¿Cómo activarlo?**](https://drive.google.com/file/d/1cHCwfxPWLiu07yOQPHnSPjYP_wYGEwxo/view?usp=sharing)  
 **Activar Firebase Blaze e inicio de sesión múltiple:** [**¿Cómo activarlo?**](https://drive.google.com/file/d/1xdFArf8cTDtxAfu6EneYlwUtPpip3XHz/view?usp=sharing)  
 **Activar acceso mediante Gmail:** [**¿Cómo activarlo?**](https://drive.google.com/file/d/1nvEkANRGAsbPavtZ9Vm4UGWMi06NKNtZ/view?usp=sharing)  
+**Activar acceso mediante Apple:** [**¿Cómo activarlo?**](https://drive.google.com/file/d/14cnJPNrmcxtvlncEe1oKneK7wRT4FD5B/view?usp=sharing)  
 **Facebook app ID:** [**¿Cómo conseguirlo?**](https://drive.google.com/file/d/1qRUlv-Zk9zwerIqTocK-kBJbpDlH7vKM/view?usp=sharing)  
 **Activar acceso mediante Facebook** [**¿Cómo activarlo?**](https://drive.google.com/file/d/1Fvy2wC1_4bXPc6DXDE4_9EzJB5LWuJ0G/view?usp=sharing)  
 **Nombre de la app:** [**¿Cómo conseguirlo?**](https://drive.google.com/file/d/1ONQfKG8AZtcKbtxfaOKGPHh8s3d0fWHk/view?usp=sharing)  
@@ -79,6 +80,7 @@ Google Api Key:** [**¿Cómo conseguirlo?**](https://drive.google.com/file/d/1zH
 **Activar acceso mediante correo electrónico:** Activado  
 **Activar Firebase Blaze e inicio de sesión múltiple:** Activado  
 **Activar acceso mediante Gmail:** Activado  
+**Activar acceso mediante Apple:** Activado  
 **Facebook app ID:** 2105621096236436  
 **Activar acceso mediante Facebook:** Activado  
 **Nombre de la app:** User App  
