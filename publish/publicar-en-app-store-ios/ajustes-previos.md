@@ -61,6 +61,7 @@ Correo electrónico de suscripción
 Google Api Key:** [**¿Cómo conseguirlo?**](https://drive.google.com/file/d/1zHK8N_rBo1WHeG0mFvv_-J53ROz9Zm4-/view?usp=sharing)  
 **Nombre del proyecto de Firebase:** [**¿Cómo conseguirlo?**](https://drive.google.com/file/d/1eiZx1pZyJ1FzpSOaLoHnJuS20DejkfcP/view?usp=sharing)  
 **Activar base de datos en tiempo real:** [**¿Cómo activarla?**](https://drive.google.com/file/d/1oSQDimhwqn7omPs1fELwRJdMpeVyuMXb/view?usp=sharing)  
+**Activar base de datos en tiempo real:** [**¿Cómo activarla?**](https://drive.google.com/file/d/1oSQDimhwqn7omPs1fELwRJdMpeVyuMXb/view?usp=sharing)  
 **URL de Firestorage:** [**¿Cómo conseguirlo?**](https://drive.google.com/file/d/1_Ixnuaxb2ns2vJrU5ouN0tvV53FNaiNU/view?usp=sharing)  
 **Archivo service account:** [**¿Cómo conseguirlo?**](https://drive.google.com/file/d/1FQOrF0ehbrIzGaKk7QyYSlf0c1993ov3/view?usp=sharing)  
 **Conexión de cliente:** [**¿Cómo conseguirlo?**](https://drive.google.com/file/d/1agKtTRYu7_LQrqJx7VGYkTgvmt3myGs8/view?usp=sharing)  
