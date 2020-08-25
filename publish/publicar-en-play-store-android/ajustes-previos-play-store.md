@@ -17,7 +17,7 @@ description: >-
 {% embed url="https://drive.google.com/file/d/1POG8ny8yrKWe0lpSpkV8\_HQvwv8CgM2f/view?usp=sharing" %}
 
 {% hint style="danger" %}
-**Obligatorio agregar como propietario ambas cuentas**  [soporte@apphive.io](mailto:soporte@apphive.io) y [jorge@apphive.io](mailto:jorge@apphive.io)
+**Obligatorio agregar como propietario ambas cuentas:** [jorge@apphive.io](mailto:jorge@apphive.io) y [soporte@apphive.io](mailto:soporte@apphive.io)
 {% endhint %}
 
 {% hint style="warning" %}
@@ -32,7 +32,7 @@ description: >-
 **Obligatorio agregar como administrador los siguientes ID: jorgeluis.rangel.5855 y apphiveapps**
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 **Obligatorio: uno por proyecto en caso de utilizar inicio de sesión con Facebook, no por cada app.**
 {% endhint %}
 
@@ -45,6 +45,7 @@ Correo electrónico
 Correo electrónico de suscripción  
 Google Api Key:** [**¿Cómo conseguirlo?**](https://drive.google.com/file/d/1zHK8N_rBo1WHeG0mFvv_-J53ROz9Zm4-/view?usp=sharing)  
 **Nombre del proyecto de Firebase:** [**¿Cómo conseguirlo?**](https://drive.google.com/file/d/1eiZx1pZyJ1FzpSOaLoHnJuS20DejkfcP/view?usp=sharing)  
+**Activar base de datos en tiempo real:** [**¿Cómo activarla?**](https://drive.google.com/file/d/1oSQDimhwqn7omPs1fELwRJdMpeVyuMXb/view?usp=sharing)  
 **Activar base de datos en tiempo real:** [**¿Cómo activarla?**](https://drive.google.com/file/d/1oSQDimhwqn7omPs1fELwRJdMpeVyuMXb/view?usp=sharing)  
 **URL de Firestorage:** [**¿Cómo conseguirlo?**](https://drive.google.com/file/d/1_Ixnuaxb2ns2vJrU5ouN0tvV53FNaiNU/view?usp=sharing)  
 **Archivo service account:** [**¿Cómo conseguirlo?**](https://drive.google.com/file/d/1FQOrF0ehbrIzGaKk7QyYSlf0c1993ov3/view?usp=sharing)  
