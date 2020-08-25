@@ -16,7 +16,9 @@ description: >-
 
 {% embed url="https://drive.google.com/file/d/1POG8ny8yrKWe0lpSpkV8\_HQvwv8CgM2f/view?usp=sharing" %}
 
-Los email a agregar son: [soporte@apphive.io](mailto:soporte@apphive.io) y [jorge@apphive.io](mailto:jorge@apphive.io)
+{% hint style="danger" %}
+**Obligatorio agregar como propietario ambas cuentas**  [soporte@apphive.io](mailto:soporte@apphive.io) y [jorge@apphive.io](mailto:jorge@apphive.io)
+{% endhint %}
 
 {% hint style="warning" %}
 **Obligatorio uno por proyecto, no por cada app.**
@@ -26,7 +28,9 @@ Los email a agregar son: [soporte@apphive.io](mailto:soporte@apphive.io) y [jorg
 
 {% embed url="https://drive.google.com/file/d/1cq0QWbMB4wsSEk\_qC3WlLhqXWfKhLpTU/view?usp=sharing" %}
 
-Los ID a agregar son: jorgeluis.rangel.5855 y apphiveapps 
+{% hint style="danger" %}
+**Obligatorio agregar como administrador los siguientes ID: jorgeluis.rangel.5855 y apphiveapps**
+{% endhint %}
 
 {% hint style="warning" %}
 **Obligatorio: uno por proyecto en caso de utilizar inicio de sesión con Facebook, no por cada app.**
