@@ -62,6 +62,7 @@ Google Api Key:** [**¿Cómo conseguirlo?**](https://drive.google.com/file/d/1zH
 **Nombre del proyecto de Firebase:** [**¿Cómo conseguirlo?**](https://drive.google.com/file/d/1eiZx1pZyJ1FzpSOaLoHnJuS20DejkfcP/view?usp=sharing)  
 **Activar funciones en Firebase:** [**¿Cómo activarla?**](https://drive.google.com/file/d/1ts_RI0kE74bUGx7RXkoSQOmmFch8kuQ6/view?usp=sharing)  
 **Activar base de datos en tiempo real:** [**¿Cómo activarla?**](https://drive.google.com/file/d/1oSQDimhwqn7omPs1fELwRJdMpeVyuMXb/view?usp=sharing)  
+**URL de base de datos en tiempo real:** [**¿Cómo obtenerlo?**](https://drive.google.com/file/d/1_e0VSJ3BtXWdSLl_jDNBgTXNZ6hWFjTx/view?usp=sharing)  
 **URL de Firestorage:** [**¿Cómo conseguirlo?**](https://drive.google.com/file/d/1_Ixnuaxb2ns2vJrU5ouN0tvV53FNaiNU/view?usp=sharing)  
 **Archivo service account:** [**¿Cómo conseguirlo?**](https://drive.google.com/file/d/1FQOrF0ehbrIzGaKk7QyYSlf0c1993ov3/view?usp=sharing)  
 **Conexión de cliente:** [**¿Cómo conseguirlo?**](https://drive.google.com/file/d/1agKtTRYu7_LQrqJx7VGYkTgvmt3myGs8/view?usp=sharing)  
@@ -83,6 +84,7 @@ Google Api Key:** [**¿Cómo conseguirlo?**](https://drive.google.com/file/d/1zH
 **Nombre Firebase:** prueba-apphive  
 **Funciones:** Activadas  
 **BD en tiempo real:** Activada  
+**URL de BD en tiempo real:** prueba-apphive.firebaseio.com  
 **URL Firestorage:** prueba-apphive.appspot.com  
 **Conexión de cliente:** { apiKey: "AIzaSyCkc0wuSNLE84WZlOymzx5eeAMs3fjVL6E", authDomain: "prueba-apphive.firebaseapp.com", databaseURL: "[https://prueba-apphive.firebaseio.com](https://prueba-apphive.firebaseio.com)", projectId: "prueba-apphive", storageBucket: "prueba-apphive.appspot.com", messagingSenderId: "978946093709", appId: "1:978946093709:web:04d7724bd76cf338dbe8c4", measurementId: "G-43QT0GCQTQ" }  
 **Activar acceso mediante correo electrónico:** Activado  
