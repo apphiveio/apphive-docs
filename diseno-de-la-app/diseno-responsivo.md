@@ -1,5 +1,5 @@
 ---
-description: Create a responsive design for your app
+description: Crear un diseño responsivo para la app
 ---
 
 # Diseño responsivo
