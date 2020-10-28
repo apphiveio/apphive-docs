@@ -50,6 +50,10 @@ Así mismo se muestra un Slider que nos sirve para establecer que tan opaco se v
 
 ![](../../.gitbook/assets/image%20%2827%29.png)
 
+{% hint style="warning" %}
+Este elemento **Opacity** solamente se puede utilizar con los colores: **primario, secundario y escala de negros**
+{% endhint %}
+
 
 
 
