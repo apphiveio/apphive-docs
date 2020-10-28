@@ -8,7 +8,7 @@ description: >-
 
 ## Opciones de Direction
 
-![](../../.gitbook/assets/image%20%28109%29.png)
+![](../../.gitbook/assets/image%20%28120%29.png)
 
 Estos son los 4 tipos de direcciones que se utilizan
 
@@ -21,7 +21,7 @@ Estos son los 4 tipos de direcciones que se utilizan
 
 Esta opción alinea el contenido \(container, buton, text, text field, etc.\) dentro de un componente hacia la izquierda, esta alineación es del primer al ultimo elemento integrado
 
-| ![](../../.gitbook/assets/iz.jpg)  | ![](../../.gitbook/assets/image%20%28101%29.png)  |
+| ![](../../.gitbook/assets/iz.jpg)  | ![](../../.gitbook/assets/image%20%28110%29.png)  |
 | :---: | :---: |
 
 
@@ -29,7 +29,7 @@ Esta opción alinea el contenido \(container, buton, text, text field, etc.\) de
 
 Esta opción alinea el contenido \(container, buton, text, text field, etc.\) dentro de un componente hacia la derecha, esta alineación es del primer al ultimo elemento integrado
 
-| ![](../../.gitbook/assets/de.jpg)  | ![](../../.gitbook/assets/image%20%2890%29.png)  |
+| ![](../../.gitbook/assets/de.jpg)  | ![](../../.gitbook/assets/image%20%2891%29.png)  |
 | :---: | :---: |
 
 
@@ -45,7 +45,7 @@ Esta opción alinea el contenido \(container, buton, text, text field, etc.\) de
 
 Esta opción alinea el contenido \(container, buton, text, text field, etc.\) dentro de un componente hacia abajo, esta alineación es del primer al ultimo elemento integrado
 
-| ![](../../.gitbook/assets/ab.jpg)  | ![](../../.gitbook/assets/image%20%2891%29.png)  |
+| ![](../../.gitbook/assets/ab.jpg)  | ![](../../.gitbook/assets/image%20%2892%29.png)  |
 | :---: | :---: |
 
 
