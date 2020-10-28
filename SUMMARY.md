@@ -17,8 +17,10 @@
   * [IOS App Preview](previsualizador-apphive/ios-app-preview.md)
   * [Android App Preview](previsualizador-apphive/android-app-preview.md)
 
-## Reference
+## REFERENCE
 
+* [Controles](reference/controles/README.md)
+  * [Contenedores](reference/controles/contenedores.md)
 * [Base de datos 𝌏](reference/base-de-datos/README.md)
   * [Database Editor](reference/base-de-datos/database-editor/README.md)
     * [Open database editor](reference/base-de-datos/database-editor/open-database-editor.md)
@@ -174,6 +176,12 @@
 
 ## Global Functions
 
+* [Estilos](global-functions/estilos/README.md)
+  * [Background color](global-functions/estilos/background-color.md)
+  * [Background image](global-functions/estilos/background-image.md)
+  * [Border Radius](global-functions/estilos/border-radius.md)
+  * [Border Width](global-functions/estilos/border-width.md)
+  * [Dimentions](global-functions/estilos/dimentions.md)
 * [Funciones Globales](global-functions/funciones-globales.md)
 * [Notificaciones Push](global-functions/notificaciones-push.md)
 * [Funciones en la nube](global-functions/funciones-en-la-nube.md)
