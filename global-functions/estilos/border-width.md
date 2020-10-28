@@ -26,7 +26,7 @@ Todos los bordes que tengan el indicativo azul señalan que siempre tendrán el 
 
 ### Border color
 
-Cambia el color del del borde, mostrando 5 opciones para asignación de color [ver propiedades de color](https://docs.apphive.io/global-functions/estilos/border-width). Este color de borde aplica a todos los bordes sin excepción.
+Cambia el color del del borde, mostrando 5 opciones para asignación de color [ver propiedades de color](https://docs.apphive.io/global-functions/estilos/background-color). Este color de borde aplica a todos los bordes sin excepción.
 
 | ![](../../.gitbook/assets/image%20%2860%29.png)  | ![](../../.gitbook/assets/image%20%2833%29.png)  |
 | :---: | :---: |
