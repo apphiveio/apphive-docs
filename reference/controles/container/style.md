@@ -2,7 +2,7 @@
 
 ## Appeareance
 
-### Backgorund color 
+### Backgorund color
 
 Rellena el cuerpo del contenedor de un color solido [ver más](https://docs.apphive.io/global-functions/estilos/background-color)
 
@@ -15,6 +15,10 @@ Rellena el cuerpo del contenedor con una imagen seleccionada [ver más](https://
 ### Border Width
 
 Asigna el color, ancho y tipo de borde del componente [ver más](https://docs.apphive.io/global-functions/estilos/border-width)
+
+### Border Radius
+
+Redondea las esquinas del componente [ver más](https://docs.apphive.io/global-functions/estilos/border-radius)
 
 
 
