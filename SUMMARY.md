@@ -22,6 +22,7 @@
 * [Controles 🎮](reference/controles/README.md)
   * [Container](reference/controles/container/README.md)
     * [Style](reference/controles/container/style.md)
+    * [Data](reference/controles/container/data.md)
 * [Base de datos 𝌏](reference/base-de-datos/README.md)
   * [Database Editor](reference/base-de-datos/database-editor/README.md)
     * [Open database editor](reference/base-de-datos/database-editor/open-database-editor.md)
@@ -177,6 +178,10 @@
 
 ## Global Functions
 
+* [Data](global-functions/data/README.md)
+  * [Control name](global-functions/data/control-name.md)
+  * [Enable dynamic loading](global-functions/data/enable-dynamic-loading.md)
+  * [Control is hidden](global-functions/data/control-is-hidden.md)
 * [Estilos](global-functions/estilos/README.md)
   * [Background color](global-functions/estilos/background-color.md)
   * [Background image](global-functions/estilos/background-image.md)
