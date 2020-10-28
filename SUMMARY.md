@@ -19,8 +19,9 @@
 
 ## REFERENCE
 
-* [Controles](reference/controles/README.md)
-  * [Contenedores](reference/controles/contenedores.md)
+* [Controles 🎮](reference/controles/README.md)
+  * [Container](reference/controles/container/README.md)
+    * [Style](reference/controles/container/style.md)
 * [Base de datos 𝌏](reference/base-de-datos/README.md)
   * [Database Editor](reference/base-de-datos/database-editor/README.md)
     * [Open database editor](reference/base-de-datos/database-editor/open-database-editor.md)
@@ -182,6 +183,8 @@
   * [Border Radius](global-functions/estilos/border-radius.md)
   * [Border Width](global-functions/estilos/border-width.md)
   * [Dimentions](global-functions/estilos/dimentions.md)
+  * [Direction](global-functions/estilos/direction.md)
+  * [Margins](global-functions/estilos/margins.md)
 * [Funciones Globales](global-functions/funciones-globales.md)
 * [Notificaciones Push](global-functions/notificaciones-push.md)
 * [Funciones en la nube](global-functions/funciones-en-la-nube.md)

@@ -1,2 +1,2 @@
-# Controles
+# Controles 🎮
 
