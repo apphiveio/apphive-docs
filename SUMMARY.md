@@ -22,6 +22,7 @@
 * [Controles 🎮](reference/controles/README.md)
   * [Field](reference/controles/field/README.md)
     * [Style](reference/controles/field/style.md)
+    * [Data](reference/controles/field/data.md)
   * [Untitled](reference/controles/untitled.md)
   * [Container](reference/controles/container/README.md)
     * [Style](reference/controles/container/style.md)
