@@ -4,7 +4,7 @@
 
 ### Font Size
 
-permite cambiar el tamaño de la letra [ver más](https://docs.apphive.io/global-functions/estilos/font-size)
+Permite cambiar el tamaño de la letra [ver más](https://docs.apphive.io/global-functions/estilos/font-size)
 
 ### Text Align
 
