@@ -20,6 +20,9 @@
 ## REFERENCE
 
 * [Controles 🎮](reference/controles/README.md)
+  * [Field](reference/controles/field/README.md)
+    * [Style](reference/controles/field/style.md)
+  * [Untitled](reference/controles/untitled.md)
   * [Container](reference/controles/container/README.md)
     * [Style](reference/controles/container/style.md)
     * [Data](reference/controles/container/data.md)
@@ -188,6 +191,9 @@
   * [Control is hidden](global-functions/data/control-is-hidden.md)
 * [Estilos](global-functions/estilos/README.md)
   * [Background color](global-functions/estilos/background-color.md)
+  * [Font Size](global-functions/estilos/font-size.md)
+  * [Text Align](global-functions/estilos/text-align.md)
+  * [Text Color](global-functions/estilos/text-color.md)
   * [Background image](global-functions/estilos/background-image.md)
   * [Border Radius](global-functions/estilos/border-radius.md)
   * [Border Width](global-functions/estilos/border-width.md)
