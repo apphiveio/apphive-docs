@@ -165,3 +165,11 @@ Permite tener una ubicación cerca de un ponto geográfico, solo basta con coloc
 
 ## Button icon
 
+### Button icon
+
+Permite agregar un icono en el field [ver más](https://docs.apphive.io/global-functions/data/icon)
+
+### Direction
+
+Permite manipular la dirección del icono con respecto al texto [ver más](https://docs.apphive.io/global-functions/estilos/direction)
+
