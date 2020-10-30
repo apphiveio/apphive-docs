@@ -107,7 +107,61 @@ Cuando se activa deshabilita la capacidad de editar el field
 
 ## Text field advanced data
 
+### Type password
 
+![](../../../.gitbook/assets/image%20%28163%29.png)
 
+Representa un campo para contraseñas, su valor es ocultado \(generalmente, reemplazando sus caracteres con un símbolo carente de significado\) y no se les permite a los usuarios copiarlo al portapapeles. Esto actúa como una medida de seguridad que previene que el valor sea conocido por cualquier persona que no sea el usuario.
 
+### Multiples lines
+
+![](../../../.gitbook/assets/image%20%28164%29.png)
+
+Este elemento nos permite agregar múltiples líneas en el field y dar la apariencia de parrado, de esta manera se evita que el texto agregado no siga su recorrido continuo en una sola linea.
+
+### Input mask
+
+![](../../../.gitbook/assets/image%20%28175%29.png)
+
+Permite agregar una estructura al texto ingresado.
+
+Se puede agregar una estructura solamente de números, letras, alfanumérico o aceptar cualquier texto excepto espacios, si no se tiene nada ingresado en la casilla de input mask se permite ingresar cualquier tipo de texto sin discriminación a dígitos. 
+
+## Places autocomplete
+
+### Enable places autocomplete
+
+![](../../../.gitbook/assets/image%20%28166%29.png)
+
+Al activar este switch se activan nuevos elementos de manipulación, estos nuevos elementos se utilizan generalmente para poder autocompletar direcciones geográficas, como direcciones de calles, ciudades, etc.
+
+![](../../../.gitbook/assets/image%20%28165%29.png)
+
+{% hint style="warning" %}
+Solo se podrán visualizar en el render \(aplicación Apphive Previewer\) si se tiene integrada una key de la API Google
+{% endhint %}
+
+![](../../../.gitbook/assets/image%20%28167%29.png)
+
+Al seleccionar algunos de estos campos \(Geocode, Address, Regions, Cities, Establishment\) podrá mostrar las diferentes direcciones o establecimientos que coincidan con el texto ingresado en el field
+
+#### Search countries places autocomplete:
+
+![](../../../.gitbook/assets/image%20%28174%29.png)
+
+Este elemento nos permite seleccionar los diferentes paises que existen en el mundo, de esta manera las direcciones que aparezcan como sugerencia, serán las que se encuentren en el pais que se eligió.
+
+### Enable Multiline
+
+![](../../../.gitbook/assets/image%20%28170%29.png)
+
+Permite activar líneas múltiples
+
+### Near Location
+
+![](../../../.gitbook/assets/image%20%28168%29.png)
+
+Permite tener una ubicación cerca de un ponto geográfico, solo basta con colocar la latitud y longitud del la ubicación
+
+## Button icon
 

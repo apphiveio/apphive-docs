@@ -188,6 +188,7 @@
   * [OnPress](global-functions/events/onpress.md)
 * [Data](global-functions/data/README.md)
   * [Control name](global-functions/data/control-name.md)
+  * [Icon](global-functions/data/icon.md)
   * [Enable dynamic loading](global-functions/data/enable-dynamic-loading.md)
   * [Control is hidden](global-functions/data/control-is-hidden.md)
 * [Estilos](global-functions/estilos/README.md)
