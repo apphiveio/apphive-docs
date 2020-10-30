@@ -18,7 +18,7 @@ Permite cambiar el tamaño de la letra [ver más](https://docs.apphive.io/global
 
 ### Style
 
-Estas funciones permiten manipular el estilo del texto ver más
+Estas funciones permiten manipular el estilo del texto [ver más](https://docs.apphive.io/global-functions/estilos/style)
 
 ### Text Align
 
