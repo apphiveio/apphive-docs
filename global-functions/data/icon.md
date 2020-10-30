@@ -1,3 +1,9 @@
+---
+description: >-
+  un pictograma que es utilizado para representar archivos, carpetas, programas,
+  unidades de almacenamiento, etc.
+---
+
 # Icon
 
 ## Propiedades del icono
