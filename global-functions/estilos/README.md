@@ -2,7 +2,7 @@
 description: Es el elemento encargado de indicar la información de estilo.
 ---
 
-# Estilos
+# Styles
 
 El estilo de cada elemento tiene diferentes componentes, pero existen algunos elementos que todos tienen en común como lo es las dimenciones, background color etc.
 
