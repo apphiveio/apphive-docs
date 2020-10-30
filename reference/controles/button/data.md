@@ -4,15 +4,15 @@
 
 ### **Control name**
 
-![](../../../.gitbook/assets/image%20%28190%29.png)
+![](../../../.gitbook/assets/image%20%28216%29.png)
 
 Permite cambiar el nombre del control [ver más](https://docs.apphive.io/global-functions/data/control-name)
 
-### **Control Value**
+### **Control label**
 
-![](../../../.gitbook/assets/image%20%28194%29.png)
+![](../../../.gitbook/assets/image%20%28223%29.png)
 
-Esta propiedad permite agregar el texto duro que estará visible en el render
+Esta propiedad permite agregar el texto duro que esta visible dentro del botón
 
 ### Enable dynamic loading
 
@@ -20,15 +20,19 @@ Esta propiedad permite agregar el texto duro que estará visible en el render
 
 Funciona para dar apariencia de cargado al elemento [ver más](https://docs.apphive.io/global-functions/data/enable-dynamic-loading)
 
-### Heigth Auto
-
-![](../../../.gitbook/assets/image%20%28193%29.png)
-
-Permite auto ajustar la altura del elemento [ver más](https://docs.apphive.io/global-functions/estilos/dimentions#height-auto)
-
 ### Control is hidden
 
 ![](../../../.gitbook/assets/image%20%28150%29.png)
 
 Oculta los controles cuando se activa [ver más](https://docs.apphive.io/global-functions/data/control-is-hidden)
+
+## Button icon
+
+### Button icon
+
+Permite agregar un icono en el botón [ver más](https://docs.apphive.io/global-functions/data/icon)
+
+### Direction
+
+Permite manipular la dirección del icono con respecto al texto [ver más](https://docs.apphive.io/global-functions/estilos/direction)
 
