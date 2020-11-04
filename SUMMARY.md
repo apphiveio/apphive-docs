@@ -20,6 +20,8 @@
 ## REFERENCE
 
 * [Controles 🎮](reference/controles/README.md)
+  * [Radio](reference/controles/radio/README.md)
+    * [Style](reference/controles/radio/style.md)
   * [Picker](reference/controles/picker/README.md)
     * [Style](reference/controles/picker/style.md)
     * [Data](reference/controles/picker/data.md)
