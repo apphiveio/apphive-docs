@@ -6,5 +6,5 @@ description: >-
 
 # Image
 
-![](../../../.gitbook/assets/image%20%28237%29.png)
+![](../../../.gitbook/assets/image%20%28238%29.png)
 

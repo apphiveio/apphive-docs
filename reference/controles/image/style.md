@@ -4,7 +4,7 @@
 
 ### Opacity
 
-![](../../../.gitbook/assets/image%20%28234%29.png)
+![](../../../.gitbook/assets/image%20%28235%29.png)
 
 Muestra un Slider que nos sirve para establecer que tan opaco se va a ver el color que va desde el  0% \(transparente\) hasta el100% \(textura solida\).
 
@@ -20,7 +20,7 @@ Rellena el cuerpo del contenedor con una imagen seleccionada [ver más](https://
 
 ### Resize mode
 
-![](../../../.gitbook/assets/image%20%28251%29.png)
+![](../../../.gitbook/assets/image%20%28256%29.png)
 
 Muestra nos diferentes tipos de relleno en la imagen con respecto al control Image
 

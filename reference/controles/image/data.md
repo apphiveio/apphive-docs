@@ -4,13 +4,13 @@
 
 ### **Control name**
 
-![](../../../.gitbook/assets/image%20%28232%29.png)
+![](../../../.gitbook/assets/image%20%28233%29.png)
 
 Permite cambiar el nombre del control [ver más](https://docs.apphive.io/global-functions/data/control-name)
 
 ### Control label
 
-![](../../../.gitbook/assets/image%20%28229%29.png)
+![](../../../.gitbook/assets/image%20%28230%29.png)
 
 ### Enable dynamic loading
 

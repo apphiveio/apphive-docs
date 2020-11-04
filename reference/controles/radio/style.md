@@ -28,13 +28,13 @@ Permite asignar márgenes internos y externos [ver más](https://docs.apphive.io
 
 ### Radio orientation
 
-![](../../../.gitbook/assets/image%20%28236%29.png)
+![](../../../.gitbook/assets/image%20%28237%29.png)
 
 Perite la orientación del radio de forma horizontal  de forma vertical con respecto a la orientación del control
 
 ### Label orientation
 
-![](../../../.gitbook/assets/image%20%28247%29.png)
+![](../../../.gitbook/assets/image%20%28250%29.png)
 
 Perite la orientación del texto de forma horizontal  de forma vertical con respecto a la orientación de radio
 
