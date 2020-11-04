@@ -26,7 +26,7 @@ Permite manipular la posición del texto [ver más](https://docs.apphive.io/glob
 
 ## Dimentions
 
-Permite cambiar el valor del ancho y alto del componente ver más
+Permite cambiar el valor del ancho y alto del componente [ver más](https://docs.apphive.io/global-functions/estilos/dimentions)
 
 ## Margins
 
