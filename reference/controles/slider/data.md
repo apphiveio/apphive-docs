@@ -4,7 +4,7 @@
 
 ### **Control name**
 
-![](../../../.gitbook/assets/image%20%28234%29.png)
+![](../../../.gitbook/assets/image%20%28239%29.png)
 
 Permite cambiar el nombre del control [ver más](https://docs.apphive.io/global-functions/data/control-name)
 
@@ -30,7 +30,7 @@ Indica el valor mínimo que puede seleccionar el usuario
 
 ### Slider maximum value 
 
-![](../../../.gitbook/assets/image%20%28246%29.png)
+![](../../../.gitbook/assets/image%20%28272%29.png)
 
 Indica el valor máximo que puede seleccionar el usuario
 

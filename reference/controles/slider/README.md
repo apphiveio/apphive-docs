@@ -6,5 +6,5 @@ description: >-
 
 # Slider
 
-![](../../../.gitbook/assets/image%20%28245%29.png)
+![](../../../.gitbook/assets/image%20%28270%29.png)
 

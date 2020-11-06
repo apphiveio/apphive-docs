@@ -10,7 +10,7 @@ Este evento se dispara cuando la cámara hace lectura de un código de barras y 
 
 ## OnQRCodeRead
 
-![](../../../.gitbook/assets/image%20%28248%29.png)
+![](../../../.gitbook/assets/image%20%28279%29.png)
 
 Este evento se dispara cuando la cámara hace lectura de un código QR y retorna la información del mismo
 
@@ -18,7 +18,7 @@ Este evento se dispara cuando la cámara hace lectura de un código QR y retorna
 
 ## OnStartRecord
 
-![](../../../.gitbook/assets/image%20%28254%29.png)
+![](../../../.gitbook/assets/image%20%28285%29.png)
 
 Se activa cuando se comienza una grabación
 
@@ -34,7 +34,7 @@ Se activa cuando se finaliza una grabación
 
 ## OnTakePicture
 
-![](../../../.gitbook/assets/image%20%28251%29.png)
+![](../../../.gitbook/assets/image%20%28281%29.png)
 
 Se activa cuando se toma una fotografía retornando la ubicación del la foto
 

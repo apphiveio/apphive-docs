@@ -26,3 +26,7 @@ Muestra el icono seleccionado en los paths del sistema.
 
 ![Paths del iconos del sistema](../../.gitbook/assets/image%20%28176%29.png)
 
+{% hint style="danger" %}
+No se pueden agregar iconos personalizados
+{% endhint %}
+

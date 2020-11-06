@@ -20,7 +20,7 @@ Rellena el cuerpo del contenedor con una imagen seleccionada [ver más](https://
 
 ### Resize mode
 
-![](../../../.gitbook/assets/image%20%28256%29.png)
+![](../../../.gitbook/assets/image%20%28287%29.png)
 
 Muestra nos diferentes tipos de relleno en la imagen con respecto al control Image
 

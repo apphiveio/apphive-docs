@@ -28,7 +28,7 @@ Permite asignar márgenes internos y externos [ver más](https://docs.apphive.io
 
 ### Radio orientation
 
-![](../../../.gitbook/assets/image%20%28237%29.png)
+![](../../../.gitbook/assets/image%20%28248%29.png)
 
 Perite la orientación del radio de forma horizontal  de forma vertical con respecto a la orientación del control
 

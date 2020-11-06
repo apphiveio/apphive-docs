@@ -4,7 +4,7 @@
 
 ### **Control name**
 
-![](../../../.gitbook/assets/image%20%28233%29.png)
+![](../../../.gitbook/assets/image%20%28237%29.png)
 
 Permite cambiar el nombre del control [ver más](https://docs.apphive.io/global-functions/data/control-name)
 
