@@ -20,6 +20,10 @@
 ## REFERENCE
 
 * [Controles 🎮](reference/controles/README.md)
+  * [Page](reference/controles/page/README.md)
+    * [Style](reference/controles/page/style.md)
+    * [Data](reference/controles/page/data.md)
+    * [Events](reference/controles/page/events.md)
   * [Swiper](reference/controles/swiper/README.md)
     * [Style](reference/controles/swiper/style.md)
     * [Data](reference/controles/swiper/data.md)
