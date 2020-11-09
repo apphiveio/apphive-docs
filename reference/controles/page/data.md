@@ -16,7 +16,7 @@ También pueden servir para recibir información desde otras pantallas
 
 ![](../../../.gitbook/assets/image%20%28290%29.png)
 
-Evita el teclado
+Al activar esta función, y abrir el teclado del dispositivo no se sobrepondrá en la aplicación, es decir que el ultimo control ingresado lo deslizará hacia arriba, dejando visible los componentes
 
 ### Hidde status bar
 
