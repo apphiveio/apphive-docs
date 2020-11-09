@@ -20,6 +20,9 @@
 ## REFERENCE
 
 * [Controles 🎮](reference/controles/README.md)
+  * [Graphic View](reference/controles/graphic-view/README.md)
+    * [Style](reference/controles/graphic-view/style.md)
+    * [Data](reference/controles/graphic-view/data.md)
   * [Page](reference/controles/page/README.md)
     * [Style](reference/controles/page/style.md)
     * [Data](reference/controles/page/data.md)
@@ -41,7 +44,7 @@
   * [Web View](reference/controles/web-view/README.md)
     * [Style](reference/controles/web-view/style.md)
     * [Data](reference/controles/web-view/data.md)
-  * [Mapa](reference/controles/mapa/README.md)
+  * [Map](reference/controles/mapa/README.md)
     * [Style](reference/controles/mapa/style.md)
     * [Data](reference/controles/mapa/data.md)
     * [Events](reference/controles/mapa/events.md)
