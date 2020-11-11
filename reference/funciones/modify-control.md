@@ -135,17 +135,25 @@ description: >-
 {% tab title="Picker" %}
 | Propiedad | Descripción | Tipo de valores que acepta la propiedad |
 | :--- | :--- | :--- |
-| item |  |  |
-| name |  |  |
-| value |  |  |
+| item | Permite cambiar lo indicadores que se muestran en una lista desplegable | texto |
+| name | Permite cambiar el nombre del botón | texto |
+| value | Perite cambiar el valor de los items | texto |
 {% endtab %}
 
 {% tab title="Radio" %}
-
+| Propiedad | Descripción | Tipo de valores que acepta la propiedad |
+| :--- | :--- | :--- |
+| items | Permite cambiar lo indicadores que se muestran en una lista | texto |
 {% endtab %}
 
 {% tab title="Slider" %}
+| Propiedad | Descripción | Tipo de valores que acepta la propiedad |
+| :--- | :--- | :--- |
+| value | Permite cambiar el valor del indicador | Números enteros |
 
+{% hint style="info" %}
+La propiedad **value** no se encuentra ****como propiedad en el picker pero se puede escribir 
+{% endhint %}
 {% endtab %}
 {% endtabs %}
 
@@ -153,35 +161,74 @@ description: >-
 
 {% tabs %}
 {% tab title="Image" %}
-
+| Propiedad | Descripción | Tipo de valores que acepta la propiedad |
+| :--- | :--- | :--- |
+| src | Permite cambiar el fondo por una imagen | Direcciones de imágenes del dispositivo, internet o firebase |
 {% endtab %}
 
 {% tab title="Camera view" %}
-
+| Propiedad | Descripción | Tipo de valores que acepta la propiedad |
+| :--- | :--- | :--- |
+| takePhoto |  |  |
 {% endtab %}
 
 {% tab title="Map" %}
+| Propiedad | Descripción | Tipo de valores que acepta la propiedad |
+| :--- | :--- | :--- |
+| linearRoutes | Muestra una linea recta entre puntos | Un objeto de la base de datos o un arreglo |
+| markers | Indica los puntos guardados en un grupo de Geo Fire, debe especificarse que tipo de información es la que se va a mostrar | El objeto que retorna la función Query Fire Geolocation |
+| nearLocation |  |  |
+| Region | Modifica y muestra el punto de localización en el mapa | Un objeto con los valores latitude y longitude, con sus respectivas coordenadas |
+| Region\|Latitude | Modifica la latitud del mapa | Números enteros con  siete cifras después del punto |
+| Region\|Longitude | Modifica la longitud del mapa | Números enteros con siete cifras después del punto |
+| routes | Muestra la ruta optima desde un punto A a un punto B | Números enteros con siete cifras después del punto |
+| Show user location |  |  |
+| zoom | Acerca o aleja la vista del mapa entre menor sea el digito, el zoom será más alto | Números enteros o enteros con decimales o milésimas |
 
+{% hint style="info" %}
+**routes:** para marcar la tura se necesitan 4 modify control cada una especificando la latitud y longitud del destino
+
+NOMBRE\_QUE\_DE\_DES\_A\_LA\_RUTA.origin.latitude NOMBRE\_QUE\_DE\_DES\_A\_LA\_RUTA.origin.longitude NOMBRE\_QUE\_DE\_DES\_A\_LA\_RUTA.destination.latitude NOMBRE\_QUE\_DE\_DES\_A\_LA\_RUTA.destination.longitude Donde dice NOMBRE\_QUE\_DE\_DES\_A\_LA\_RUTA lo remplazas por el nombre que le quieras dar
+
+[ver más](https://comunidad.apphive.io/t/como-marcar-la-ruta-en-un-mapa/2641)
+{% endhint %}
 {% endtab %}
 
 {% tab title="Web view" %}
-
+| Propiedad | Descripción | Tipo de valores que acepta la propiedad |
+| :--- | :--- | :--- |
+| href | Indica la dirección web que se mostrará en el componente | Direcciones web |
 {% endtab %}
 
 {% tab title="Calendar" %}
-
+| Propiedad | Descripción | Tipo de valores que acepta la propiedad |
+| :--- | :--- | :--- |
+|  |  |  |
 {% endtab %}
 
 {% tab title="Icon" %}
-
+| Propiedad | Descripción | Tipo de valores que acepta la propiedad |
+| :--- | :--- | :--- |
+| badgeText | Cambia el valor mostrado en el badge | Números y texto |
+| src.name | Cambia el nombre del icono | texto |
+| style.color | Cambia el color del icono | Un valor de un color, generalmente de la paleta de colores |
 {% endtab %}
 
 {% tab title="Video view" %}
-
+| Propiedad | Descripción | Tipo de valores que acepta la propiedad |
+| :--- | :--- | :--- |
+| video.Config.url | Muestra el video de YouTube o Vimeo | Direcciones web de Youtue o Vimeo |
 {% endtab %}
 
 {% tab title="Graphic view" %}
-
+| Propiedad | Descripción | Tipo de valores que acepta la propiedad |
+| :--- | :--- | :--- |
+| data | Es el conjunto de información numérica estática a graficar | texto |
+| labels | Es el conjunto de información en texto estático  que se mostrará en las etiquetas | texto |
+| PropLabel | Es el conjunto de información numérica dinámica a graficar | Objeto de la base de datos |
+| ropValue | Es el conjunto de información en texto dinámico  que se mostrará en las etiquetas | Objeto de la base de datos |
 {% endtab %}
 {% endtabs %}
+
+
 
