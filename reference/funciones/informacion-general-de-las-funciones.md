@@ -12,13 +12,13 @@ Este elemento nos permite arrastrar las funciones para cambiarlas de posición y
 
 ## Edit
 
-![](../../.gitbook/assets/image%20%28320%29.png)
+![](../../.gitbook/assets/image%20%28324%29.png)
 
 Permite agregar un nombre especifico a las funciones para tener mejor identificadas las funciones, es muy recomendable hacer uso de ellas para no perder de vista la posición de los controles, en especial cuando son lógicas bastante complejas
 
 ## Entry vars
 
-![](../../.gitbook/assets/image%20%28319%29.png)
+![](../../.gitbook/assets/image%20%28320%29.png)
 
 Cuando se selecciona muestra los parámetros que necesita una función para que ejecuté de forma adecuada su trabajo
 
