@@ -6,6 +6,26 @@ description: >-
 
 # Modify Control
 
+Consta de 3 elementos 
+
+1. Data to send
+2. Element
+3. Property to modify
+
+![](../../../.gitbook/assets/image%20%28311%29.png)
+
+## Data to send
+
+Se refiere a la información con el que un control o campo  va a modificar algunas de sus propiedades.
+
+## Element
+
+Sirve para elegir algún control o campo para ser modificado
+
+## Property to modify
+
+Este apartado permite saber que propiedades están disponibles dependiendo del tipo de elemento que se eligió previamente
+
 ## Propiedades de los controles
 
 ### Containers
@@ -230,5 +250,9 @@ NOMBRE\_QUE\_DE\_DES\_A\_LA\_RUTA.origin.latitude NOMBRE\_QUE\_DE\_DES\_A\_LA\_R
 {% endtab %}
 {% endtabs %}
 
+{% hint style="info" %}
+No cuenta con callbacks
+{% endhint %}
 
+Información general
 
