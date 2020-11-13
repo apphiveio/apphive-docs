@@ -6,7 +6,7 @@ description: Son las propiedades que todas o la mayoría de las funciones tienen
 
 ## Points
 
-![](../../.gitbook/assets/image%20%28315%29.png)
+![](../../.gitbook/assets/image%20%28317%29.png)
 
 Este elemento nos permite arrastrar las funciones para cambiarlas de posición y de esta maneja cambie la lógica de las funciones, puede cambiar la posición de las funciones dentro y fuera de los callbacks
 
@@ -28,7 +28,7 @@ No se encuentra disponible en todas las funciones
 
 ## Callbacks
 
-![](../../.gitbook/assets/image%20%28310%29.png)
+![](../../.gitbook/assets/image%20%28314%29.png)
 
 Cuando es seleccionad amuestra todas las posibles respuestas que puede disparar una función después de ejecutar su proceso, generalmente son respuestas de error y de éxito
 
@@ -50,7 +50,7 @@ Permite eliminar las funciones, al eliminar una función, todas las funciones qu
 
 ## Expand
 
-![](../../.gitbook/assets/image%20%28314%29.png)
+![](../../.gitbook/assets/image%20%28316%29.png)
 
 Permite expandir o contraer la información \(funciones\) de las funciones
 

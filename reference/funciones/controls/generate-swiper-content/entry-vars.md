@@ -15,7 +15,7 @@ Se refiere a la información con el que se va a modificar los controles dentro d
 
 Abre una ventana en donde muestra de edición de los controles dentro del swiper
 
-![](../../../../.gitbook/assets/image%20%28323%29.png)
+![](../../../../.gitbook/assets/image%20%28327%29.png)
 
 ### List settings
 
@@ -25,7 +25,7 @@ De igual manera muestra un Previewer de la pantalla para poder hacer elección d
 
 ### List data
 
-![](../../../../.gitbook/assets/image%20%28319%29.png)
+![](../../../../.gitbook/assets/image%20%28325%29.png)
 
 Permite hacer selección de los controles a modificar mostrando sus respectivas propiedades de las cuales se quiera hacer edición
 

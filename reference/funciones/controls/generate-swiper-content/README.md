@@ -6,5 +6,5 @@ description: >-
 
 # Generate swiper content
 
-![](../../../../.gitbook/assets/image%20%28318%29.png)
+![](../../../../.gitbook/assets/image%20%28322%29.png)
 
