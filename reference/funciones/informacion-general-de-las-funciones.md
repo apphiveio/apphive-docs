@@ -2,7 +2,7 @@
 description: Son las propiedades que todas o la mayoría de las funciones tienen en común
 ---
 
-# Información general de las funciones
+# 📰 Información general de las funciones \(E\)
 
 ## Points
 

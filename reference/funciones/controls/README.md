@@ -1,2 +1,2 @@
-# Controls
+# 🕹 Controls \(E\)
 
