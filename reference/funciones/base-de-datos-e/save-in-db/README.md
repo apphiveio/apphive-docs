@@ -4,3 +4,5 @@ La función Save in DB permite al usuario guardar información en forma de objet
 
 ![](../../../../.gitbook/assets/image%20%28382%29.png)
 
+​[Información general](https://docs.apphive.io/reference/funciones/informacion-general-de-las-funciones)
+

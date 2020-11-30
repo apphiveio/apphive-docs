@@ -4,7 +4,7 @@ description: >-
   dentro de la aplicación
 ---
 
-# Tabla de controles
+# 📲 Tabla de controles \(E\)
 
 ![](../../../.gitbook/assets/image%20%28398%29.png)
 
