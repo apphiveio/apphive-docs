@@ -58,8 +58,6 @@ Al no agregar un valor en Identifier se puede hacer consulta de toda la informac
 
 Cuando se agrega un valor en Identifier el sistema buscará en la colección de datos el registro en donde el record id coincida con el Identifiar asignado
 
-
-
 ## Start at
 
 ![](../../../../.gitbook/assets/image%20%28369%29.png)
