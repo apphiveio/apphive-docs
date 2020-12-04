@@ -2,7 +2,7 @@
 
 ## Time miliseconds
 
-![](../../../../.gitbook/assets/image%20%28446%29.png)
+![](../../../../.gitbook/assets/image%20%28462%29.png)
 
 Se ingresa un valor numérico el cual será representado en milisegundos
 

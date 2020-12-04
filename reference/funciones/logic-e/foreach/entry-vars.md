@@ -16,5 +16,5 @@ Permite seleccionar el tipo de recorrido con el que se va a realizar la lectura 
 | :--- | :--- | :--- |
 | async | Va a ejecutar todas las iteraciones al mismo tiempo | ![](../../../../.gitbook/assets/image%20%28448%29.png)  |
 | default | Va a ejecutar las iteraciones sin tener un orden de ejecución | ![](../../../../.gitbook/assets/image%20%28437%29.png)  |
-| sync | Va a ejecutar las iteraciones una después de la otra | ![](../../../../.gitbook/assets/image%20%28445%29.png)  |
+| sync | Va a ejecutar las iteraciones una después de la otra | ![](../../../../.gitbook/assets/image%20%28461%29.png)  |
 
