@@ -46,11 +46,17 @@ Si el App Process cuenta con Entry Vars estas aparecerán para poder mandar los 
 
 ![](../../../../.gitbook/assets/image%20%28535%29.png)
 
+Permite ingresar el correo del usuario a quien se le enviará la notificación push
+
 ## Target User Uid
 
 ![](../../../../.gitbook/assets/image%20%28540%29.png)
 
+Permite ingresar el id del usuario a quien se le enviará la notificación push
+
 ## title
 
 ![](../../../../.gitbook/assets/image%20%28558%29.png)
+
+Permite agregar el titulo con el que se mostrará la notificación push
 
