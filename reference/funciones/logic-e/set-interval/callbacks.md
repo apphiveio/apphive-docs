@@ -6,7 +6,11 @@ Se activa cada vez que transcurre el tiempo determinado en la entry var de la fu
 
 ## On register
 
-Se activa la primera vez que se comienza a ejecutar la función
+Se activa la primera vez que se comienza a ejecutar la función creando un id de intervalo, dicho id puede ser guardado en alguna variable global, local o en algún registro de las bases de datos
+
+{% hint style="info" %}
+Cada función de Set interval genera un id distinto
+{% endhint %}
 
 
 
