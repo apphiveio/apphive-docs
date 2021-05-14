@@ -128,11 +128,75 @@ Opcional activación de Google Analytics 4: Selecciona tu país, clic en las 3 c
 
 ![](../../.gitbook/assets/25.jpeg)
 
-11.- Da clic en continuar
+21.- Da clic en continuar
 
 ![](../../.gitbook/assets/25.png)
 
-12.- Da clic en finalizar
+22.- Da clic en finalizar
 
 ![](../../.gitbook/assets/26%20%281%29.png)
+
+23.- Selecciona Realtime Database y clic en crear una base de datos.
+
+![](../../.gitbook/assets/27.jpeg)
+
+24.- Selecciona comenzar en modo bloqueado y da clic en habilitar.
+
+![](../../.gitbook/assets/28.jpeg)
+
+25.- **MUY IMPORTANTE** Copia la URL que tenga tu proyecto como se muestra en la siguiente imagen y pegala en una nota o un documento de word de la siguiente manera:
+
+FIREBASE REALTIME DATABASE URL: [https://uber-eats-plantilla.firebaseio.com/](https://uber-eats-plantilla.firebaseio.com/)
+
+![](../../.gitbook/assets/27.png)
+
+26.- Da clic en Copias de seguridad y Empezar.
+
+![](../../.gitbook/assets/28.png)
+
+27.- Da clic en Continuar, Abre Opciones avanzadas, activa compresión, activa ciclo de vida de almacenamiento: 30 días y da clic en Guardar.
+
+![](../../.gitbook/assets/29.jpeg)
+
+![](../../.gitbook/assets/30.png)
+
+28.- Selecciona Storage y clic en comenzar
+
+![](../../.gitbook/assets/30.jpeg)
+
+29.- Clic en siguiente, verifica que en ubicación este Nam5 \(us-central\) y clic en listo.
+
+![](../../.gitbook/assets/31.jpeg)
+
+![](../../.gitbook/assets/32.jpeg)
+
+30.- **MUY IMPORTANTE** Copia el fragmento de URL de tu proyecto como se muestra en la siguiente imagen y pegala en una nota o un documento de word de la siguiente manera:
+
+FIREBASE STORAGE URL: [uber-eats-plantilla.appspot.com](http://uber-eats-plantilla.appspot.com/)
+
+![](../../.gitbook/assets/31.png)
+
+31.- Da clic en configuraciones, configuración del proyecto y selecciona cuentas de servicio.
+
+![](../../.gitbook/assets/33.jpeg)
+
+![](../../.gitbook/assets/32.png)
+
+32.- **MUY IMPORTANTE** Clic en Generar nueva clave privada y clic en Generar clave; esto descargara un archivo .json
+
+Este archivo debes guardarlo en tu computadora, crea una carpeta con el nombre SERVICE ACCOUNT FILE y dentro de esta carpeta guardar este archivo .json
+
+![](../../.gitbook/assets/33.png)
+
+33.- Da clic en Authentication y selecciona Sign-in method.
+
+![](../../.gitbook/assets/34.png)
+
+Opcional: Si cualquiera de tus apps utiliza inicio de sesión con Gmail selecciona Google, da clic en Habilitar, selecciona tu dirección de correo electrónico DEBE AGREGAR LA MISMA CUENTA DE GMAIL CON LA QUE CREASTE LA FIREBASE y clic en Guardar.
+
+![](../../.gitbook/assets/35.png)
+
+34.- En la misma sección en la parte de abajo encontrarás Varias cuentas por dirección de correo electrónico da clic en Cambiar, selecciona Permite la creación de varias cuentas con la misma dirección de correo electrónico y da clic en Guardar.
+
+![](../../.gitbook/assets/36.png)
 
