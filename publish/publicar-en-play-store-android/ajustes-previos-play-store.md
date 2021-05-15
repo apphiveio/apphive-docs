@@ -200,3 +200,7 @@ Opcional: Si cualquiera de tus apps utiliza inicio de sesión con Gmail seleccio
 
 ![](../../.gitbook/assets/36.png)
 
+{% hint style="success" %}
+## Opcional Facebook for developers
+{% endhint %}
+
