@@ -608,8 +608,6 @@
 * [Publish Web App](publish/publish-web-app.md)
 * [Publicar en Play Store \(Android\)](publish/publicar-en-play-store-android.md)
 * [Publicar en la App Store \(IOS\)](publish/publicar-en-app-store-ios.md)
-* [Obtener Archivo Apk y Aab](publish/obtener-archivo-apk-aab/README.md)
-  * [1. Ajustes Previos y Proceso](publish/obtener-archivo-apk-aab/ajustes-previos-y-proceso.md)
 
 ## Tutorials
 
