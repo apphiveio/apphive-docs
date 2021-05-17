@@ -1,12 +1,14 @@
+---
+description: Guía del paso a paso para publicar tu aplicación en Play Store
+---
+
 # Publicar en Play Store \(Android\)
 
-{% page-ref page="ajustes-previos-play-store.md" %}
+![](../../.gitbook/assets/google_play_logo_text_and_graphic_2016.png)
 
-{% page-ref page="crear-cuenta-de-desarrollador-en-play-store.md" %}
+En este enlace, encontraras los pasos que debes de seguir para poder publicar tus aplicaciones en Play Store
 
-{% page-ref page="carga-tu-app-a-google-play.md" %}
-
-{% page-ref page="ajustes-posteriores.md" %}
-
-
+{% hint style="success" %}
+[https://universidad.apphive.io/preguntas/paso-a-paso-para-publicar-tu-app-en-tiendas/](https://universidad.apphive.io/preguntas/paso-a-paso-para-publicar-tu-app-en-tiendas/)
+{% endhint %}
 
