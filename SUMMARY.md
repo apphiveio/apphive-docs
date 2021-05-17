@@ -607,12 +607,7 @@
 * [Publish Website](publish/publish-website.md)
 * [Publish Web App](publish/publish-web-app.md)
 * [Publicar en Play Store \(Android\)](publish/publicar-en-play-store-android.md)
-* [Publicar en la App Store \(IOS\)](publish/publicar-en-app-store-ios/README.md)
-  * [1. Ajustes Previos](publish/publicar-en-app-store-ios/ajustes-previos.md)
-  * [2. Crear Cuenta de Desarrollador en App Store](publish/publicar-en-app-store-ios/crear-cuenta-de-desarrollador-en-app-store.md)
-  * [3. Certificados, Identificadores y Perfiles.](publish/publicar-en-app-store-ios/certificados-identificadores-y-perfiles..md)
-  * [4. Crear Capturas de Pantalla para Publicar en App Store](publish/publicar-en-app-store-ios/crear-capturas-de-pantalla-para-publicar-en-app-store.md)
-  * [5. Como Llenar el Formulario de la App Store](publish/publicar-en-app-store-ios/como-llenar-el-formulario-de-la-app-store.md)
+* [Publicar en la App Store \(IOS\)](publish/publicar-en-app-store-ios.md)
 * [Obtener Archivo Apk y Aab](publish/obtener-archivo-apk-aab/README.md)
   * [1. Ajustes Previos y Proceso](publish/obtener-archivo-apk-aab/ajustes-previos-y-proceso.md)
 
