@@ -606,12 +606,7 @@
 
 * [Publish Website](publish/publish-website.md)
 * [Publish Web App](publish/publish-web-app.md)
-* [Publicar en Play Store \(Android\)](publish/publicar-en-play-store-android/README.md)
-  * [1. Ajustes previos a la compilación](publish/publicar-en-play-store-android/ajustes-previos-play-store.md)
-  * [2. Crear Cuenta de Desarrollador en Play Store](publish/publicar-en-play-store-android/crear-cuenta-de-desarrollador-en-play-store.md)
-  * [3. Carga tu App a Google Play](publish/publicar-en-play-store-android/carga-tu-app-a-google-play.md)
-  * [4. Ajustes Posteriores](publish/publicar-en-play-store-android/ajustes-posteriores.md)
-  * [Actualizar nueva versión en Play Store](publish/publicar-en-play-store-android/actualizar-nueva-version-en-play-store.md)
+* [Publicar en Play Store \(Android\)](publish/publicar-en-play-store-android.md)
 * [Publicar en la App Store \(IOS\)](publish/publicar-en-app-store-ios/README.md)
   * [1. Ajustes Previos](publish/publicar-en-app-store-ios/ajustes-previos.md)
   * [2. Crear Cuenta de Desarrollador en App Store](publish/publicar-en-app-store-ios/crear-cuenta-de-desarrollador-en-app-store.md)

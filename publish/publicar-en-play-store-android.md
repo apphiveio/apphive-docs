@@ -4,7 +4,7 @@ description: Guía del paso a paso para publicar tu aplicación en Play Store
 
 # Publicar en Play Store \(Android\)
 
-![](../../.gitbook/assets/google_play_logo_text_and_graphic_2016.png)
+![](../.gitbook/assets/google_play_logo_text_and_graphic_2016.png)
 
 En este enlace, encontraras los pasos que debes de seguir para poder publicar tus aplicaciones en Play Store
 
