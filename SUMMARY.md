@@ -2,24 +2,22 @@
 
 * [👋 Bienvenido a Apphive](README.md)
 
-## 🚀 Inicio <a id="iniciar"></a>
+## 🚀 Inicio <a href="#iniciar" id="iniciar"></a>
 
----
-
-* [🆕 Crea un nuevo proyecto](crear-un-nuevo-proyecto/README.md)
+* [🔍 Crea un nuevo proyecto](crear-un-nuevo-proyecto/README.md)
   * [Iniciar con una plantilla](crear-un-nuevo-proyecto/start-using-a-template.md)
   * [Empezar desde el principio](crear-un-nuevo-proyecto/start-from-scratch.md)
 * [📐 Diseño de la app](diseno-de-la-app/README.md)
   * [Trabajar con contenedores](diseno-de-la-app/trabajar-con-contenedores.md)
   * [Diseño responsivo](diseno-de-la-app/diseno-responsivo.md)
   * [Menu lateral](diseno-de-la-app/menu-lateral.md)
-* [⚡️ Previsualizador Apphive](previsualizador-apphive/README.md)
+* [📱 ⚡️ Previsualizador Apphive](previsualizador-apphive/README.md)
   * [IOS App Preview](previsualizador-apphive/ios-app-preview.md)
   * [Android App Preview](previsualizador-apphive/android-app-preview.md)
 
 ## REFERENCE
 
-* [Controles 🎮](reference/controles/README.md)
+* [🎮 Controles 🎮](reference/controles/README.md)
   * [Graphic View](reference/controles/graphic-view/README.md)
     * [Style](reference/controles/graphic-view/style.md)
     * [Data](reference/controles/graphic-view/data.md)
@@ -136,15 +134,15 @@
   * [Containers](reference/elementos-de-interfaz/containers/README.md)
     * [Container](reference/elementos-de-interfaz/containers/container.md)
     * [Swiper](reference/elementos-de-interfaz/containers/swiper.md)
-* [Funciones ∑](reference/funciones/README.md)
-  * [🔩 App processes \(E\)](reference/funciones/app-processes.md)
-  * [🧭 Navigation \(E\)](reference/funciones/navigation-1/README.md)
+* [⚙️ Funciones ∑](reference/funciones/README.md)
+  * [🔩 App processes (E)](reference/funciones/app-processes.md)
+  * [🧭 Navigation (E)](reference/funciones/navigation-1/README.md)
     * [Replace screen](reference/funciones/navigation-1/replace-screen/README.md)
       * [Entry Vars](reference/funciones/navigation-1/replace-screen/entry-vars.md)
     * [Push Screen](reference/funciones/navigation-1/push-screen/README.md)
       * [Entry Vars](reference/funciones/navigation-1/push-screen/entry-vars.md)
     * [Return to last Screen](reference/funciones/navigation-1/return-to-last-screen.md)
-  * [💬 Push Notifications \(E\)](reference/funciones/push-notifications/README.md)
+  * [💬 Push Notifications (E)](reference/funciones/push-notifications/README.md)
     * [Trigger App Process](reference/funciones/push-notifications/trigger-app-process/README.md)
       * [Entry Vars](reference/funciones/push-notifications/trigger-app-process/entry-vars.md)
     * [Send push](reference/funciones/push-notifications/send-push/README.md)
@@ -152,7 +150,7 @@
       * [Entry Vars](reference/funciones/push-notifications/send-push/entry-vars.md)
     * [Request Permission](reference/funciones/push-notifications/request-permission/README.md)
       * [Callbacks](reference/funciones/push-notifications/request-permission/callbacks.md)
-  * [🗺 Geolocalization \(E\)](reference/funciones/geolocalization/README.md)
+  * [🗺️ Geolocalization (E)](reference/funciones/geolocalization/README.md)
     * [Start geolocation tracking http](reference/funciones/geolocalization/start-geolocation-tracking-http/README.md)
       * [Callbacks](reference/funciones/geolocalization/start-geolocation-tracking-http/callbacks.md)
       * [Entry Vars](reference/funciones/geolocalization/start-geolocation-tracking-http/entry-vars.md)
@@ -185,10 +183,10 @@
       * [Callbacks](reference/funciones/geolocalization/get-fire-geolocation/callbacks.md)
       * [Entry Vars](reference/funciones/geolocalization/get-fire-geolocation/entry-vars.md)
     * [Geo Fire](reference/funciones/geolocalization/geo-fire.md)
-  * [📲 Phone APIs \(E\)](reference/funciones/phone-apis-e/README.md)
+  * [📲 Phone APIs (E)](reference/funciones/phone-apis-e/README.md)
     * [Set Audio Time](reference/funciones/phone-apis-e/set-audio-time.md)
     * [dismissKeyboard](reference/funciones/phone-apis-e/dismisskeyboard.md)
-    * [Read SMS \(Android\)](reference/funciones/phone-apis-e/read-sms-android/README.md)
+    * [Read SMS (Android)](reference/funciones/phone-apis-e/read-sms-android/README.md)
       * [Callbacks](reference/funciones/phone-apis-e/read-sms-android/callbacks.md)
     * [Is audio playing](reference/funciones/phone-apis-e/is-audio-playing/README.md)
       * [Callbacks](reference/funciones/phone-apis-e/is-audio-playing/callbacks.md)
@@ -238,7 +236,7 @@
       * [Callbacks](reference/funciones/phone-apis-e/open-calendar/callbacks.md)
     * [Make a call](reference/funciones/phone-apis-e/make-a-call/README.md)
       * [Entry Vars](reference/funciones/phone-apis-e/make-a-call/entry-vars.md)
-  * [🔔 Notifications \(E\)](reference/funciones/notifications-1/README.md)
+  * [🔔 Notifications (E)](reference/funciones/notifications-1/README.md)
     * [Toast notification](reference/funciones/notifications-1/toast-notification/README.md)
       * [Entry Vars](reference/funciones/notifications-1/toast-notification/entry-vars.md)
     * [Send Alert](reference/funciones/notifications-1/send-alert/README.md)
@@ -249,7 +247,7 @@
     * [Confirmation alert](reference/funciones/notifications-1/confirmation-alert/README.md)
       * [Callbacks](reference/funciones/notifications-1/confirmation-alert/callbacks.md)
       * [Entry Vars](reference/funciones/notifications-1/confirmation-alert/entry-vars.md)
-  * [⛓ Logic \(E\)](reference/funciones/logic-e/README.md)
+  * [⛓️ Logic (E)](reference/funciones/logic-e/README.md)
     * [Stop set interval](reference/funciones/logic-e/stop-set-interval/README.md)
       * [Callbacks](reference/funciones/logic-e/stop-set-interval/callbacks.md)
       * [Entry Vars](reference/funciones/logic-e/stop-set-interval/entry-vars.md)
@@ -304,7 +302,7 @@
       * [Entry Vars](reference/funciones/logic-e/array-from-object/entry-vars.md)
     * [Arithmetic Operation](reference/funciones/logic-e/arithmetic-operation/README.md)
       * [Entry Vars](reference/funciones/logic-e/arithmetic-operation/entry-vars.md)
-  * [💿 Local Storage \(E\)](reference/funciones/local-storage-e/README.md)
+  * [💿 Local Storage (E)](reference/funciones/local-storage-e/README.md)
     * [Set page Value](reference/funciones/local-storage-e/set-page-value/README.md)
       * [Entry Vars](reference/funciones/local-storage-e/set-page-value/entry-vars.md)
     * [Save local storage data](reference/funciones/local-storage-e/save-local-storage-data/README.md)
@@ -323,7 +321,7 @@
       * [Entry Vars](reference/funciones/local-storage-e/delete-local-storage-data/entry-vars.md)
     * [Delete all local Data](reference/funciones/local-storage-e/delete-all-local-data/README.md)
       * [Callbacks](reference/funciones/local-storage-e/delete-all-local-data/callbacks.md)
-  * [📀 Base de Datos \(E\)](reference/funciones/base-de-datos-e/README.md)
+  * [📀 Base de Datos (E)](reference/funciones/base-de-datos-e/README.md)
     * [Upload file](reference/funciones/base-de-datos-e/upload-file/README.md)
       * [Callbacks](reference/funciones/base-de-datos-e/upload-file/callbacks.md)
       * [Entry Vars](reference/funciones/base-de-datos-e/upload-file/entry-vars.md)
@@ -342,13 +340,13 @@
     * [Copy Data From Path](reference/funciones/base-de-datos-e/copy-data-from-path/README.md)
       * [Callbacks](reference/funciones/base-de-datos-e/copy-data-from-path/callbacks.md)
       * [Entry Vars](reference/funciones/base-de-datos-e/copy-data-from-path/entry-vars.md)
-  * [🚗 Navigation \(E\)](reference/funciones/navigation-e/README.md)
+  * [🚗 Navigation (E)](reference/funciones/navigation-e/README.md)
     * [Replace screen](reference/funciones/navigation-e/replace-screen/README.md)
       * [Entry vars](reference/funciones/navigation-e/replace-screen/entry-vars.md)
     * [Push screen](reference/funciones/navigation-e/push-screen/README.md)
       * [Entry vars](reference/funciones/navigation-e/push-screen/entry-vars.md)
     * [Return to last screen](reference/funciones/navigation-e/return-to-last-screen.md)
-  * [👨‍👩‍👧Users\(E\)](reference/funciones/users-e/README.md)
+  * [👨‍👩‍👧Users(E)](reference/funciones/users-e/README.md)
     * [Update email](reference/funciones/users-e/update-email/README.md)
       * [Callbacks](reference/funciones/users-e/update-email/callbacks.md)
       * [Entry Vars](reference/funciones/users-e/update-email/entry-vars.md)
@@ -395,7 +393,7 @@
     * [Change my password](reference/funciones/users-e/change-my-password/README.md)
       * [Callbacks](reference/funciones/users-e/change-my-password/callbacks.md)
       * [Entry Vars](reference/funciones/users-e/change-my-password/entry-vars.md)
-  * [🕹 Controls \(E\)](reference/funciones/controls/README.md)
+  * [🕹️ Controls (E)](reference/funciones/controls/README.md)
     * [Trigger Event](reference/funciones/controls/trigger-event/README.md)
       * [Callbacks](reference/funciones/controls/trigger-event/callbacks.md)
       * [Entry Vars](reference/funciones/controls/trigger-event/entry-vars.md)
@@ -418,8 +416,8 @@
     * [Generate swiper content](reference/funciones/controls/generate-swiper-content/README.md)
       * [Callbacks](reference/funciones/controls/generate-swiper-content/callbacks.md)
       * [Entry vars](reference/funciones/controls/generate-swiper-content/entry-vars.md)
-  * [📰 Información general de las funciones \(E\)](reference/funciones/informacion-general-de-las-funciones.md)
-  * [📲 Tabla de controles \(E\)](reference/funciones/tabla-de-controles/README.md)
+  * [📰 Información general de las funciones (E)](reference/funciones/informacion-general-de-las-funciones.md)
+  * [📲 Tabla de controles (E)](reference/funciones/tabla-de-controles/README.md)
     * [Context Data](reference/funciones/tabla-de-controles/context-data.md)
     * [ListContext](reference/funciones/tabla-de-controles/listcontext.md)
     * [PreviusOutputs](reference/funciones/tabla-de-controles/previusoutputs.md)
@@ -456,7 +454,7 @@
     * [Update Data From Other User](reference/funciones/users/update-data-from-other-user.md)
   * [Cloud Database](reference/funciones/cloud-database/README.md)
     * [Copy Data From Path](reference/funciones/cloud-database/copy-data-from-path.md)
-    * [Eliminar datos de la base de datos \(Delete Database Data\)](reference/funciones/cloud-database/delete-database-data.md)
+    * [Eliminar datos de la base de datos (Delete Database Data)](reference/funciones/cloud-database/delete-database-data.md)
     * [Get Database Data](reference/funciones/cloud-database/get-database-data.md)
     * [Save Data in Database](reference/funciones/cloud-database/save-data-in-database.md)
     * [Upload File](reference/funciones/cloud-database/upload-file.md)
@@ -539,7 +537,7 @@
   * [Generales de los eventos](global-functions/events/generales-de-los-eventos.md)
   * [OnPress](global-functions/events/onpress.md)
   * [OnChange](global-functions/events/onchange.md)
-* [Data](global-functions/data/README.md)
+* [👾 Data](global-functions/data/README.md)
   * [Control name](global-functions/data/control-name.md)
   * [Icon](global-functions/data/icon.md)
   * [Enable dynamic loading](global-functions/data/enable-dynamic-loading.md)
@@ -586,7 +584,7 @@
 
 ## ��Pricing
 
-* [Precio](pricing/precio.md)
+* [💰 Precio](pricing/precio.md)
 * [Política de facturación](pricing/politica-de-facturacion.md)
 * [Non-profit discounts](pricing/non-profit-discounts.md)
 
@@ -606,8 +604,8 @@
 
 * [Publish Website](publish/publish-website.md)
 * [Publish Web App](publish/publish-web-app.md)
-* [Publicar en Play Store \(Android\)](publish/publicar-en-play-store-android.md)
-* [Publicar en la App Store \(IOS\)](publish/publicar-en-app-store-ios.md)
+* [Publicar en Play Store (Android)](publish/publicar-en-play-store-android.md)
+* [Publicar en la App Store (IOS)](publish/publicar-en-app-store-ios.md)
 
 ## Tutorials
 
@@ -615,8 +613,7 @@
 
 ## Resources
 
-* [FAQs](resources/faqs.md)
+* [❓ FAQs](resources/faqs.md)
 * [Keyboard shortcuts](resources/shortcuts.md)
 * [Changelog](resources/changelog.md)
-* [Help](resources/help.md)
-
+* [🆘 Help](resources/help.md)

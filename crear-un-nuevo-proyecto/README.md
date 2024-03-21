@@ -2,7 +2,7 @@
 description: Trabajando con proyectos
 ---
 
-# 🆕 Crea un nuevo proyecto
+# 🔍 Crea un nuevo proyecto
 
 ### ¿Qué es un proyecto?
 
@@ -17,4 +17,3 @@ La configuración de un proyecto afecta a todas las aplicaciones que están dent
 * [B](../reference/base-de-datos/)ase de datos
 * [Suscripción](../pricing/precio.md)
 * Geofire categorias
-
