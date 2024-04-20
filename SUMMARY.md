@@ -17,7 +17,7 @@
 
 ## REFERENCE
 
-* [🎮 Controles 🎮](reference/controles/README.md)
+* [🎮 Controles](reference/controles/README.md)
   * [Graphic View](reference/controles/graphic-view/README.md)
     * [Style](reference/controles/graphic-view/style.md)
     * [Data](reference/controles/graphic-view/data.md)
@@ -25,6 +25,7 @@
     * [Style](reference/controles/page/style.md)
     * [Data](reference/controles/page/data.md)
     * [Events](reference/controles/page/events.md)
+  * [Button](reference/controles/button.md)
   * [Swiper](reference/controles/swiper/README.md)
     * [Style](reference/controles/swiper/style.md)
     * [Data](reference/controles/swiper/data.md)
@@ -74,10 +75,6 @@
     * [Style](reference/controles/field/style.md)
     * [Data](reference/controles/field/data.md)
     * [Events](reference/controles/field/events.md)
-  * [Button](reference/controles/button/README.md)
-    * [Style](reference/controles/button/style.md)
-    * [Data](reference/controles/button/data.md)
-    * [Events](reference/controles/button/events.md)
   * [Text](reference/controles/untitled/README.md)
     * [Style](reference/controles/untitled/style.md)
     * [Data](reference/controles/untitled/data.md)
