@@ -4,7 +4,7 @@ description: >-
   dispositivo Android o iOS.
 ---
 
-# ⚡️ Previsualizador Apphive
+# 📱 ⚡️ Previsualizador Apphive
 
 ### Descargue la vista previa de la aplicación para Android e IOS
 
@@ -14,17 +14,18 @@ puede abrir este enlace en su teléfono [https://app.apphive.io](https://app.app
 
 ### ¿Qué es la aplicación Apphive Previewer?
 
-La aplicación Apphive Previewer le permite ver su aplicación en tiempo real mientras trabaja en esto. 
+La aplicación Apphive Previewer le permite ver su aplicación en tiempo real mientras trabaja en esto.
 
 ### Apphive Previewer App
 
-La aplicación Apphive Previewer le permite probar en vivo, su aplicación en su dispositivo, en tiempo real, mientras la está construyendo. 
+La aplicación Apphive Previewer le permite probar en vivo, su aplicación en su dispositivo, en tiempo real, mientras la está construyendo.
 
 ![App preview in real time](../.gitbook/assets/app-review.gif)
 
-{% page-ref page="ios-app-preview.md" %}
+{% content-ref url="ios-app-preview.md" %}
+[ios-app-preview.md](ios-app-preview.md)
+{% endcontent-ref %}
 
-{% page-ref page="android-app-preview.md" %}
-
-
-
+{% content-ref url="android-app-preview.md" %}
+[android-app-preview.md](android-app-preview.md)
+{% endcontent-ref %}

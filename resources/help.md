@@ -1,4 +1,4 @@
-# Help
+# 🆘 Help
 
 ### Slack Community
 
@@ -9,4 +9,3 @@
 ### Tutorials
 
 ### Email
-
