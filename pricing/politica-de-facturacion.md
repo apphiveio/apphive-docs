@@ -1,2 +1,0 @@
-# Política de facturación
-

@@ -2,7 +2,7 @@
 description: Trabajando con proyectos
 ---
 
-# 🔍 Crea un nuevo proyecto
+# 🔍 Apphive
 
 ### ¿Qué es un proyecto?
 
@@ -15,5 +15,5 @@ Un proyecto es un grupo de aplicaciones que comparten la misma base de datos y c
 La configuración de un proyecto afecta a todas las aplicaciones que están dentro de él, las configuraciones disponibles son:
 
 * [B](../reference/base-de-datos/)ase de datos
-* [Suscripción](../pricing/precio.md)
+* [Suscripción](../precios/precio.md)
 * Geofire categorias

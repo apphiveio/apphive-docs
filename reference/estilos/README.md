@@ -1,2 +1,2 @@
-# Estilos 🎨
+# 📲 Menu de variables
 

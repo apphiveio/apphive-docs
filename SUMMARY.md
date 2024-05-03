@@ -2,16 +2,16 @@
 
 * [👋 Bienvenido a Apphive](README.md)
 
-## 🚀 Inicio <a href="#iniciar" id="iniciar"></a>
+## FIRST STEPS <a href="#iniciar" id="iniciar"></a>
 
-* [🔍 Crea un nuevo proyecto](crear-un-nuevo-proyecto/README.md)
+* [🔍 Apphive](crear-un-nuevo-proyecto/README.md)
   * [Iniciar con una plantilla](crear-un-nuevo-proyecto/start-using-a-template.md)
   * [Empezar desde el principio](crear-un-nuevo-proyecto/start-from-scratch.md)
-* [📐 Diseño de la app](diseno-de-la-app/README.md)
+* [📐 Apphive editor](diseno-de-la-app/README.md)
   * [Trabajar con contenedores](diseno-de-la-app/trabajar-con-contenedores.md)
   * [Diseño responsivo](diseno-de-la-app/diseno-responsivo.md)
   * [Menu lateral](diseno-de-la-app/menu-lateral.md)
-* [📱 ⚡️ Previsualizador Apphive](previsualizador-apphive/README.md)
+* [📱 Apphive Previewer](previsualizador-apphive/README.md)
   * [IOS App Preview](previsualizador-apphive/ios-app-preview.md)
   * [Android App Preview](previsualizador-apphive/android-app-preview.md)
 
@@ -477,7 +477,7 @@
     * [Delete a Card](reference/funciones/stripe/delete-a-card.md)
     * [Create a Payment Intent](reference/funciones/stripe/create-a-payment-intent.md)
     * [Confirm a Payment Intent](reference/funciones/stripe/confirm-a-payment-intent.md)
-* [Base de datos 𝌏](reference/base-de-datos/README.md)
+* [🗄️ Base de datos](reference/base-de-datos/README.md)
   * [Database Editor](reference/base-de-datos/database-editor/README.md)
     * [Open database editor](reference/base-de-datos/database-editor/open-database-editor.md)
     * [View data](reference/base-de-datos/database-editor/view-data.md)
@@ -496,7 +496,7 @@
     * [Read Data](reference/base-de-datos/local-database/read-data.md)
     * [Write Data](reference/base-de-datos/local-database/write-data.md)
   * [Custom Database](reference/base-de-datos/custom-database.md)
-* [Estilos 🎨](reference/estilos/README.md)
+* [📲 Menu de variables](reference/estilos/README.md)
   * [Skeleton Loader](reference/estilos/skeleton-loader.md)
   * [Color Picker](reference/estilos/color-picker.md)
   * [Element Styles](reference/estilos/element-styles.md)
@@ -504,7 +504,8 @@
     * [Typography](reference/estilos/global-styles/typography.md)
     * [Color Variant](reference/estilos/global-styles/color-variant.md)
     * [Palette Selector](reference/estilos/global-styles/palette-selector.md)
-* [Elementos de interfaz 📱](reference/elementos-de-interfaz/README.md)
+* [⌨️ Atajos de teclado](reference/atajos-de-teclado.md)
+* [🔩 App processes](reference/elementos-de-interfaz/README.md)
   * [Formularios](reference/elementos-de-interfaz/formularios/README.md)
     * [Text Field](reference/elementos-de-interfaz/formularios/text-field-1.md)
     * [Text](reference/elementos-de-interfaz/formularios/text.md)
@@ -525,91 +526,45 @@
   * [Containers](reference/elementos-de-interfaz/containers/README.md)
     * [Container](reference/elementos-de-interfaz/containers/container.md)
     * [Swiper](reference/elementos-de-interfaz/containers/swiper.md)
-* [Administración de usuarios 👨](reference/administracion-de-usuarios.md)
+* [📠 API Functions](reference/administracion-de-usuarios.md)
 
-## Global Functions
+## COMPILACIONES Y CARGAS A TIENDAS
 
-* [Events](global-functions/events/README.md)
-  * [Generales de los eventos](global-functions/events/generales-de-los-eventos.md)
-  * [OnPress](global-functions/events/onpress.md)
-  * [OnChange](global-functions/events/onchange.md)
-* [👾 Data](global-functions/data/README.md)
-  * [Control name](global-functions/data/control-name.md)
-  * [Icon](global-functions/data/icon.md)
-  * [Enable dynamic loading](global-functions/data/enable-dynamic-loading.md)
-  * [Control is hidden](global-functions/data/control-is-hidden.md)
-* [Styles](global-functions/estilos/README.md)
-  * [Background color](global-functions/estilos/background-color.md)
-  * [Style](global-functions/estilos/style.md)
-  * [Font Size](global-functions/estilos/font-size.md)
-  * [Text Align](global-functions/estilos/text-align.md)
-  * [Text Color](global-functions/estilos/text-color.md)
-  * [Background image](global-functions/estilos/background-image.md)
-  * [Border Radius](global-functions/estilos/border-radius.md)
-  * [Border Width](global-functions/estilos/border-width.md)
-  * [Dimentions](global-functions/estilos/dimentions.md)
-  * [Direction](global-functions/estilos/direction.md)
-  * [Margins](global-functions/estilos/margins.md)
-* [Funciones Globales](global-functions/funciones-globales/README.md)
-  * [Untitled](global-functions/funciones-globales/untitled.md)
-* [Notificaciones Push](global-functions/notificaciones-push.md)
-* [Funciones en la nube](global-functions/funciones-en-la-nube.md)
-* [Webhooks](global-functions/webhooks.md)
+* [⚙️ Configuraciones](compilaciones-y-cargas-a-tiendas/elementos-de-interfaz/README.md)
+  * [Formularios](compilaciones-y-cargas-a-tiendas/elementos-de-interfaz/formularios/README.md)
+    * [Text Field](compilaciones-y-cargas-a-tiendas/elementos-de-interfaz/formularios/text-field-1.md)
+    * [Text](compilaciones-y-cargas-a-tiendas/elementos-de-interfaz/formularios/text.md)
+    * [Button](compilaciones-y-cargas-a-tiendas/elementos-de-interfaz/formularios/button.md)
+    * [Switch](compilaciones-y-cargas-a-tiendas/elementos-de-interfaz/formularios/switch.md)
+    * [Picker](compilaciones-y-cargas-a-tiendas/elementos-de-interfaz/formularios/picker.md)
+    * [Radio](compilaciones-y-cargas-a-tiendas/elementos-de-interfaz/formularios/radio.md)
+    * [Slider](compilaciones-y-cargas-a-tiendas/elementos-de-interfaz/formularios/slider.md)
+  * [Multimedia](compilaciones-y-cargas-a-tiendas/elementos-de-interfaz/multimedia/README.md)
+    * [Image](compilaciones-y-cargas-a-tiendas/elementos-de-interfaz/multimedia/image.md)
+    * [Camera View](compilaciones-y-cargas-a-tiendas/elementos-de-interfaz/multimedia/camera-view.md)
+    * [Map](compilaciones-y-cargas-a-tiendas/elementos-de-interfaz/multimedia/map.md)
+    * [Web View](compilaciones-y-cargas-a-tiendas/elementos-de-interfaz/multimedia/web-view.md)
+    * [Calendar](compilaciones-y-cargas-a-tiendas/elementos-de-interfaz/multimedia/calendar.md)
+    * [Icon](compilaciones-y-cargas-a-tiendas/elementos-de-interfaz/multimedia/icon.md)
+    * [Video View](compilaciones-y-cargas-a-tiendas/elementos-de-interfaz/multimedia/video-view.md)
+    * [Chart](compilaciones-y-cargas-a-tiendas/elementos-de-interfaz/multimedia/charts.md)
+  * [Containers](compilaciones-y-cargas-a-tiendas/elementos-de-interfaz/containers/README.md)
+    * [Container](compilaciones-y-cargas-a-tiendas/elementos-de-interfaz/containers/container.md)
+    * [Swiper](compilaciones-y-cargas-a-tiendas/elementos-de-interfaz/containers/swiper.md)
+* [🔥 Firebase](compilaciones-y-cargas-a-tiendas/administracion-de-usuarios.md)
+* [👾 Android](compilaciones-y-cargas-a-tiendas/android.md)
+* [🍎 IOS](compilaciones-y-cargas-a-tiendas/ios.md)
+* [💻 WebApp](compilaciones-y-cargas-a-tiendas/webapp.md)
+* [📘 Facebook Developers](compilaciones-y-cargas-a-tiendas/facebook-developers.md)
+* [❌ Compilation errors](compilaciones-y-cargas-a-tiendas/compilation-errors.md)
 
-## Templates
+## Precios
 
-* [Plantillas de Apps](templates/plantillas-de-apps/README.md)
-  * [Save a Template](templates/plantillas-de-apps/save-a-template.md)
-  * [Examples](templates/plantillas-de-apps/examples/README.md)
-    * [eShop](templates/plantillas-de-apps/examples/eshop.md)
-    * [Restaurant](templates/plantillas-de-apps/examples/restaurant.md)
-    * [Like Uber](templates/plantillas-de-apps/examples/like-uber.md)
-    * [Like Airbnb](templates/plantillas-de-apps/examples/like-airbnb.md)
-    * [Real State](templates/plantillas-de-apps/examples/real-state.md)
-* [Plantillas de paginas](templates/plantillas-de-paginas/README.md)
-  * [Save a Template](templates/plantillas-de-paginas/save-a-template.md)
-  * [Examples](templates/plantillas-de-paginas/examples/README.md)
-    * [User Management](templates/plantillas-de-paginas/examples/user-management.md)
-    * [Lists](templates/plantillas-de-paginas/examples/lists.md)
-    * [Galleries](templates/plantillas-de-paginas/examples/galleries.md)
-    * [Details](templates/plantillas-de-paginas/examples/details.md)
-    * [Checkout](templates/plantillas-de-paginas/examples/checkout.md)
-    * [Maps](templates/plantillas-de-paginas/examples/maps.md)
-* [Plantillas de funciones](templates/plantillas-de-funciones/README.md)
-  * [User Management](templates/plantillas-de-funciones/user-management.md)
-
-## ��Pricing
-
-* [💰 Precio](pricing/precio.md)
-* [Política de facturación](pricing/politica-de-facturacion.md)
-* [Non-profit discounts](pricing/non-profit-discounts.md)
-
-## Integrations
-
-* [Algolia](integrations/algolia.md)
-* [Shopify](integrations/shopify.md)
-* [Mercado Pago](integrations/mercado-pago.md)
-* [Stripe](integrations/stripe.md)
-* [YouTube](integrations/youtube.md)
-
-## Custom Integrations
-
-* [Custom APIs](custom-integrations/integration-apis.md)
-
-## Publish
-
-* [Publish Website](publish/publish-website.md)
-* [Publish Web App](publish/publish-web-app.md)
-* [Publicar en Play Store (Android)](publish/publicar-en-play-store-android.md)
-* [Publicar en la App Store (IOS)](publish/publicar-en-app-store-ios.md)
-
-## Tutorials
-
-* [How to Create a Chat App](tutorials/how-to-create-a-chat-app.md)
+* [💰 Precio](precios/precio.md)
 
 ## Resources
 
+* [📕 Otros](resources/changelog.md)
+* [📘 Glosario](resources/glosario.md)
 * [❓ FAQs](resources/faqs.md)
-* [Keyboard shortcuts](resources/shortcuts.md)
-* [Changelog](resources/changelog.md)
-* [🆘 Help](resources/help.md)
+* [🆘 Soporte](resources/help.md)

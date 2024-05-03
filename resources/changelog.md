@@ -2,13 +2,13 @@
 description: Changelog for Apphive
 ---
 
-# Changelog
+# 📕 Otros
 
-## Release \#170 \(12/04/2019\)
+## Release #170 (12/04/2019)
 
 ### Features
 
-* forEach  function added
+* forEach function added
 * Address autocomplete allows select country
 * Added alert when internet connection is lost
 
@@ -21,6 +21,3 @@ description: Changelog for Apphive
 ### Changes
 
 * Now API support custom headers
-
-
-
