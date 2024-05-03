@@ -14,6 +14,7 @@
 * [📱 Apphive Previewer](previsualizador-apphive/README.md)
   * [IOS App Preview](previsualizador-apphive/ios-app-preview.md)
   * [Android App Preview](previsualizador-apphive/android-app-preview.md)
+* [🤖 Apphive AI](iniciar/apphive-ai.md)
 
 ## REFERENCE
 
