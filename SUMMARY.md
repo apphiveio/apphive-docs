@@ -555,6 +555,7 @@
 * [🔥 Firebase](compilaciones-y-cargas-a-tiendas/administracion-de-usuarios.md)
 * [👾 Android](compilaciones-y-cargas-a-tiendas/android/README.md)
   * [Transferir aplicación](compilaciones-y-cargas-a-tiendas/android/transferir-aplicacion.md)
+  * [Invitar usuario Google Play](compilaciones-y-cargas-a-tiendas/android/invitar-usuario-google-play.md)
 * [🍎 IOS](compilaciones-y-cargas-a-tiendas/ios/README.md)
   * [Crear cuenta de desarrollador](compilaciones-y-cargas-a-tiendas/ios/crear-cuenta-de-desarrollador.md)
 * [💻 WebApp](compilaciones-y-cargas-a-tiendas/webapp.md)
