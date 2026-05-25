@@ -1,0 +1,30 @@
+# 📲 Phone APIs \(E\)
+
+
+
+## Contenido
+
+- [Set Audio Time](set-audio-time.md)
+- [dismissKeyboard](dismisskeyboard.md)
+- [Read SMS (Android)](read-sms-android/README.md)
+- [Is audio playing](is-audio-playing/README.md)
+- [Get Screen Dimentions](get-screen-dimentions/README.md)
+- [GetDeviceInfo](getdeviceinfo/README.md)
+- [Get connection type](get-connection-type/README.md)
+- [Vibration phone](vibration-phone/README.md)
+- [Take a video](take-a-video/README.md)
+- [Take a photo](take-a-photo/README.md)
+- [Stop Recording Audio](stop-recording-audio/README.md)
+- [Stop playing audio](stop-playing-audio/README.md)
+- [Start Recording audio](untitled/README.md)
+- [Start playing audio](start-playing-audio/README.md)
+- [Show file browser](show-file-browser/README.md)
+- [Share](share/README.md)
+- [read QR code](read-qr-code/README.md)
+- [Barcode Read](barcode-read/README.md)
+- [Pause playing audio](pause-playing-audio/README.md)
+- [Open WhatsApp](open-whatsapp/README.md)
+- [Open Url](open-url/README.md)
+- [Ope geo map](ope-geo-map/README.md)
+- [Open calendar](open-calendar/README.md)
+- [Make a call](make-a-call/README.md)

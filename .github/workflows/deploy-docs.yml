@@ -23,7 +23,9 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt
-      - run: mkdocs build --site-dir _site
+      # 1) Español en la raíz  2) Inglés en /en/
+      - run: mkdocs build -f mkdocs.yml --site-dir _site
+      - run: mkdocs build -f mkdocs.en.yml --site-dir _site/en
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site

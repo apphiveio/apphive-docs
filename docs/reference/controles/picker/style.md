@@ -1,0 +1,24 @@
+# Style
+
+## Appeareance
+
+### Backgorund color
+
+Permite cambiar el color del cuerpo del elemento [ver más](https://docs.apphive.io/global-functions/estilos/background-color)
+
+### Text Color
+
+Permite cambiar de color el texto [ver más](https://docs.apphive.io/global-functions/estilos/text-color)
+
+## Dimentions
+
+Permite cambiar el valor del ancho y alto del componente [ver más](https://docs.apphive.io/global-functions/estilos/dimentions)
+
+## Margins
+
+Permite asignar márgenes internos y externos [ver más](https://docs.apphive.io/global-functions/estilos/margins)
+
+## Borders
+
+Permite agregar [Border Width](https://docs.apphive.io/global-functions/estilos/border-width) y [Border Radius](https://docs.apphive.io/global-functions/estilos/border-radius)
+

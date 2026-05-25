@@ -1,24 +1,26 @@
 ---
-description: The platform to create dynamic mobile apps without code knowledge
+description: >-
+  La plataforma para crear aplicaciones móviles sin conocimientos de
+  programación
 ---
 
-# 👋 Welcome to Apphive
+# 👋 Bienvenido a Apphive
 
-## Getting Started
+## Inicio
 
-[Creating A New Project](creating-a-new-project/README.md)
+[Crear Un Nuevo Proyecto](crear-un-nuevo-proyecto/README.md)
 
-[App Layout](app-layout/README.md)
+[Diseno De La App](diseno-de-la-app/README.md)
 
-[Apphive Previewer App](apphive-previewer-app/README.md)
+[Previsualizador Apphive](previsualizador-apphive/README.md)
 
-### Reference
+### Referencia
 
-[Database](reference/database/README.md)
+[Base De Datos](reference/base-de-datos/README.md)
 
-[Database Editor](reference/database/database-editor/README.md)
+[Database Editor](reference/base-de-datos/database-editor/README.md)
 
-[Database](reference/database/database/README.md)
+[Database](reference/base-de-datos/database/README.md)
 
 
 

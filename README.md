@@ -3,40 +3,62 @@
 Documentación oficial de Apphive (https://docs.apphive.io), construida con
 [MkDocs Material](https://squidfunk.github.io/mkdocs-material/).
 
-> Migrado desde GitBook. El contenido vive en Markdown puro dentro de `docs/`.
+> Migrado desde GitBook. Sitio **bilingüe**: español por defecto en la raíz,
+> inglés bajo `/en/`. Selector de idioma nativo de Material en la barra superior.
+
+## Estructura
+
+- `docs/` — contenido en **español** (sitio por defecto, servido en `/`).
+- `docs-en/` — contenido en **inglés** (servido en `/en/`).
+- `*/gitbook/assets/` — imágenes y GIFs de cada idioma.
+- `*/SUMMARY.md` — índice heredado de GitBook (excluido del build; útil de referencia).
+- `mkdocs.yml` — config español (raíz) + redirecciones de URLs viejas de GitBook.
+- `mkdocs.en.yml` — config inglés (`/en/`).
 
 ## Desarrollo local
 
 ```bash
-python3 -m venv .venv
-source .venv/bin/activate
+python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
-mkdocs serve            # http://127.0.0.1:8000
+
+# Español (raíz)
+mkdocs serve -f mkdocs.yml            # http://127.0.0.1:8000
+
+# Inglés
+mkdocs serve -f mkdocs.en.yml
 ```
 
-## Estructura
+Para previsualizar el sitio combinado tal como se publica:
 
-- `docs/` — todo el contenido en Markdown (cada carpeta usa `README.md` como índice).
-- `docs/gitbook/assets/` — imágenes y GIFs.
-- `docs/SUMMARY.md` — índice heredado de GitBook (no se usa en el build, excluido).
-- `mkdocs.yml` — config + navegación (`nav:`).
+```bash
+mkdocs build -f mkdocs.yml    --site-dir _site
+mkdocs build -f mkdocs.en.yml --site-dir _site/en
+python3 -m http.server -d _site 8000
+```
 
-### Sintaxis (ya no es GitBook)
+## Sintaxis (ya no es GitBook)
 
-- Avisos: usa admonitions de Material en vez de `{% hint %}`:
+- Avisos: admonitions de Material en vez de `{% hint %}`:
   ```markdown
   !!! info
       Texto del aviso.
   ```
   Tipos: `note`, `info`, `tip`, `success`, `warning`, `danger`.
-- Enlaces entre páginas: enlaces Markdown normales (`[texto](ruta.md)`).
+- Pestañas: `=== "Título"` (en vez de `{% tabs %}`).
+- Enlaces entre páginas: enlaces Markdown normales.
+
+## Redirecciones de URLs viejas
+
+`mkdocs.yml` incluye `plugins: redirects` con el mapeo de las URLs viejas de
+GitBook → nuevas. Las del espacio español (`/apphive-documentacion/*`) están
+mapeadas 1:1. Para agregar más, edita `redirect_maps` en `mkdocs.yml`.
 
 ## Deploy
 
 Automático: cada push a `master` dispara `.github/workflows/deploy-docs.yml`,
-que construye el sitio y lo publica en GitHub Pages.
+que construye ambos idiomas y publica en GitHub Pages.
 
-Para que funcione la primera vez:
-1. **Settings → Pages → Build and deployment → Source: GitHub Actions**.
+Primera vez:
+1. **Settings → Pages → Source: GitHub Actions**.
 2. DNS: `CNAME` de `docs.apphive.io` → `apphiveio.github.io`.
 3. **Settings → Pages → Custom domain:** `docs.apphive.io` (+ Enforce HTTPS).
