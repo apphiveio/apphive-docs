@@ -6,3 +6,10 @@ La función read QR code permite hacer lectura de códigos QR visibles y legible
 
 [Información general](https://docs.apphive.io/reference/funciones/informacion-general-de-las-funciones)
 
+
+
+=== "Callbacks"
+
+    ## on QR code read
+
+    Se activa cuando se realza la lectura de un código QR retornando la información correspondiente al código 

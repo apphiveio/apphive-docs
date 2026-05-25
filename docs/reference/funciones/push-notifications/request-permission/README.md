@@ -9,3 +9,14 @@ La función Request Permissions permite al usuario tener los permisos necesarios
     La primera vez que se llama esta función aparece una ventana para aceptar o cancelar el permiso
 
 
+
+
+=== "Callbacks"
+
+    ## Error
+
+    Se activa cuando no se aceptan o no se tienen los permisos para poder recibir las notificaciones push
+
+    ## Success
+
+    Se activa cuando se acepta o se aprueba el permiso para recibir notificaciones push

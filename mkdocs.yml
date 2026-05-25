@@ -64,351 +64,351 @@ plugins:
         'apphive-documentacion/iniciar/apphive-ai.md': 'iniciar/apphive-ai.md'
         'apphive-documentacion/reference/controles.md': 'reference/controles/README.md'
         'apphive-documentacion/reference/controles/graphic-view.md': 'reference/controles/graphic-view/README.md'
-        'apphive-documentacion/reference/controles/graphic-view/style.md': 'reference/controles/graphic-view/style.md'
-        'apphive-documentacion/reference/controles/graphic-view/data.md': 'reference/controles/graphic-view/data.md'
+        'apphive-documentacion/reference/controles/graphic-view/style.md': 'reference/controles/graphic-view/README.md'
+        'apphive-documentacion/reference/controles/graphic-view/data.md': 'reference/controles/graphic-view/README.md'
         'apphive-documentacion/reference/controles/page.md': 'reference/controles/page/README.md'
-        'apphive-documentacion/reference/controles/page/style.md': 'reference/controles/page/style.md'
-        'apphive-documentacion/reference/controles/page/data.md': 'reference/controles/page/data.md'
-        'apphive-documentacion/reference/controles/page/events.md': 'reference/controles/page/events.md'
+        'apphive-documentacion/reference/controles/page/style.md': 'reference/controles/page/README.md'
+        'apphive-documentacion/reference/controles/page/data.md': 'reference/controles/page/README.md'
+        'apphive-documentacion/reference/controles/page/events.md': 'reference/controles/page/README.md'
         'apphive-documentacion/reference/controles/button.md': 'reference/controles/button.md'
         'apphive-documentacion/reference/controles/swiper.md': 'reference/controles/swiper/README.md'
-        'apphive-documentacion/reference/controles/swiper/style.md': 'reference/controles/swiper/style.md'
-        'apphive-documentacion/reference/controles/swiper/data.md': 'reference/controles/swiper/data.md'
-        'apphive-documentacion/reference/controles/swiper/events.md': 'reference/controles/swiper/events.md'
+        'apphive-documentacion/reference/controles/swiper/style.md': 'reference/controles/swiper/README.md'
+        'apphive-documentacion/reference/controles/swiper/data.md': 'reference/controles/swiper/README.md'
+        'apphive-documentacion/reference/controles/swiper/events.md': 'reference/controles/swiper/README.md'
         'apphive-documentacion/reference/controles/video-view.md': 'reference/controles/video-view/README.md'
-        'apphive-documentacion/reference/controles/video-view/style.md': 'reference/controles/video-view/style.md'
-        'apphive-documentacion/reference/controles/video-view/data.md': 'reference/controles/video-view/data.md'
+        'apphive-documentacion/reference/controles/video-view/style.md': 'reference/controles/video-view/README.md'
+        'apphive-documentacion/reference/controles/video-view/data.md': 'reference/controles/video-view/README.md'
         'apphive-documentacion/reference/controles/icon.md': 'reference/controles/icon/README.md'
-        'apphive-documentacion/reference/controles/icon/style.md': 'reference/controles/icon/style.md'
-        'apphive-documentacion/reference/controles/icon/data.md': 'reference/controles/icon/data.md'
-        'apphive-documentacion/reference/controles/icon/events.md': 'reference/controles/icon/events.md'
+        'apphive-documentacion/reference/controles/icon/style.md': 'reference/controles/icon/README.md'
+        'apphive-documentacion/reference/controles/icon/data.md': 'reference/controles/icon/README.md'
+        'apphive-documentacion/reference/controles/icon/events.md': 'reference/controles/icon/README.md'
         'apphive-documentacion/reference/controles/calendar.md': 'reference/controles/calendar/README.md'
-        'apphive-documentacion/reference/controles/calendar/data.md': 'reference/controles/calendar/data.md'
-        'apphive-documentacion/reference/controles/calendar/events.md': 'reference/controles/calendar/events.md'
+        'apphive-documentacion/reference/controles/calendar/data.md': 'reference/controles/calendar/README.md'
+        'apphive-documentacion/reference/controles/calendar/events.md': 'reference/controles/calendar/README.md'
         'apphive-documentacion/reference/controles/web-view.md': 'reference/controles/web-view/README.md'
-        'apphive-documentacion/reference/controles/web-view/style.md': 'reference/controles/web-view/style.md'
-        'apphive-documentacion/reference/controles/web-view/data.md': 'reference/controles/web-view/data.md'
+        'apphive-documentacion/reference/controles/web-view/style.md': 'reference/controles/web-view/README.md'
+        'apphive-documentacion/reference/controles/web-view/data.md': 'reference/controles/web-view/README.md'
         'apphive-documentacion/reference/controles/mapa.md': 'reference/controles/mapa/README.md'
-        'apphive-documentacion/reference/controles/mapa/style.md': 'reference/controles/mapa/style.md'
-        'apphive-documentacion/reference/controles/mapa/data.md': 'reference/controles/mapa/data.md'
-        'apphive-documentacion/reference/controles/mapa/events.md': 'reference/controles/mapa/events.md'
+        'apphive-documentacion/reference/controles/mapa/style.md': 'reference/controles/mapa/README.md'
+        'apphive-documentacion/reference/controles/mapa/data.md': 'reference/controles/mapa/README.md'
+        'apphive-documentacion/reference/controles/mapa/events.md': 'reference/controles/mapa/README.md'
         'apphive-documentacion/reference/controles/camenra-view.md': 'reference/controles/camenra-view/README.md'
-        'apphive-documentacion/reference/controles/camenra-view/style.md': 'reference/controles/camenra-view/style.md'
-        'apphive-documentacion/reference/controles/camenra-view/data.md': 'reference/controles/camenra-view/data.md'
-        'apphive-documentacion/reference/controles/camenra-view/events.md': 'reference/controles/camenra-view/events.md'
+        'apphive-documentacion/reference/controles/camenra-view/style.md': 'reference/controles/camenra-view/README.md'
+        'apphive-documentacion/reference/controles/camenra-view/data.md': 'reference/controles/camenra-view/README.md'
+        'apphive-documentacion/reference/controles/camenra-view/events.md': 'reference/controles/camenra-view/README.md'
         'apphive-documentacion/reference/controles/image.md': 'reference/controles/image/README.md'
-        'apphive-documentacion/reference/controles/image/style.md': 'reference/controles/image/style.md'
-        'apphive-documentacion/reference/controles/image/data.md': 'reference/controles/image/data.md'
-        'apphive-documentacion/reference/controles/image/events.md': 'reference/controles/image/events.md'
+        'apphive-documentacion/reference/controles/image/style.md': 'reference/controles/image/README.md'
+        'apphive-documentacion/reference/controles/image/data.md': 'reference/controles/image/README.md'
+        'apphive-documentacion/reference/controles/image/events.md': 'reference/controles/image/README.md'
         'apphive-documentacion/reference/controles/slider.md': 'reference/controles/slider/README.md'
-        'apphive-documentacion/reference/controles/slider/style.md': 'reference/controles/slider/style.md'
-        'apphive-documentacion/reference/controles/slider/data.md': 'reference/controles/slider/data.md'
-        'apphive-documentacion/reference/controles/slider/events.md': 'reference/controles/slider/events.md'
+        'apphive-documentacion/reference/controles/slider/style.md': 'reference/controles/slider/README.md'
+        'apphive-documentacion/reference/controles/slider/data.md': 'reference/controles/slider/README.md'
+        'apphive-documentacion/reference/controles/slider/events.md': 'reference/controles/slider/README.md'
         'apphive-documentacion/reference/controles/radio.md': 'reference/controles/radio/README.md'
-        'apphive-documentacion/reference/controles/radio/style.md': 'reference/controles/radio/style.md'
-        'apphive-documentacion/reference/controles/radio/data.md': 'reference/controles/radio/data.md'
-        'apphive-documentacion/reference/controles/radio/events.md': 'reference/controles/radio/events.md'
+        'apphive-documentacion/reference/controles/radio/style.md': 'reference/controles/radio/README.md'
+        'apphive-documentacion/reference/controles/radio/data.md': 'reference/controles/radio/README.md'
+        'apphive-documentacion/reference/controles/radio/events.md': 'reference/controles/radio/README.md'
         'apphive-documentacion/reference/controles/picker.md': 'reference/controles/picker/README.md'
-        'apphive-documentacion/reference/controles/picker/style.md': 'reference/controles/picker/style.md'
-        'apphive-documentacion/reference/controles/picker/data.md': 'reference/controles/picker/data.md'
-        'apphive-documentacion/reference/controles/picker/events.md': 'reference/controles/picker/events.md'
+        'apphive-documentacion/reference/controles/picker/style.md': 'reference/controles/picker/README.md'
+        'apphive-documentacion/reference/controles/picker/data.md': 'reference/controles/picker/README.md'
+        'apphive-documentacion/reference/controles/picker/events.md': 'reference/controles/picker/README.md'
         'apphive-documentacion/reference/controles/switch.md': 'reference/controles/switch/README.md'
-        'apphive-documentacion/reference/controles/switch/style.md': 'reference/controles/switch/style.md'
-        'apphive-documentacion/reference/controles/switch/data.md': 'reference/controles/switch/data.md'
-        'apphive-documentacion/reference/controles/switch/events.md': 'reference/controles/switch/events.md'
+        'apphive-documentacion/reference/controles/switch/style.md': 'reference/controles/switch/README.md'
+        'apphive-documentacion/reference/controles/switch/data.md': 'reference/controles/switch/README.md'
+        'apphive-documentacion/reference/controles/switch/events.md': 'reference/controles/switch/README.md'
         'apphive-documentacion/reference/controles/field.md': 'reference/controles/field/README.md'
-        'apphive-documentacion/reference/controles/field/style.md': 'reference/controles/field/style.md'
-        'apphive-documentacion/reference/controles/field/data.md': 'reference/controles/field/data.md'
-        'apphive-documentacion/reference/controles/field/events.md': 'reference/controles/field/events.md'
+        'apphive-documentacion/reference/controles/field/style.md': 'reference/controles/field/README.md'
+        'apphive-documentacion/reference/controles/field/data.md': 'reference/controles/field/README.md'
+        'apphive-documentacion/reference/controles/field/events.md': 'reference/controles/field/README.md'
         'apphive-documentacion/reference/controles/untitled.md': 'reference/controles/untitled/README.md'
-        'apphive-documentacion/reference/controles/untitled/style.md': 'reference/controles/untitled/style.md'
-        'apphive-documentacion/reference/controles/untitled/data.md': 'reference/controles/untitled/data.md'
-        'apphive-documentacion/reference/controles/untitled/events.md': 'reference/controles/untitled/events.md'
+        'apphive-documentacion/reference/controles/untitled/style.md': 'reference/controles/untitled/README.md'
+        'apphive-documentacion/reference/controles/untitled/data.md': 'reference/controles/untitled/README.md'
+        'apphive-documentacion/reference/controles/untitled/events.md': 'reference/controles/untitled/README.md'
         'apphive-documentacion/reference/controles/container.md': 'reference/controles/container/README.md'
-        'apphive-documentacion/reference/controles/container/style.md': 'reference/controles/container/style.md'
-        'apphive-documentacion/reference/controles/container/data.md': 'reference/controles/container/data.md'
-        'apphive-documentacion/reference/controles/container/untitled.md': 'reference/controles/container/untitled.md'
+        'apphive-documentacion/reference/controles/container/style.md': 'reference/controles/container/README.md'
+        'apphive-documentacion/reference/controles/container/data.md': 'reference/controles/container/README.md'
+        'apphive-documentacion/reference/controles/container/untitled.md': 'reference/controles/container/README.md'
         'apphive-documentacion/reference/funciones.md': 'reference/funciones/README.md'
         'apphive-documentacion/reference/funciones/controls.md': 'reference/funciones/controls/README.md'
         'apphive-documentacion/reference/funciones/controls/modify-control.md': 'reference/funciones/controls/modify-control.md'
         'apphive-documentacion/reference/funciones/controls/trigger-event.md': 'reference/funciones/controls/trigger-event/README.md'
-        'apphive-documentacion/reference/funciones/controls/trigger-event/callbacks.md': 'reference/funciones/controls/trigger-event/callbacks.md'
-        'apphive-documentacion/reference/funciones/controls/trigger-event/entry-vars.md': 'reference/funciones/controls/trigger-event/entry-vars.md'
+        'apphive-documentacion/reference/funciones/controls/trigger-event/callbacks.md': 'reference/funciones/controls/trigger-event/README.md'
+        'apphive-documentacion/reference/funciones/controls/trigger-event/entry-vars.md': 'reference/funciones/controls/trigger-event/README.md'
         'apphive-documentacion/reference/funciones/controls/open-image-viewer.md': 'reference/funciones/controls/open-image-viewer/README.md'
-        'apphive-documentacion/reference/funciones/controls/open-image-viewer/entry-vars.md': 'reference/funciones/controls/open-image-viewer/entry-vars.md'
+        'apphive-documentacion/reference/funciones/controls/open-image-viewer/entry-vars.md': 'reference/funciones/controls/open-image-viewer/README.md'
         'apphive-documentacion/reference/funciones/controls/toogle-page-loading.md': 'reference/funciones/controls/toogle-page-loading/README.md'
-        'apphive-documentacion/reference/funciones/controls/toogle-page-loading/entry-vars.md': 'reference/funciones/controls/toogle-page-loading/entry-vars.md'
+        'apphive-documentacion/reference/funciones/controls/toogle-page-loading/entry-vars.md': 'reference/funciones/controls/toogle-page-loading/README.md'
         'apphive-documentacion/reference/funciones/controls/toogle-bottom-menu-sheet.md': 'reference/funciones/controls/toogle-bottom-menu-sheet/README.md'
-        'apphive-documentacion/reference/funciones/controls/toogle-bottom-menu-sheet/callbacks.md': 'reference/funciones/controls/toogle-bottom-menu-sheet/callbacks.md'
-        'apphive-documentacion/reference/funciones/controls/toogle-bottom-menu-sheet/entry-vars.md': 'reference/funciones/controls/toogle-bottom-menu-sheet/entry-vars.md'
+        'apphive-documentacion/reference/funciones/controls/toogle-bottom-menu-sheet/callbacks.md': 'reference/funciones/controls/toogle-bottom-menu-sheet/README.md'
+        'apphive-documentacion/reference/funciones/controls/toogle-bottom-menu-sheet/entry-vars.md': 'reference/funciones/controls/toogle-bottom-menu-sheet/README.md'
         'apphive-documentacion/reference/funciones/controls/add-collection-to-ui.md': 'reference/funciones/controls/add-collection-to-ui/README.md'
-        'apphive-documentacion/reference/funciones/controls/add-collection-to-ui/entry-vars.md': 'reference/funciones/controls/add-collection-to-ui/entry-vars.md'
+        'apphive-documentacion/reference/funciones/controls/add-collection-to-ui/entry-vars.md': 'reference/funciones/controls/add-collection-to-ui/README.md'
         'apphive-documentacion/reference/funciones/controls/toogle-side-menu.md': 'reference/funciones/controls/toogle-side-menu/README.md'
-        'apphive-documentacion/reference/funciones/controls/toogle-side-menu/callbacks.md': 'reference/funciones/controls/toogle-side-menu/callbacks.md'
+        'apphive-documentacion/reference/funciones/controls/toogle-side-menu/callbacks.md': 'reference/funciones/controls/toogle-side-menu/README.md'
         'apphive-documentacion/reference/funciones/controls/iterate-children.md': 'reference/funciones/controls/iterate-children/README.md'
-        'apphive-documentacion/reference/funciones/controls/iterate-children/callbacks.md': 'reference/funciones/controls/iterate-children/callbacks.md'
-        'apphive-documentacion/reference/funciones/controls/iterate-children/entry-vars.md': 'reference/funciones/controls/iterate-children/entry-vars.md'
+        'apphive-documentacion/reference/funciones/controls/iterate-children/callbacks.md': 'reference/funciones/controls/iterate-children/README.md'
+        'apphive-documentacion/reference/funciones/controls/iterate-children/entry-vars.md': 'reference/funciones/controls/iterate-children/README.md'
         'apphive-documentacion/reference/funciones/controls/generate-swiper-content.md': 'reference/funciones/controls/generate-swiper-content/README.md'
-        'apphive-documentacion/reference/funciones/controls/generate-swiper-content/callbacks.md': 'reference/funciones/controls/generate-swiper-content/callbacks.md'
-        'apphive-documentacion/reference/funciones/controls/generate-swiper-content/entry-vars.md': 'reference/funciones/controls/generate-swiper-content/entry-vars.md'
+        'apphive-documentacion/reference/funciones/controls/generate-swiper-content/callbacks.md': 'reference/funciones/controls/generate-swiper-content/README.md'
+        'apphive-documentacion/reference/funciones/controls/generate-swiper-content/entry-vars.md': 'reference/funciones/controls/generate-swiper-content/README.md'
         'apphive-documentacion/reference/funciones/app-processes.md': 'reference/funciones/app-processes.md'
         'apphive-documentacion/reference/funciones/navigation-1.md': 'reference/funciones/navigation-1/README.md'
         'apphive-documentacion/reference/funciones/navigation-1/replace-screen.md': 'reference/funciones/navigation-1/replace-screen/README.md'
-        'apphive-documentacion/reference/funciones/navigation-1/replace-screen/entry-vars.md': 'reference/funciones/navigation-1/replace-screen/entry-vars.md'
+        'apphive-documentacion/reference/funciones/navigation-1/replace-screen/entry-vars.md': 'reference/funciones/navigation-1/replace-screen/README.md'
         'apphive-documentacion/reference/funciones/navigation-1/push-screen.md': 'reference/funciones/navigation-1/push-screen/README.md'
-        'apphive-documentacion/reference/funciones/navigation-1/push-screen/entry-vars.md': 'reference/funciones/navigation-1/push-screen/entry-vars.md'
+        'apphive-documentacion/reference/funciones/navigation-1/push-screen/entry-vars.md': 'reference/funciones/navigation-1/push-screen/README.md'
         'apphive-documentacion/reference/funciones/navigation-1/return-to-last-screen.md': 'reference/funciones/navigation-1/return-to-last-screen.md'
         'apphive-documentacion/reference/funciones/push-notifications.md': 'reference/funciones/push-notifications/README.md'
         'apphive-documentacion/reference/funciones/push-notifications/trigger-app-process.md': 'reference/funciones/push-notifications/trigger-app-process/README.md'
-        'apphive-documentacion/reference/funciones/push-notifications/trigger-app-process/entry-vars.md': 'reference/funciones/push-notifications/trigger-app-process/entry-vars.md'
+        'apphive-documentacion/reference/funciones/push-notifications/trigger-app-process/entry-vars.md': 'reference/funciones/push-notifications/trigger-app-process/README.md'
         'apphive-documentacion/reference/funciones/push-notifications/send-push.md': 'reference/funciones/push-notifications/send-push/README.md'
-        'apphive-documentacion/reference/funciones/push-notifications/send-push/callbacks.md': 'reference/funciones/push-notifications/send-push/callbacks.md'
-        'apphive-documentacion/reference/funciones/push-notifications/send-push/entry-vars.md': 'reference/funciones/push-notifications/send-push/entry-vars.md'
+        'apphive-documentacion/reference/funciones/push-notifications/send-push/callbacks.md': 'reference/funciones/push-notifications/send-push/README.md'
+        'apphive-documentacion/reference/funciones/push-notifications/send-push/entry-vars.md': 'reference/funciones/push-notifications/send-push/README.md'
         'apphive-documentacion/reference/funciones/push-notifications/request-permission.md': 'reference/funciones/push-notifications/request-permission/README.md'
-        'apphive-documentacion/reference/funciones/push-notifications/request-permission/callbacks.md': 'reference/funciones/push-notifications/request-permission/callbacks.md'
+        'apphive-documentacion/reference/funciones/push-notifications/request-permission/callbacks.md': 'reference/funciones/push-notifications/request-permission/README.md'
         'apphive-documentacion/reference/funciones/geolocalization.md': 'reference/funciones/geolocalization/README.md'
         'apphive-documentacion/reference/funciones/geolocalization/start-geolocation-tracking-http.md': 'reference/funciones/geolocalization/start-geolocation-tracking-http/README.md'
-        'apphive-documentacion/reference/funciones/geolocalization/start-geolocation-tracking-http/callbacks.md': 'reference/funciones/geolocalization/start-geolocation-tracking-http/callbacks.md'
-        'apphive-documentacion/reference/funciones/geolocalization/start-geolocation-tracking-http/entry-vars.md': 'reference/funciones/geolocalization/start-geolocation-tracking-http/entry-vars.md'
+        'apphive-documentacion/reference/funciones/geolocalization/start-geolocation-tracking-http/callbacks.md': 'reference/funciones/geolocalization/start-geolocation-tracking-http/README.md'
+        'apphive-documentacion/reference/funciones/geolocalization/start-geolocation-tracking-http/entry-vars.md': 'reference/funciones/geolocalization/start-geolocation-tracking-http/README.md'
         'apphive-documentacion/reference/funciones/geolocalization/start-geolocation-tracking.md': 'reference/funciones/geolocalization/start-geolocation-tracking/README.md'
-        'apphive-documentacion/reference/funciones/geolocalization/start-geolocation-tracking/callbacks.md': 'reference/funciones/geolocalization/start-geolocation-tracking/callbacks.md'
-        'apphive-documentacion/reference/funciones/geolocalization/start-geolocation-tracking/entry-vars.md': 'reference/funciones/geolocalization/start-geolocation-tracking/entry-vars.md'
+        'apphive-documentacion/reference/funciones/geolocalization/start-geolocation-tracking/callbacks.md': 'reference/funciones/geolocalization/start-geolocation-tracking/README.md'
+        'apphive-documentacion/reference/funciones/geolocalization/start-geolocation-tracking/entry-vars.md': 'reference/funciones/geolocalization/start-geolocation-tracking/README.md'
         'apphive-documentacion/reference/funciones/geolocalization/stop-geolocation-tracking.md': 'reference/funciones/geolocalization/stop-geolocation-tracking/README.md'
-        'apphive-documentacion/reference/funciones/geolocalization/stop-geolocation-tracking/callbacks.md': 'reference/funciones/geolocalization/stop-geolocation-tracking/callbacks.md'
+        'apphive-documentacion/reference/funciones/geolocalization/stop-geolocation-tracking/callbacks.md': 'reference/funciones/geolocalization/stop-geolocation-tracking/README.md'
         'apphive-documentacion/reference/funciones/geolocalization/get-geolocation.md': 'reference/funciones/geolocalization/get-geolocation/README.md'
-        'apphive-documentacion/reference/funciones/geolocalization/get-geolocation/callbacks.md': 'reference/funciones/geolocalization/get-geolocation/callbacks.md'
-        'apphive-documentacion/reference/funciones/geolocalization/get-geolocation/entry-vars.md': 'reference/funciones/geolocalization/get-geolocation/entry-vars.md'
+        'apphive-documentacion/reference/funciones/geolocalization/get-geolocation/callbacks.md': 'reference/funciones/geolocalization/get-geolocation/README.md'
+        'apphive-documentacion/reference/funciones/geolocalization/get-geolocation/entry-vars.md': 'reference/funciones/geolocalization/get-geolocation/README.md'
         'apphive-documentacion/reference/funciones/geolocalization/get-distance.md': 'reference/funciones/geolocalization/get-distance/README.md'
-        'apphive-documentacion/reference/funciones/geolocalization/get-distance/callbacks.md': 'reference/funciones/geolocalization/get-distance/callbacks.md'
-        'apphive-documentacion/reference/funciones/geolocalization/get-distance/entry-vars.md': 'reference/funciones/geolocalization/get-distance/entry-vars.md'
+        'apphive-documentacion/reference/funciones/geolocalization/get-distance/callbacks.md': 'reference/funciones/geolocalization/get-distance/README.md'
+        'apphive-documentacion/reference/funciones/geolocalization/get-distance/entry-vars.md': 'reference/funciones/geolocalization/get-distance/README.md'
         'apphive-documentacion/reference/funciones/geolocalization/untitled.md': 'reference/funciones/geolocalization/untitled/README.md'
-        'apphive-documentacion/reference/funciones/geolocalization/untitled/callbacks.md': 'reference/funciones/geolocalization/untitled/callbacks.md'
-        'apphive-documentacion/reference/funciones/geolocalization/untitled/entry-vars.md': 'reference/funciones/geolocalization/untitled/entry-vars.md'
+        'apphive-documentacion/reference/funciones/geolocalization/untitled/callbacks.md': 'reference/funciones/geolocalization/untitled/README.md'
+        'apphive-documentacion/reference/funciones/geolocalization/untitled/entry-vars.md': 'reference/funciones/geolocalization/untitled/README.md'
         'apphive-documentacion/reference/funciones/geolocalization/set-fire-geolocation.md': 'reference/funciones/geolocalization/set-fire-geolocation/README.md'
-        'apphive-documentacion/reference/funciones/geolocalization/set-fire-geolocation/entry-vars.md': 'reference/funciones/geolocalization/set-fire-geolocation/entry-vars.md'
+        'apphive-documentacion/reference/funciones/geolocalization/set-fire-geolocation/entry-vars.md': 'reference/funciones/geolocalization/set-fire-geolocation/README.md'
         'apphive-documentacion/reference/funciones/geolocalization/remove-fire-geolocation.md': 'reference/funciones/geolocalization/remove-fire-geolocation/README.md'
-        'apphive-documentacion/reference/funciones/geolocalization/remove-fire-geolocation/callbacks.md': 'reference/funciones/geolocalization/remove-fire-geolocation/callbacks.md'
-        'apphive-documentacion/reference/funciones/geolocalization/remove-fire-geolocation/entry-vars.md': 'reference/funciones/geolocalization/remove-fire-geolocation/entry-vars.md'
+        'apphive-documentacion/reference/funciones/geolocalization/remove-fire-geolocation/callbacks.md': 'reference/funciones/geolocalization/remove-fire-geolocation/README.md'
+        'apphive-documentacion/reference/funciones/geolocalization/remove-fire-geolocation/entry-vars.md': 'reference/funciones/geolocalization/remove-fire-geolocation/README.md'
         'apphive-documentacion/reference/funciones/geolocalization/query-fire-geolocation.md': 'reference/funciones/geolocalization/query-fire-geolocation/README.md'
-        'apphive-documentacion/reference/funciones/geolocalization/query-fire-geolocation/callbacks.md': 'reference/funciones/geolocalization/query-fire-geolocation/callbacks.md'
-        'apphive-documentacion/reference/funciones/geolocalization/query-fire-geolocation/entry-vars.md': 'reference/funciones/geolocalization/query-fire-geolocation/entry-vars.md'
+        'apphive-documentacion/reference/funciones/geolocalization/query-fire-geolocation/callbacks.md': 'reference/funciones/geolocalization/query-fire-geolocation/README.md'
+        'apphive-documentacion/reference/funciones/geolocalization/query-fire-geolocation/entry-vars.md': 'reference/funciones/geolocalization/query-fire-geolocation/README.md'
         'apphive-documentacion/reference/funciones/geolocalization/get-all-fire-geolocation.md': 'reference/funciones/geolocalization/get-all-fire-geolocation/README.md'
-        'apphive-documentacion/reference/funciones/geolocalization/get-all-fire-geolocation/callbacks.md': 'reference/funciones/geolocalization/get-all-fire-geolocation/callbacks.md'
-        'apphive-documentacion/reference/funciones/geolocalization/get-all-fire-geolocation/entry-vars.md': 'reference/funciones/geolocalization/get-all-fire-geolocation/entry-vars.md'
+        'apphive-documentacion/reference/funciones/geolocalization/get-all-fire-geolocation/callbacks.md': 'reference/funciones/geolocalization/get-all-fire-geolocation/README.md'
+        'apphive-documentacion/reference/funciones/geolocalization/get-all-fire-geolocation/entry-vars.md': 'reference/funciones/geolocalization/get-all-fire-geolocation/README.md'
         'apphive-documentacion/reference/funciones/geolocalization/get-fire-geolocation.md': 'reference/funciones/geolocalization/get-fire-geolocation/README.md'
-        'apphive-documentacion/reference/funciones/geolocalization/get-fire-geolocation/callbacks.md': 'reference/funciones/geolocalization/get-fire-geolocation/callbacks.md'
-        'apphive-documentacion/reference/funciones/geolocalization/get-fire-geolocation/entry-vars.md': 'reference/funciones/geolocalization/get-fire-geolocation/entry-vars.md'
+        'apphive-documentacion/reference/funciones/geolocalization/get-fire-geolocation/callbacks.md': 'reference/funciones/geolocalization/get-fire-geolocation/README.md'
+        'apphive-documentacion/reference/funciones/geolocalization/get-fire-geolocation/entry-vars.md': 'reference/funciones/geolocalization/get-fire-geolocation/README.md'
         'apphive-documentacion/reference/funciones/geolocalization/geo-fire.md': 'reference/funciones/geolocalization/geo-fire.md'
         'apphive-documentacion/reference/funciones/phone-apis-e.md': 'reference/funciones/phone-apis-e/README.md'
         'apphive-documentacion/reference/funciones/phone-apis-e/set-audio-time.md': 'reference/funciones/phone-apis-e/set-audio-time.md'
         'apphive-documentacion/reference/funciones/phone-apis-e/dismisskeyboard.md': 'reference/funciones/phone-apis-e/dismisskeyboard.md'
         'apphive-documentacion/reference/funciones/phone-apis-e/read-sms-android.md': 'reference/funciones/phone-apis-e/read-sms-android/README.md'
-        'apphive-documentacion/reference/funciones/phone-apis-e/read-sms-android/callbacks.md': 'reference/funciones/phone-apis-e/read-sms-android/callbacks.md'
+        'apphive-documentacion/reference/funciones/phone-apis-e/read-sms-android/callbacks.md': 'reference/funciones/phone-apis-e/read-sms-android/README.md'
         'apphive-documentacion/reference/funciones/phone-apis-e/is-audio-playing.md': 'reference/funciones/phone-apis-e/is-audio-playing/README.md'
-        'apphive-documentacion/reference/funciones/phone-apis-e/is-audio-playing/callbacks.md': 'reference/funciones/phone-apis-e/is-audio-playing/callbacks.md'
+        'apphive-documentacion/reference/funciones/phone-apis-e/is-audio-playing/callbacks.md': 'reference/funciones/phone-apis-e/is-audio-playing/README.md'
         'apphive-documentacion/reference/funciones/phone-apis-e/get-screen-dimentions.md': 'reference/funciones/phone-apis-e/get-screen-dimentions/README.md'
-        'apphive-documentacion/reference/funciones/phone-apis-e/get-screen-dimentions/callbacks.md': 'reference/funciones/phone-apis-e/get-screen-dimentions/callbacks.md'
+        'apphive-documentacion/reference/funciones/phone-apis-e/get-screen-dimentions/callbacks.md': 'reference/funciones/phone-apis-e/get-screen-dimentions/README.md'
         'apphive-documentacion/reference/funciones/phone-apis-e/getdeviceinfo.md': 'reference/funciones/phone-apis-e/getdeviceinfo/README.md'
-        'apphive-documentacion/reference/funciones/phone-apis-e/getdeviceinfo/callbacks.md': 'reference/funciones/phone-apis-e/getdeviceinfo/callbacks.md'
-        'apphive-documentacion/reference/funciones/phone-apis-e/getdeviceinfo/entry-vars.md': 'reference/funciones/phone-apis-e/getdeviceinfo/entry-vars.md'
+        'apphive-documentacion/reference/funciones/phone-apis-e/getdeviceinfo/callbacks.md': 'reference/funciones/phone-apis-e/getdeviceinfo/README.md'
+        'apphive-documentacion/reference/funciones/phone-apis-e/getdeviceinfo/entry-vars.md': 'reference/funciones/phone-apis-e/getdeviceinfo/README.md'
         'apphive-documentacion/reference/funciones/phone-apis-e/get-connection-type.md': 'reference/funciones/phone-apis-e/get-connection-type/README.md'
-        'apphive-documentacion/reference/funciones/phone-apis-e/get-connection-type/callbacks.md': 'reference/funciones/phone-apis-e/get-connection-type/callbacks.md'
+        'apphive-documentacion/reference/funciones/phone-apis-e/get-connection-type/callbacks.md': 'reference/funciones/phone-apis-e/get-connection-type/README.md'
         'apphive-documentacion/reference/funciones/phone-apis-e/vibration-phone.md': 'reference/funciones/phone-apis-e/vibration-phone/README.md'
-        'apphive-documentacion/reference/funciones/phone-apis-e/vibration-phone/entry-vars.md': 'reference/funciones/phone-apis-e/vibration-phone/entry-vars.md'
+        'apphive-documentacion/reference/funciones/phone-apis-e/vibration-phone/entry-vars.md': 'reference/funciones/phone-apis-e/vibration-phone/README.md'
         'apphive-documentacion/reference/funciones/phone-apis-e/take-a-video.md': 'reference/funciones/phone-apis-e/take-a-video/README.md'
-        'apphive-documentacion/reference/funciones/phone-apis-e/take-a-video/callbacks.md': 'reference/funciones/phone-apis-e/take-a-video/callbacks.md'
+        'apphive-documentacion/reference/funciones/phone-apis-e/take-a-video/callbacks.md': 'reference/funciones/phone-apis-e/take-a-video/README.md'
         'apphive-documentacion/reference/funciones/phone-apis-e/take-a-photo.md': 'reference/funciones/phone-apis-e/take-a-photo/README.md'
-        'apphive-documentacion/reference/funciones/phone-apis-e/take-a-photo/callbacks.md': 'reference/funciones/phone-apis-e/take-a-photo/callbacks.md'
+        'apphive-documentacion/reference/funciones/phone-apis-e/take-a-photo/callbacks.md': 'reference/funciones/phone-apis-e/take-a-photo/README.md'
         'apphive-documentacion/reference/funciones/phone-apis-e/stop-recording-audio.md': 'reference/funciones/phone-apis-e/stop-recording-audio/README.md'
-        'apphive-documentacion/reference/funciones/phone-apis-e/stop-recording-audio/callbacks.md': 'reference/funciones/phone-apis-e/stop-recording-audio/callbacks.md'
+        'apphive-documentacion/reference/funciones/phone-apis-e/stop-recording-audio/callbacks.md': 'reference/funciones/phone-apis-e/stop-recording-audio/README.md'
         'apphive-documentacion/reference/funciones/phone-apis-e/stop-playing-audio.md': 'reference/funciones/phone-apis-e/stop-playing-audio/README.md'
-        'apphive-documentacion/reference/funciones/phone-apis-e/stop-playing-audio/callbacks.md': 'reference/funciones/phone-apis-e/stop-playing-audio/callbacks.md'
+        'apphive-documentacion/reference/funciones/phone-apis-e/stop-playing-audio/callbacks.md': 'reference/funciones/phone-apis-e/stop-playing-audio/README.md'
         'apphive-documentacion/reference/funciones/phone-apis-e/untitled.md': 'reference/funciones/phone-apis-e/untitled/README.md'
-        'apphive-documentacion/reference/funciones/phone-apis-e/untitled/callbacks.md': 'reference/funciones/phone-apis-e/untitled/callbacks.md'
+        'apphive-documentacion/reference/funciones/phone-apis-e/untitled/callbacks.md': 'reference/funciones/phone-apis-e/untitled/README.md'
         'apphive-documentacion/reference/funciones/phone-apis-e/start-playing-audio.md': 'reference/funciones/phone-apis-e/start-playing-audio/README.md'
         'apphive-documentacion/reference/funciones/phone-apis-e/start-playing-audio/callback.md': 'reference/funciones/phone-apis-e/start-playing-audio/callback.md'
         'apphive-documentacion/reference/funciones/phone-apis-e/start-playing-audio/entry-vars.md': 'reference/funciones/phone-apis-e/start-playing-audio/entry-vars.md'
         'apphive-documentacion/reference/funciones/phone-apis-e/show-file-browser.md': 'reference/funciones/phone-apis-e/show-file-browser/README.md'
-        'apphive-documentacion/reference/funciones/phone-apis-e/show-file-browser/callbacks.md': 'reference/funciones/phone-apis-e/show-file-browser/callbacks.md'
-        'apphive-documentacion/reference/funciones/phone-apis-e/show-file-browser/entry-vars.md': 'reference/funciones/phone-apis-e/show-file-browser/entry-vars.md'
+        'apphive-documentacion/reference/funciones/phone-apis-e/show-file-browser/callbacks.md': 'reference/funciones/phone-apis-e/show-file-browser/README.md'
+        'apphive-documentacion/reference/funciones/phone-apis-e/show-file-browser/entry-vars.md': 'reference/funciones/phone-apis-e/show-file-browser/README.md'
         'apphive-documentacion/reference/funciones/phone-apis-e/share.md': 'reference/funciones/phone-apis-e/share/README.md'
-        'apphive-documentacion/reference/funciones/phone-apis-e/share/callbacks.md': 'reference/funciones/phone-apis-e/share/callbacks.md'
-        'apphive-documentacion/reference/funciones/phone-apis-e/share/entry-vars.md': 'reference/funciones/phone-apis-e/share/entry-vars.md'
+        'apphive-documentacion/reference/funciones/phone-apis-e/share/callbacks.md': 'reference/funciones/phone-apis-e/share/README.md'
+        'apphive-documentacion/reference/funciones/phone-apis-e/share/entry-vars.md': 'reference/funciones/phone-apis-e/share/README.md'
         'apphive-documentacion/reference/funciones/phone-apis-e/read-qr-code.md': 'reference/funciones/phone-apis-e/read-qr-code/README.md'
-        'apphive-documentacion/reference/funciones/phone-apis-e/read-qr-code/callbacks.md': 'reference/funciones/phone-apis-e/read-qr-code/callbacks.md'
+        'apphive-documentacion/reference/funciones/phone-apis-e/read-qr-code/callbacks.md': 'reference/funciones/phone-apis-e/read-qr-code/README.md'
         'apphive-documentacion/reference/funciones/phone-apis-e/barcode-read.md': 'reference/funciones/phone-apis-e/barcode-read/README.md'
-        'apphive-documentacion/reference/funciones/phone-apis-e/barcode-read/callbacks.md': 'reference/funciones/phone-apis-e/barcode-read/callbacks.md'
+        'apphive-documentacion/reference/funciones/phone-apis-e/barcode-read/callbacks.md': 'reference/funciones/phone-apis-e/barcode-read/README.md'
         'apphive-documentacion/reference/funciones/phone-apis-e/pause-playing-audio.md': 'reference/funciones/phone-apis-e/pause-playing-audio/README.md'
-        'apphive-documentacion/reference/funciones/phone-apis-e/pause-playing-audio/callbacks.md': 'reference/funciones/phone-apis-e/pause-playing-audio/callbacks.md'
+        'apphive-documentacion/reference/funciones/phone-apis-e/pause-playing-audio/callbacks.md': 'reference/funciones/phone-apis-e/pause-playing-audio/README.md'
         'apphive-documentacion/reference/funciones/phone-apis-e/open-whatsapp.md': 'reference/funciones/phone-apis-e/open-whatsapp/README.md'
-        'apphive-documentacion/reference/funciones/phone-apis-e/open-whatsapp/callbacks.md': 'reference/funciones/phone-apis-e/open-whatsapp/callbacks.md'
-        'apphive-documentacion/reference/funciones/phone-apis-e/open-whatsapp/entry-vars.md': 'reference/funciones/phone-apis-e/open-whatsapp/entry-vars.md'
+        'apphive-documentacion/reference/funciones/phone-apis-e/open-whatsapp/callbacks.md': 'reference/funciones/phone-apis-e/open-whatsapp/README.md'
+        'apphive-documentacion/reference/funciones/phone-apis-e/open-whatsapp/entry-vars.md': 'reference/funciones/phone-apis-e/open-whatsapp/README.md'
         'apphive-documentacion/reference/funciones/phone-apis-e/open-url.md': 'reference/funciones/phone-apis-e/open-url/README.md'
-        'apphive-documentacion/reference/funciones/phone-apis-e/open-url/entry-vars.md': 'reference/funciones/phone-apis-e/open-url/entry-vars.md'
+        'apphive-documentacion/reference/funciones/phone-apis-e/open-url/entry-vars.md': 'reference/funciones/phone-apis-e/open-url/README.md'
         'apphive-documentacion/reference/funciones/phone-apis-e/ope-geo-map.md': 'reference/funciones/phone-apis-e/ope-geo-map/README.md'
-        'apphive-documentacion/reference/funciones/phone-apis-e/ope-geo-map/callbacks.md': 'reference/funciones/phone-apis-e/ope-geo-map/callbacks.md'
-        'apphive-documentacion/reference/funciones/phone-apis-e/ope-geo-map/entry-vars.md': 'reference/funciones/phone-apis-e/ope-geo-map/entry-vars.md'
+        'apphive-documentacion/reference/funciones/phone-apis-e/ope-geo-map/callbacks.md': 'reference/funciones/phone-apis-e/ope-geo-map/README.md'
+        'apphive-documentacion/reference/funciones/phone-apis-e/ope-geo-map/entry-vars.md': 'reference/funciones/phone-apis-e/ope-geo-map/README.md'
         'apphive-documentacion/reference/funciones/phone-apis-e/open-calendar.md': 'reference/funciones/phone-apis-e/open-calendar/README.md'
-        'apphive-documentacion/reference/funciones/phone-apis-e/open-calendar/callbacks.md': 'reference/funciones/phone-apis-e/open-calendar/callbacks.md'
+        'apphive-documentacion/reference/funciones/phone-apis-e/open-calendar/callbacks.md': 'reference/funciones/phone-apis-e/open-calendar/README.md'
         'apphive-documentacion/reference/funciones/phone-apis-e/make-a-call.md': 'reference/funciones/phone-apis-e/make-a-call/README.md'
-        'apphive-documentacion/reference/funciones/phone-apis-e/make-a-call/entry-vars.md': 'reference/funciones/phone-apis-e/make-a-call/entry-vars.md'
+        'apphive-documentacion/reference/funciones/phone-apis-e/make-a-call/entry-vars.md': 'reference/funciones/phone-apis-e/make-a-call/README.md'
         'apphive-documentacion/reference/funciones/notifications-1.md': 'reference/funciones/notifications-1/README.md'
         'apphive-documentacion/reference/funciones/notifications-1/toast-notification.md': 'reference/funciones/notifications-1/toast-notification/README.md'
-        'apphive-documentacion/reference/funciones/notifications-1/toast-notification/entry-vars.md': 'reference/funciones/notifications-1/toast-notification/entry-vars.md'
+        'apphive-documentacion/reference/funciones/notifications-1/toast-notification/entry-vars.md': 'reference/funciones/notifications-1/toast-notification/README.md'
         'apphive-documentacion/reference/funciones/notifications-1/send-alert.md': 'reference/funciones/notifications-1/send-alert/README.md'
-        'apphive-documentacion/reference/funciones/notifications-1/send-alert/entry-vars.md': 'reference/funciones/notifications-1/send-alert/entry-vars.md'
+        'apphive-documentacion/reference/funciones/notifications-1/send-alert/entry-vars.md': 'reference/funciones/notifications-1/send-alert/README.md'
         'apphive-documentacion/reference/funciones/notifications-1/input-dialog.md': 'reference/funciones/notifications-1/input-dialog/README.md'
-        'apphive-documentacion/reference/funciones/notifications-1/input-dialog/callbacks.md': 'reference/funciones/notifications-1/input-dialog/callbacks.md'
-        'apphive-documentacion/reference/funciones/notifications-1/input-dialog/entry-vars.md': 'reference/funciones/notifications-1/input-dialog/entry-vars.md'
+        'apphive-documentacion/reference/funciones/notifications-1/input-dialog/callbacks.md': 'reference/funciones/notifications-1/input-dialog/README.md'
+        'apphive-documentacion/reference/funciones/notifications-1/input-dialog/entry-vars.md': 'reference/funciones/notifications-1/input-dialog/README.md'
         'apphive-documentacion/reference/funciones/notifications-1/confirmation-alert.md': 'reference/funciones/notifications-1/confirmation-alert/README.md'
-        'apphive-documentacion/reference/funciones/notifications-1/confirmation-alert/callbacks.md': 'reference/funciones/notifications-1/confirmation-alert/callbacks.md'
-        'apphive-documentacion/reference/funciones/notifications-1/confirmation-alert/entry-vars.md': 'reference/funciones/notifications-1/confirmation-alert/entry-vars.md'
+        'apphive-documentacion/reference/funciones/notifications-1/confirmation-alert/callbacks.md': 'reference/funciones/notifications-1/confirmation-alert/README.md'
+        'apphive-documentacion/reference/funciones/notifications-1/confirmation-alert/entry-vars.md': 'reference/funciones/notifications-1/confirmation-alert/README.md'
         'apphive-documentacion/reference/funciones/logic-e.md': 'reference/funciones/logic-e/README.md'
         'apphive-documentacion/reference/funciones/logic-e/stop-set-interval.md': 'reference/funciones/logic-e/stop-set-interval/README.md'
-        'apphive-documentacion/reference/funciones/logic-e/stop-set-interval/callbacks.md': 'reference/funciones/logic-e/stop-set-interval/callbacks.md'
-        'apphive-documentacion/reference/funciones/logic-e/stop-set-interval/entry-vars.md': 'reference/funciones/logic-e/stop-set-interval/entry-vars.md'
+        'apphive-documentacion/reference/funciones/logic-e/stop-set-interval/callbacks.md': 'reference/funciones/logic-e/stop-set-interval/README.md'
+        'apphive-documentacion/reference/funciones/logic-e/stop-set-interval/entry-vars.md': 'reference/funciones/logic-e/stop-set-interval/README.md'
         'apphive-documentacion/reference/funciones/logic-e/json.stringify.md': 'reference/funciones/logic-e/json.stringify/README.md'
-        'apphive-documentacion/reference/funciones/logic-e/json.stringify/entry-vars.md': 'reference/funciones/logic-e/json.stringify/entry-vars.md'
+        'apphive-documentacion/reference/funciones/logic-e/json.stringify/entry-vars.md': 'reference/funciones/logic-e/json.stringify/README.md'
         'apphive-documentacion/reference/funciones/logic-e/generate-uuid-v1.md': 'reference/funciones/logic-e/generate-uuid-v1.md'
         'apphive-documentacion/reference/funciones/logic-e/switch.md': 'reference/funciones/logic-e/switch/README.md'
-        'apphive-documentacion/reference/funciones/logic-e/switch/callbacks.md': 'reference/funciones/logic-e/switch/callbacks.md'
-        'apphive-documentacion/reference/funciones/logic-e/switch/entry-vars.md': 'reference/funciones/logic-e/switch/entry-vars.md'
+        'apphive-documentacion/reference/funciones/logic-e/switch/callbacks.md': 'reference/funciones/logic-e/switch/README.md'
+        'apphive-documentacion/reference/funciones/logic-e/switch/entry-vars.md': 'reference/funciones/logic-e/switch/README.md'
         'apphive-documentacion/reference/funciones/logic-e/set-timeout.md': 'reference/funciones/logic-e/set-timeout/README.md'
-        'apphive-documentacion/reference/funciones/logic-e/set-timeout/callbacks.md': 'reference/funciones/logic-e/set-timeout/callbacks.md'
-        'apphive-documentacion/reference/funciones/logic-e/set-timeout/entry-vars.md': 'reference/funciones/logic-e/set-timeout/entry-vars.md'
+        'apphive-documentacion/reference/funciones/logic-e/set-timeout/callbacks.md': 'reference/funciones/logic-e/set-timeout/README.md'
+        'apphive-documentacion/reference/funciones/logic-e/set-timeout/entry-vars.md': 'reference/funciones/logic-e/set-timeout/README.md'
         'apphive-documentacion/reference/funciones/logic-e/set-interval.md': 'reference/funciones/logic-e/set-interval/README.md'
-        'apphive-documentacion/reference/funciones/logic-e/set-interval/callbacks.md': 'reference/funciones/logic-e/set-interval/callbacks.md'
-        'apphive-documentacion/reference/funciones/logic-e/set-interval/entry-vars.md': 'reference/funciones/logic-e/set-interval/entry-vars.md'
+        'apphive-documentacion/reference/funciones/logic-e/set-interval/callbacks.md': 'reference/funciones/logic-e/set-interval/README.md'
+        'apphive-documentacion/reference/funciones/logic-e/set-interval/entry-vars.md': 'reference/funciones/logic-e/set-interval/README.md'
         'apphive-documentacion/reference/funciones/logic-e/search-in-object.md': 'reference/funciones/logic-e/search-in-object/README.md'
-        'apphive-documentacion/reference/funciones/logic-e/search-in-object/callbacks.md': 'reference/funciones/logic-e/search-in-object/callbacks.md'
-        'apphive-documentacion/reference/funciones/logic-e/search-in-object/entry-vars.md': 'reference/funciones/logic-e/search-in-object/entry-vars.md'
+        'apphive-documentacion/reference/funciones/logic-e/search-in-object/callbacks.md': 'reference/funciones/logic-e/search-in-object/README.md'
+        'apphive-documentacion/reference/funciones/logic-e/search-in-object/entry-vars.md': 'reference/funciones/logic-e/search-in-object/README.md'
         'apphive-documentacion/reference/funciones/logic-e/regex-test.md': 'reference/funciones/logic-e/regex-test/README.md'
-        'apphive-documentacion/reference/funciones/logic-e/regex-test/callbacks.md': 'reference/funciones/logic-e/regex-test/callbacks.md'
-        'apphive-documentacion/reference/funciones/logic-e/regex-test/entry-vars.md': 'reference/funciones/logic-e/regex-test/entry-vars.md'
+        'apphive-documentacion/reference/funciones/logic-e/regex-test/callbacks.md': 'reference/funciones/logic-e/regex-test/README.md'
+        'apphive-documentacion/reference/funciones/logic-e/regex-test/entry-vars.md': 'reference/funciones/logic-e/regex-test/README.md'
         'apphive-documentacion/reference/funciones/logic-e/range-iteration.md': 'reference/funciones/logic-e/range-iteration/README.md'
-        'apphive-documentacion/reference/funciones/logic-e/range-iteration/callbacks.md': 'reference/funciones/logic-e/range-iteration/callbacks.md'
-        'apphive-documentacion/reference/funciones/logic-e/range-iteration/entry-vars.md': 'reference/funciones/logic-e/range-iteration/entry-vars.md'
+        'apphive-documentacion/reference/funciones/logic-e/range-iteration/callbacks.md': 'reference/funciones/logic-e/range-iteration/README.md'
+        'apphive-documentacion/reference/funciones/logic-e/range-iteration/entry-vars.md': 'reference/funciones/logic-e/range-iteration/README.md'
         'apphive-documentacion/reference/funciones/logic-e/generate-random-numer.md': 'reference/funciones/logic-e/generate-random-numer/README.md'
-        'apphive-documentacion/reference/funciones/logic-e/generate-random-numer/callbacks.md': 'reference/funciones/logic-e/generate-random-numer/callbacks.md'
-        'apphive-documentacion/reference/funciones/logic-e/generate-random-numer/entry-vars.md': 'reference/funciones/logic-e/generate-random-numer/entry-vars.md'
+        'apphive-documentacion/reference/funciones/logic-e/generate-random-numer/callbacks.md': 'reference/funciones/logic-e/generate-random-numer/README.md'
+        'apphive-documentacion/reference/funciones/logic-e/generate-random-numer/entry-vars.md': 'reference/funciones/logic-e/generate-random-numer/README.md'
         'apphive-documentacion/reference/funciones/logic-e/object-keys.md': 'reference/funciones/logic-e/object-keys/README.md'
-        'apphive-documentacion/reference/funciones/logic-e/object-keys/entry-vars.md': 'reference/funciones/logic-e/object-keys/entry-vars.md'
+        'apphive-documentacion/reference/funciones/logic-e/object-keys/entry-vars.md': 'reference/funciones/logic-e/object-keys/README.md'
         'apphive-documentacion/reference/funciones/logic-e/value-is-invalid.md': 'reference/funciones/logic-e/value-is-invalid/README.md'
-        'apphive-documentacion/reference/funciones/logic-e/value-is-invalid/callbacks.md': 'reference/funciones/logic-e/value-is-invalid/callbacks.md'
-        'apphive-documentacion/reference/funciones/logic-e/value-is-invalid/entry-vars.md': 'reference/funciones/logic-e/value-is-invalid/entry-vars.md'
+        'apphive-documentacion/reference/funciones/logic-e/value-is-invalid/callbacks.md': 'reference/funciones/logic-e/value-is-invalid/README.md'
+        'apphive-documentacion/reference/funciones/logic-e/value-is-invalid/entry-vars.md': 'reference/funciones/logic-e/value-is-invalid/README.md'
         'apphive-documentacion/reference/funciones/logic-e/global-formater.md': 'reference/funciones/logic-e/global-formater/README.md'
-        'apphive-documentacion/reference/funciones/logic-e/global-formater/callbacks.md': 'reference/funciones/logic-e/global-formater/callbacks.md'
-        'apphive-documentacion/reference/funciones/logic-e/global-formater/entry-vars.md': 'reference/funciones/logic-e/global-formater/entry-vars.md'
+        'apphive-documentacion/reference/funciones/logic-e/global-formater/callbacks.md': 'reference/funciones/logic-e/global-formater/README.md'
+        'apphive-documentacion/reference/funciones/logic-e/global-formater/entry-vars.md': 'reference/funciones/logic-e/global-formater/README.md'
         'apphive-documentacion/reference/funciones/logic-e/foreach.md': 'reference/funciones/logic-e/foreach/README.md'
-        'apphive-documentacion/reference/funciones/logic-e/foreach/callbacks.md': 'reference/funciones/logic-e/foreach/callbacks.md'
-        'apphive-documentacion/reference/funciones/logic-e/foreach/entry-vars.md': 'reference/funciones/logic-e/foreach/entry-vars.md'
+        'apphive-documentacion/reference/funciones/logic-e/foreach/callbacks.md': 'reference/funciones/logic-e/foreach/README.md'
+        'apphive-documentacion/reference/funciones/logic-e/foreach/entry-vars.md': 'reference/funciones/logic-e/foreach/README.md'
         'apphive-documentacion/reference/funciones/logic-e/debounce.md': 'reference/funciones/logic-e/debounce/README.md'
-        'apphive-documentacion/reference/funciones/logic-e/debounce/callbacks.md': 'reference/funciones/logic-e/debounce/callbacks.md'
-        'apphive-documentacion/reference/funciones/logic-e/debounce/entry-vars.md': 'reference/funciones/logic-e/debounce/entry-vars.md'
+        'apphive-documentacion/reference/funciones/logic-e/debounce/callbacks.md': 'reference/funciones/logic-e/debounce/README.md'
+        'apphive-documentacion/reference/funciones/logic-e/debounce/entry-vars.md': 'reference/funciones/logic-e/debounce/README.md'
         'apphive-documentacion/reference/funciones/logic-e/conditional.md': 'reference/funciones/logic-e/conditional/README.md'
-        'apphive-documentacion/reference/funciones/logic-e/conditional/callbacks.md': 'reference/funciones/logic-e/conditional/callbacks.md'
-        'apphive-documentacion/reference/funciones/logic-e/conditional/entry-vars.md': 'reference/funciones/logic-e/conditional/entry-vars.md'
+        'apphive-documentacion/reference/funciones/logic-e/conditional/callbacks.md': 'reference/funciones/logic-e/conditional/README.md'
+        'apphive-documentacion/reference/funciones/logic-e/conditional/entry-vars.md': 'reference/funciones/logic-e/conditional/README.md'
         'apphive-documentacion/reference/funciones/logic-e/concat.md': 'reference/funciones/logic-e/concat/README.md'
-        'apphive-documentacion/reference/funciones/logic-e/concat/entry-vars.md': 'reference/funciones/logic-e/concat/entry-vars.md'
+        'apphive-documentacion/reference/funciones/logic-e/concat/entry-vars.md': 'reference/funciones/logic-e/concat/README.md'
         'apphive-documentacion/reference/funciones/logic-e/chronometer.md': 'reference/funciones/logic-e/chronometer/README.md'
-        'apphive-documentacion/reference/funciones/logic-e/chronometer/callbacks.md': 'reference/funciones/logic-e/chronometer/callbacks.md'
+        'apphive-documentacion/reference/funciones/logic-e/chronometer/callbacks.md': 'reference/funciones/logic-e/chronometer/README.md'
         'apphive-documentacion/reference/funciones/logic-e/based-on-current-os.md': 'reference/funciones/logic-e/based-on-current-os/README.md'
-        'apphive-documentacion/reference/funciones/logic-e/based-on-current-os/callbacks.md': 'reference/funciones/logic-e/based-on-current-os/callbacks.md'
+        'apphive-documentacion/reference/funciones/logic-e/based-on-current-os/callbacks.md': 'reference/funciones/logic-e/based-on-current-os/README.md'
         'apphive-documentacion/reference/funciones/logic-e/array-from-object.md': 'reference/funciones/logic-e/array-from-object/README.md'
-        'apphive-documentacion/reference/funciones/logic-e/array-from-object/entry-vars.md': 'reference/funciones/logic-e/array-from-object/entry-vars.md'
+        'apphive-documentacion/reference/funciones/logic-e/array-from-object/entry-vars.md': 'reference/funciones/logic-e/array-from-object/README.md'
         'apphive-documentacion/reference/funciones/logic-e/arithmetic-operation.md': 'reference/funciones/logic-e/arithmetic-operation/README.md'
-        'apphive-documentacion/reference/funciones/logic-e/arithmetic-operation/entry-vars.md': 'reference/funciones/logic-e/arithmetic-operation/entry-vars.md'
+        'apphive-documentacion/reference/funciones/logic-e/arithmetic-operation/entry-vars.md': 'reference/funciones/logic-e/arithmetic-operation/README.md'
         'apphive-documentacion/reference/funciones/local-storage-e.md': 'reference/funciones/local-storage-e/README.md'
         'apphive-documentacion/reference/funciones/local-storage-e/set-page-value.md': 'reference/funciones/local-storage-e/set-page-value/README.md'
-        'apphive-documentacion/reference/funciones/local-storage-e/set-page-value/entry-vars.md': 'reference/funciones/local-storage-e/set-page-value/entry-vars.md'
+        'apphive-documentacion/reference/funciones/local-storage-e/set-page-value/entry-vars.md': 'reference/funciones/local-storage-e/set-page-value/README.md'
         'apphive-documentacion/reference/funciones/local-storage-e/save-local-storage-data.md': 'reference/funciones/local-storage-e/save-local-storage-data/README.md'
-        'apphive-documentacion/reference/funciones/local-storage-e/save-local-storage-data/callbacks.md': 'reference/funciones/local-storage-e/save-local-storage-data/callbacks.md'
-        'apphive-documentacion/reference/funciones/local-storage-e/save-local-storage-data/entry-vars.md': 'reference/funciones/local-storage-e/save-local-storage-data/entry-vars.md'
+        'apphive-documentacion/reference/funciones/local-storage-e/save-local-storage-data/callbacks.md': 'reference/funciones/local-storage-e/save-local-storage-data/README.md'
+        'apphive-documentacion/reference/funciones/local-storage-e/save-local-storage-data/entry-vars.md': 'reference/funciones/local-storage-e/save-local-storage-data/README.md'
         'apphive-documentacion/reference/funciones/local-storage-e/set-data-db-direct.md': 'reference/funciones/local-storage-e/set-data-db-direct/README.md'
-        'apphive-documentacion/reference/funciones/local-storage-e/set-data-db-direct/callbacks.md': 'reference/funciones/local-storage-e/set-data-db-direct/callbacks.md'
-        'apphive-documentacion/reference/funciones/local-storage-e/set-data-db-direct/entry-vars.md': 'reference/funciones/local-storage-e/set-data-db-direct/entry-vars.md'
+        'apphive-documentacion/reference/funciones/local-storage-e/set-data-db-direct/callbacks.md': 'reference/funciones/local-storage-e/set-data-db-direct/README.md'
+        'apphive-documentacion/reference/funciones/local-storage-e/set-data-db-direct/entry-vars.md': 'reference/funciones/local-storage-e/set-data-db-direct/README.md'
         'apphive-documentacion/reference/funciones/local-storage-e/set-app-value.md': 'reference/funciones/local-storage-e/set-app-value/README.md'
-        'apphive-documentacion/reference/funciones/local-storage-e/set-app-value/entry-vars.md': 'reference/funciones/local-storage-e/set-app-value/entry-vars.md'
+        'apphive-documentacion/reference/funciones/local-storage-e/set-app-value/entry-vars.md': 'reference/funciones/local-storage-e/set-app-value/README.md'
         'apphive-documentacion/reference/funciones/local-storage-e/get-local-storage-data.md': 'reference/funciones/local-storage-e/get-local-storage-data/README.md'
-        'apphive-documentacion/reference/funciones/local-storage-e/get-local-storage-data/callbacks.md': 'reference/funciones/local-storage-e/get-local-storage-data/callbacks.md'
-        'apphive-documentacion/reference/funciones/local-storage-e/get-local-storage-data/entry-vars.md': 'reference/funciones/local-storage-e/get-local-storage-data/entry-vars.md'
+        'apphive-documentacion/reference/funciones/local-storage-e/get-local-storage-data/callbacks.md': 'reference/funciones/local-storage-e/get-local-storage-data/README.md'
+        'apphive-documentacion/reference/funciones/local-storage-e/get-local-storage-data/entry-vars.md': 'reference/funciones/local-storage-e/get-local-storage-data/README.md'
         'apphive-documentacion/reference/funciones/local-storage-e/delete-local-storage-data.md': 'reference/funciones/local-storage-e/delete-local-storage-data/README.md'
-        'apphive-documentacion/reference/funciones/local-storage-e/delete-local-storage-data/callbacks.md': 'reference/funciones/local-storage-e/delete-local-storage-data/callbacks.md'
-        'apphive-documentacion/reference/funciones/local-storage-e/delete-local-storage-data/entry-vars.md': 'reference/funciones/local-storage-e/delete-local-storage-data/entry-vars.md'
+        'apphive-documentacion/reference/funciones/local-storage-e/delete-local-storage-data/callbacks.md': 'reference/funciones/local-storage-e/delete-local-storage-data/README.md'
+        'apphive-documentacion/reference/funciones/local-storage-e/delete-local-storage-data/entry-vars.md': 'reference/funciones/local-storage-e/delete-local-storage-data/README.md'
         'apphive-documentacion/reference/funciones/local-storage-e/delete-all-local-data.md': 'reference/funciones/local-storage-e/delete-all-local-data/README.md'
-        'apphive-documentacion/reference/funciones/local-storage-e/delete-all-local-data/callbacks.md': 'reference/funciones/local-storage-e/delete-all-local-data/callbacks.md'
+        'apphive-documentacion/reference/funciones/local-storage-e/delete-all-local-data/callbacks.md': 'reference/funciones/local-storage-e/delete-all-local-data/README.md'
         'apphive-documentacion/reference/funciones/base-de-datos-e.md': 'reference/funciones/base-de-datos-e/README.md'
         'apphive-documentacion/reference/funciones/base-de-datos-e/upload-file.md': 'reference/funciones/base-de-datos-e/upload-file/README.md'
-        'apphive-documentacion/reference/funciones/base-de-datos-e/upload-file/callbacks.md': 'reference/funciones/base-de-datos-e/upload-file/callbacks.md'
-        'apphive-documentacion/reference/funciones/base-de-datos-e/upload-file/entry-vars.md': 'reference/funciones/base-de-datos-e/upload-file/entry-vars.md'
+        'apphive-documentacion/reference/funciones/base-de-datos-e/upload-file/callbacks.md': 'reference/funciones/base-de-datos-e/upload-file/README.md'
+        'apphive-documentacion/reference/funciones/base-de-datos-e/upload-file/entry-vars.md': 'reference/funciones/base-de-datos-e/upload-file/README.md'
         'apphive-documentacion/reference/funciones/base-de-datos-e/set-data-db-direct.md': 'reference/funciones/base-de-datos-e/set-data-db-direct/README.md'
-        'apphive-documentacion/reference/funciones/base-de-datos-e/set-data-db-direct/callbacks.md': 'reference/funciones/base-de-datos-e/set-data-db-direct/callbacks.md'
-        'apphive-documentacion/reference/funciones/base-de-datos-e/set-data-db-direct/entry-vars.md': 'reference/funciones/base-de-datos-e/set-data-db-direct/entry-vars.md'
+        'apphive-documentacion/reference/funciones/base-de-datos-e/set-data-db-direct/callbacks.md': 'reference/funciones/base-de-datos-e/set-data-db-direct/README.md'
+        'apphive-documentacion/reference/funciones/base-de-datos-e/set-data-db-direct/entry-vars.md': 'reference/funciones/base-de-datos-e/set-data-db-direct/README.md'
         'apphive-documentacion/reference/funciones/base-de-datos-e/save-in-db.md': 'reference/funciones/base-de-datos-e/save-in-db/README.md'
-        'apphive-documentacion/reference/funciones/base-de-datos-e/save-in-db/callbacks.md': 'reference/funciones/base-de-datos-e/save-in-db/callbacks.md'
-        'apphive-documentacion/reference/funciones/base-de-datos-e/save-in-db/entry-vars.md': 'reference/funciones/base-de-datos-e/save-in-db/entry-vars.md'
+        'apphive-documentacion/reference/funciones/base-de-datos-e/save-in-db/callbacks.md': 'reference/funciones/base-de-datos-e/save-in-db/README.md'
+        'apphive-documentacion/reference/funciones/base-de-datos-e/save-in-db/entry-vars.md': 'reference/funciones/base-de-datos-e/save-in-db/README.md'
         'apphive-documentacion/reference/funciones/base-de-datos-e/get-database-data.md': 'reference/funciones/base-de-datos-e/get-database-data/README.md'
-        'apphive-documentacion/reference/funciones/base-de-datos-e/get-database-data/callbacks.md': 'reference/funciones/base-de-datos-e/get-database-data/callbacks.md'
-        'apphive-documentacion/reference/funciones/base-de-datos-e/get-database-data/entry-vars.md': 'reference/funciones/base-de-datos-e/get-database-data/entry-vars.md'
+        'apphive-documentacion/reference/funciones/base-de-datos-e/get-database-data/callbacks.md': 'reference/funciones/base-de-datos-e/get-database-data/README.md'
+        'apphive-documentacion/reference/funciones/base-de-datos-e/get-database-data/entry-vars.md': 'reference/funciones/base-de-datos-e/get-database-data/README.md'
         'apphive-documentacion/reference/funciones/base-de-datos-e/delete-database-data.md': 'reference/funciones/base-de-datos-e/delete-database-data/README.md'
-        'apphive-documentacion/reference/funciones/base-de-datos-e/delete-database-data/callbacks.md': 'reference/funciones/base-de-datos-e/delete-database-data/callbacks.md'
-        'apphive-documentacion/reference/funciones/base-de-datos-e/delete-database-data/entry-vars.md': 'reference/funciones/base-de-datos-e/delete-database-data/entry-vars.md'
+        'apphive-documentacion/reference/funciones/base-de-datos-e/delete-database-data/callbacks.md': 'reference/funciones/base-de-datos-e/delete-database-data/README.md'
+        'apphive-documentacion/reference/funciones/base-de-datos-e/delete-database-data/entry-vars.md': 'reference/funciones/base-de-datos-e/delete-database-data/README.md'
         'apphive-documentacion/reference/funciones/base-de-datos-e/copy-data-from-path.md': 'reference/funciones/base-de-datos-e/copy-data-from-path/README.md'
-        'apphive-documentacion/reference/funciones/base-de-datos-e/copy-data-from-path/callbacks.md': 'reference/funciones/base-de-datos-e/copy-data-from-path/callbacks.md'
-        'apphive-documentacion/reference/funciones/base-de-datos-e/copy-data-from-path/entry-vars.md': 'reference/funciones/base-de-datos-e/copy-data-from-path/entry-vars.md'
+        'apphive-documentacion/reference/funciones/base-de-datos-e/copy-data-from-path/callbacks.md': 'reference/funciones/base-de-datos-e/copy-data-from-path/README.md'
+        'apphive-documentacion/reference/funciones/base-de-datos-e/copy-data-from-path/entry-vars.md': 'reference/funciones/base-de-datos-e/copy-data-from-path/README.md'
         'apphive-documentacion/reference/funciones/navigation-e.md': 'reference/funciones/navigation-e/README.md'
         'apphive-documentacion/reference/funciones/navigation-e/replace-screen.md': 'reference/funciones/navigation-e/replace-screen/README.md'
-        'apphive-documentacion/reference/funciones/navigation-e/replace-screen/entry-vars.md': 'reference/funciones/navigation-e/replace-screen/entry-vars.md'
+        'apphive-documentacion/reference/funciones/navigation-e/replace-screen/entry-vars.md': 'reference/funciones/navigation-e/replace-screen/README.md'
         'apphive-documentacion/reference/funciones/navigation-e/push-screen.md': 'reference/funciones/navigation-e/push-screen/README.md'
-        'apphive-documentacion/reference/funciones/navigation-e/push-screen/entry-vars.md': 'reference/funciones/navigation-e/push-screen/entry-vars.md'
+        'apphive-documentacion/reference/funciones/navigation-e/push-screen/entry-vars.md': 'reference/funciones/navigation-e/push-screen/README.md'
         'apphive-documentacion/reference/funciones/navigation-e/return-to-last-screen.md': 'reference/funciones/navigation-e/return-to-last-screen.md'
         'apphive-documentacion/reference/funciones/users-e.md': 'reference/funciones/users-e/README.md'
         'apphive-documentacion/reference/funciones/users-e/update-email.md': 'reference/funciones/users-e/update-email/README.md'
-        'apphive-documentacion/reference/funciones/users-e/update-email/callbacks.md': 'reference/funciones/users-e/update-email/callbacks.md'
-        'apphive-documentacion/reference/funciones/users-e/update-email/entry-vars.md': 'reference/funciones/users-e/update-email/entry-vars.md'
+        'apphive-documentacion/reference/funciones/users-e/update-email/callbacks.md': 'reference/funciones/users-e/update-email/README.md'
+        'apphive-documentacion/reference/funciones/users-e/update-email/entry-vars.md': 'reference/funciones/users-e/update-email/README.md'
         'apphive-documentacion/reference/funciones/users-e/update-data-from-other-user.md': 'reference/funciones/users-e/update-data-from-other-user/README.md'
-        'apphive-documentacion/reference/funciones/users-e/update-data-from-other-user/callbacks.md': 'reference/funciones/users-e/update-data-from-other-user/callbacks.md'
-        'apphive-documentacion/reference/funciones/users-e/update-data-from-other-user/entry-vars.md': 'reference/funciones/users-e/update-data-from-other-user/entry-vars.md'
+        'apphive-documentacion/reference/funciones/users-e/update-data-from-other-user/callbacks.md': 'reference/funciones/users-e/update-data-from-other-user/README.md'
+        'apphive-documentacion/reference/funciones/users-e/update-data-from-other-user/entry-vars.md': 'reference/funciones/users-e/update-data-from-other-user/README.md'
         'apphive-documentacion/reference/funciones/users-e/update-authinfo.md': 'reference/funciones/users-e/update-authinfo/README.md'
-        'apphive-documentacion/reference/funciones/users-e/update-authinfo/callbacks.md': 'reference/funciones/users-e/update-authinfo/callbacks.md'
-        'apphive-documentacion/reference/funciones/users-e/update-authinfo/entry-vars.md': 'reference/funciones/users-e/update-authinfo/entry-vars.md'
+        'apphive-documentacion/reference/funciones/users-e/update-authinfo/callbacks.md': 'reference/funciones/users-e/update-authinfo/README.md'
+        'apphive-documentacion/reference/funciones/users-e/update-authinfo/entry-vars.md': 'reference/funciones/users-e/update-authinfo/README.md'
         'apphive-documentacion/reference/funciones/users-e/sign-up.md': 'reference/funciones/users-e/sign-up/README.md'
-        'apphive-documentacion/reference/funciones/users-e/sign-up/callbacks.md': 'reference/funciones/users-e/sign-up/callbacks.md'
-        'apphive-documentacion/reference/funciones/users-e/sign-up/entry-vars.md': 'reference/funciones/users-e/sign-up/entry-vars.md'
+        'apphive-documentacion/reference/funciones/users-e/sign-up/callbacks.md': 'reference/funciones/users-e/sign-up/README.md'
+        'apphive-documentacion/reference/funciones/users-e/sign-up/entry-vars.md': 'reference/funciones/users-e/sign-up/README.md'
         'apphive-documentacion/reference/funciones/users-e/set-user-custom-data.md': 'reference/funciones/users-e/set-user-custom-data/README.md'
-        'apphive-documentacion/reference/funciones/users-e/set-user-custom-data/callbacks.md': 'reference/funciones/users-e/set-user-custom-data/callbacks.md'
-        'apphive-documentacion/reference/funciones/users-e/set-user-custom-data/entry-vars.md': 'reference/funciones/users-e/set-user-custom-data/entry-vars.md'
+        'apphive-documentacion/reference/funciones/users-e/set-user-custom-data/callbacks.md': 'reference/funciones/users-e/set-user-custom-data/README.md'
+        'apphive-documentacion/reference/funciones/users-e/set-user-custom-data/entry-vars.md': 'reference/funciones/users-e/set-user-custom-data/README.md'
         'apphive-documentacion/reference/funciones/users-e/set-other-user-custom-data.md': 'reference/funciones/users-e/set-other-user-custom-data/README.md'
-        'apphive-documentacion/reference/funciones/users-e/set-other-user-custom-data/callbacks.md': 'reference/funciones/users-e/set-other-user-custom-data/callbacks.md'
-        'apphive-documentacion/reference/funciones/users-e/set-other-user-custom-data/entry-vars.md': 'reference/funciones/users-e/set-other-user-custom-data/entry-vars.md'
+        'apphive-documentacion/reference/funciones/users-e/set-other-user-custom-data/callbacks.md': 'reference/funciones/users-e/set-other-user-custom-data/README.md'
+        'apphive-documentacion/reference/funciones/users-e/set-other-user-custom-data/entry-vars.md': 'reference/funciones/users-e/set-other-user-custom-data/README.md'
         'apphive-documentacion/reference/funciones/users-e/logout.md': 'reference/funciones/users-e/logout/README.md'
-        'apphive-documentacion/reference/funciones/users-e/logout/callbacks.md': 'reference/funciones/users-e/logout/callbacks.md'
+        'apphive-documentacion/reference/funciones/users-e/logout/callbacks.md': 'reference/funciones/users-e/logout/README.md'
         'apphive-documentacion/reference/funciones/users-e/login-with-google.md': 'reference/funciones/users-e/login-with-google/README.md'
-        'apphive-documentacion/reference/funciones/users-e/login-with-google/callbacks.md': 'reference/funciones/users-e/login-with-google/callbacks.md'
-        'apphive-documentacion/reference/funciones/users-e/login-with-google/entry-vars.md': 'reference/funciones/users-e/login-with-google/entry-vars.md'
+        'apphive-documentacion/reference/funciones/users-e/login-with-google/callbacks.md': 'reference/funciones/users-e/login-with-google/README.md'
+        'apphive-documentacion/reference/funciones/users-e/login-with-google/entry-vars.md': 'reference/funciones/users-e/login-with-google/README.md'
         'apphive-documentacion/reference/funciones/users-e/login-with-facebook.md': 'reference/funciones/users-e/login-with-facebook/README.md'
-        'apphive-documentacion/reference/funciones/users-e/login-with-facebook/callbacks.md': 'reference/funciones/users-e/login-with-facebook/callbacks.md'
+        'apphive-documentacion/reference/funciones/users-e/login-with-facebook/callbacks.md': 'reference/funciones/users-e/login-with-facebook/README.md'
         'apphive-documentacion/reference/funciones/users-e/login-with-apple.md': 'reference/funciones/users-e/login-with-apple/README.md'
-        'apphive-documentacion/reference/funciones/users-e/login-with-apple/callbacks.md': 'reference/funciones/users-e/login-with-apple/callbacks.md'
+        'apphive-documentacion/reference/funciones/users-e/login-with-apple/callbacks.md': 'reference/funciones/users-e/login-with-apple/README.md'
         'apphive-documentacion/reference/funciones/users-e/login.md': 'reference/funciones/users-e/login/README.md'
-        'apphive-documentacion/reference/funciones/users-e/login/callbacks.md': 'reference/funciones/users-e/login/callbacks.md'
-        'apphive-documentacion/reference/funciones/users-e/login/entry-vars.md': 'reference/funciones/users-e/login/entry-vars.md'
+        'apphive-documentacion/reference/funciones/users-e/login/callbacks.md': 'reference/funciones/users-e/login/README.md'
+        'apphive-documentacion/reference/funciones/users-e/login/entry-vars.md': 'reference/funciones/users-e/login/README.md'
         'apphive-documentacion/reference/funciones/users-e/is-logged-in.md': 'reference/funciones/users-e/is-logged-in/README.md'
-        'apphive-documentacion/reference/funciones/users-e/is-logged-in/callbacks.md': 'reference/funciones/users-e/is-logged-in/callbacks.md'
+        'apphive-documentacion/reference/funciones/users-e/is-logged-in/callbacks.md': 'reference/funciones/users-e/is-logged-in/README.md'
         'apphive-documentacion/reference/funciones/users-e/get-app-users.md': 'reference/funciones/users-e/get-app-users/README.md'
-        'apphive-documentacion/reference/funciones/users-e/get-app-users/callbacks.md': 'reference/funciones/users-e/get-app-users/callbacks.md'
-        'apphive-documentacion/reference/funciones/users-e/get-app-users/entry-vars.md': 'reference/funciones/users-e/get-app-users/entry-vars.md'
+        'apphive-documentacion/reference/funciones/users-e/get-app-users/callbacks.md': 'reference/funciones/users-e/get-app-users/README.md'
+        'apphive-documentacion/reference/funciones/users-e/get-app-users/entry-vars.md': 'reference/funciones/users-e/get-app-users/README.md'
         'apphive-documentacion/reference/funciones/users-e/get-all-users.md': 'reference/funciones/users-e/get-all-users/README.md'
-        'apphive-documentacion/reference/funciones/users-e/get-all-users/callbacks.md': 'reference/funciones/users-e/get-all-users/callbacks.md'
+        'apphive-documentacion/reference/funciones/users-e/get-all-users/callbacks.md': 'reference/funciones/users-e/get-all-users/README.md'
         'apphive-documentacion/reference/funciones/users-e/get-data-from-other-user.md': 'reference/funciones/users-e/get-data-from-other-user/README.md'
-        'apphive-documentacion/reference/funciones/users-e/get-data-from-other-user/callbacks.md': 'reference/funciones/users-e/get-data-from-other-user/callbacks.md'
-        'apphive-documentacion/reference/funciones/users-e/get-data-from-other-user/entry-vars.md': 'reference/funciones/users-e/get-data-from-other-user/entry-vars.md'
+        'apphive-documentacion/reference/funciones/users-e/get-data-from-other-user/callbacks.md': 'reference/funciones/users-e/get-data-from-other-user/README.md'
+        'apphive-documentacion/reference/funciones/users-e/get-data-from-other-user/entry-vars.md': 'reference/funciones/users-e/get-data-from-other-user/README.md'
         'apphive-documentacion/reference/funciones/users-e/forget-password.md': 'reference/funciones/users-e/forget-password/README.md'
-        'apphive-documentacion/reference/funciones/users-e/forget-password/callbacks.md': 'reference/funciones/users-e/forget-password/callbacks.md'
-        'apphive-documentacion/reference/funciones/users-e/forget-password/entry-vars.md': 'reference/funciones/users-e/forget-password/entry-vars.md'
+        'apphive-documentacion/reference/funciones/users-e/forget-password/callbacks.md': 'reference/funciones/users-e/forget-password/README.md'
+        'apphive-documentacion/reference/funciones/users-e/forget-password/entry-vars.md': 'reference/funciones/users-e/forget-password/README.md'
         'apphive-documentacion/reference/funciones/users-e/change-my-password.md': 'reference/funciones/users-e/change-my-password/README.md'
-        'apphive-documentacion/reference/funciones/users-e/change-my-password/callbacks.md': 'reference/funciones/users-e/change-my-password/callbacks.md'
-        'apphive-documentacion/reference/funciones/users-e/change-my-password/entry-vars.md': 'reference/funciones/users-e/change-my-password/entry-vars.md'
+        'apphive-documentacion/reference/funciones/users-e/change-my-password/callbacks.md': 'reference/funciones/users-e/change-my-password/README.md'
+        'apphive-documentacion/reference/funciones/users-e/change-my-password/entry-vars.md': 'reference/funciones/users-e/change-my-password/README.md'
         'apphive-documentacion/reference/funciones/informacion-general-de-las-funciones.md': 'reference/funciones/informacion-general-de-las-funciones.md'
         'apphive-documentacion/reference/funciones/tabla-de-controles.md': 'reference/funciones/tabla-de-controles/README.md'
         'apphive-documentacion/reference/funciones/tabla-de-controles/context-data.md': 'reference/funciones/tabla-de-controles/context-data.md'
@@ -662,483 +662,161 @@ nav:
   - REFERENCE:
     - 🎮 Controles:
       - reference/controles/README.md
-      - Graphic View:
-        - reference/controles/graphic-view/README.md
-        - Style: reference/controles/graphic-view/style.md
-        - Data: reference/controles/graphic-view/data.md
-      - Page:
-        - reference/controles/page/README.md
-        - Style: reference/controles/page/style.md
-        - Data: reference/controles/page/data.md
-        - Events: reference/controles/page/events.md
+      - Graphic View: reference/controles/graphic-view/README.md
+      - Page: reference/controles/page/README.md
       - Button: reference/controles/button.md
-      - Swiper:
-        - reference/controles/swiper/README.md
-        - Style: reference/controles/swiper/style.md
-        - Data: reference/controles/swiper/data.md
-        - Events: reference/controles/swiper/events.md
-      - Video View:
-        - reference/controles/video-view/README.md
-        - Style: reference/controles/video-view/style.md
-        - Data: reference/controles/video-view/data.md
-      - Icon:
-        - reference/controles/icon/README.md
-        - Style: reference/controles/icon/style.md
-        - Data: reference/controles/icon/data.md
-        - Events: reference/controles/icon/events.md
-      - Calendar:
-        - reference/controles/calendar/README.md
-        - Data: reference/controles/calendar/data.md
-        - Events: reference/controles/calendar/events.md
-      - Web View:
-        - reference/controles/web-view/README.md
-        - Style: reference/controles/web-view/style.md
-        - Data: reference/controles/web-view/data.md
-      - Map:
-        - reference/controles/mapa/README.md
-        - Style: reference/controles/mapa/style.md
-        - Data: reference/controles/mapa/data.md
-        - Events: reference/controles/mapa/events.md
-      - Camenra View:
-        - reference/controles/camenra-view/README.md
-        - Style: reference/controles/camenra-view/style.md
-        - Data: reference/controles/camenra-view/data.md
-        - Events: reference/controles/camenra-view/events.md
-      - Image:
-        - reference/controles/image/README.md
-        - Style: reference/controles/image/style.md
-        - Data: reference/controles/image/data.md
-        - Events: reference/controles/image/events.md
-      - Slider:
-        - reference/controles/slider/README.md
-        - Style: reference/controles/slider/style.md
-        - Data: reference/controles/slider/data.md
-        - Events: reference/controles/slider/events.md
-      - Radio:
-        - reference/controles/radio/README.md
-        - Style: reference/controles/radio/style.md
-        - Data: reference/controles/radio/data.md
-        - Events: reference/controles/radio/events.md
-      - Picker:
-        - reference/controles/picker/README.md
-        - Style: reference/controles/picker/style.md
-        - Data: reference/controles/picker/data.md
-        - Events: reference/controles/picker/events.md
-      - Switch:
-        - reference/controles/switch/README.md
-        - Style: reference/controles/switch/style.md
-        - Data: reference/controles/switch/data.md
-        - Events: reference/controles/switch/events.md
-      - Field:
-        - reference/controles/field/README.md
-        - Style: reference/controles/field/style.md
-        - Data: reference/controles/field/data.md
-        - Events: reference/controles/field/events.md
-      - Text:
-        - reference/controles/untitled/README.md
-        - Style: reference/controles/untitled/style.md
-        - Data: reference/controles/untitled/data.md
-        - Events: reference/controles/untitled/events.md
-      - Container:
-        - reference/controles/container/README.md
-        - Style: reference/controles/container/style.md
-        - Data: reference/controles/container/data.md
-        - Events: reference/controles/container/untitled.md
+      - Swiper: reference/controles/swiper/README.md
+      - Video View: reference/controles/video-view/README.md
+      - Icon: reference/controles/icon/README.md
+      - Calendar: reference/controles/calendar/README.md
+      - Web View: reference/controles/web-view/README.md
+      - Map: reference/controles/mapa/README.md
+      - Camenra View: reference/controles/camenra-view/README.md
+      - Image: reference/controles/image/README.md
+      - Slider: reference/controles/slider/README.md
+      - Radio: reference/controles/radio/README.md
+      - Picker: reference/controles/picker/README.md
+      - Switch: reference/controles/switch/README.md
+      - Field: reference/controles/field/README.md
+      - Text: reference/controles/untitled/README.md
+      - Container: reference/controles/container/README.md
     - ⚙️ Functions:
       - reference/funciones/README.md
       - 🕹️ Controls:
         - reference/funciones/controls/README.md
         - Modify control: reference/funciones/controls/modify-control.md
-        - Trigger Event:
-          - reference/funciones/controls/trigger-event/README.md
-          - Callbacks: reference/funciones/controls/trigger-event/callbacks.md
-          - Entry Vars: reference/funciones/controls/trigger-event/entry-vars.md
-        - Open image viewer:
-          - reference/funciones/controls/open-image-viewer/README.md
-          - Entry Vars: reference/funciones/controls/open-image-viewer/entry-vars.md
-        - Toogle page loading:
-          - reference/funciones/controls/toogle-page-loading/README.md
-          - Entry Vars: reference/funciones/controls/toogle-page-loading/entry-vars.md
-        - Toogle bottom menu sheet:
-          - reference/funciones/controls/toogle-bottom-menu-sheet/README.md
-          - Callbacks: reference/funciones/controls/toogle-bottom-menu-sheet/callbacks.md
-          - Entry Vars: reference/funciones/controls/toogle-bottom-menu-sheet/entry-vars.md
-        - Add collection to UI:
-          - reference/funciones/controls/add-collection-to-ui/README.md
-          - Entry vars: reference/funciones/controls/add-collection-to-ui/entry-vars.md
-        - Toogle side menu:
-          - reference/funciones/controls/toogle-side-menu/README.md
-          - Callbacks: reference/funciones/controls/toogle-side-menu/callbacks.md
-        - Iterate children:
-          - reference/funciones/controls/iterate-children/README.md
-          - Callbacks: reference/funciones/controls/iterate-children/callbacks.md
-          - Entry vars: reference/funciones/controls/iterate-children/entry-vars.md
-        - Generate swiper content:
-          - reference/funciones/controls/generate-swiper-content/README.md
-          - Callbacks: reference/funciones/controls/generate-swiper-content/callbacks.md
-          - Entry vars: reference/funciones/controls/generate-swiper-content/entry-vars.md
+        - Trigger Event: reference/funciones/controls/trigger-event/README.md
+        - Open image viewer: reference/funciones/controls/open-image-viewer/README.md
+        - Toogle page loading: reference/funciones/controls/toogle-page-loading/README.md
+        - Toogle bottom menu sheet: reference/funciones/controls/toogle-bottom-menu-sheet/README.md
+        - Add collection to UI: reference/funciones/controls/add-collection-to-ui/README.md
+        - Toogle side menu: reference/funciones/controls/toogle-side-menu/README.md
+        - Iterate children: reference/funciones/controls/iterate-children/README.md
+        - Generate swiper content: reference/funciones/controls/generate-swiper-content/README.md
       - 🔩 App processes (E): reference/funciones/app-processes.md
       - 🧭 Navigation (E):
         - reference/funciones/navigation-1/README.md
-        - Replace screen:
-          - reference/funciones/navigation-1/replace-screen/README.md
-          - Entry Vars: reference/funciones/navigation-1/replace-screen/entry-vars.md
-        - Push Screen:
-          - reference/funciones/navigation-1/push-screen/README.md
-          - Entry Vars: reference/funciones/navigation-1/push-screen/entry-vars.md
+        - Replace screen: reference/funciones/navigation-1/replace-screen/README.md
+        - Push Screen: reference/funciones/navigation-1/push-screen/README.md
         - Return to last Screen: reference/funciones/navigation-1/return-to-last-screen.md
       - 💬 Push Notifications (E):
         - reference/funciones/push-notifications/README.md
-        - Trigger App Process:
-          - reference/funciones/push-notifications/trigger-app-process/README.md
-          - Entry Vars: reference/funciones/push-notifications/trigger-app-process/entry-vars.md
-        - Send push:
-          - reference/funciones/push-notifications/send-push/README.md
-          - Callbacks: reference/funciones/push-notifications/send-push/callbacks.md
-          - Entry Vars: reference/funciones/push-notifications/send-push/entry-vars.md
-        - Request Permission:
-          - reference/funciones/push-notifications/request-permission/README.md
-          - Callbacks: reference/funciones/push-notifications/request-permission/callbacks.md
+        - Trigger App Process: reference/funciones/push-notifications/trigger-app-process/README.md
+        - Send push: reference/funciones/push-notifications/send-push/README.md
+        - Request Permission: reference/funciones/push-notifications/request-permission/README.md
       - 🗺️ Geolocalization (E):
         - reference/funciones/geolocalization/README.md
-        - Start geolocation tracking http:
-          - reference/funciones/geolocalization/start-geolocation-tracking-http/README.md
-          - Callbacks: reference/funciones/geolocalization/start-geolocation-tracking-http/callbacks.md
-          - Entry Vars: reference/funciones/geolocalization/start-geolocation-tracking-http/entry-vars.md
-        - Start geolocation tracking:
-          - reference/funciones/geolocalization/start-geolocation-tracking/README.md
-          - Callbacks: reference/funciones/geolocalization/start-geolocation-tracking/callbacks.md
-          - Entry Vars: reference/funciones/geolocalization/start-geolocation-tracking/entry-vars.md
-        - Stop geolocation tracking:
-          - reference/funciones/geolocalization/stop-geolocation-tracking/README.md
-          - Callbacks: reference/funciones/geolocalization/stop-geolocation-tracking/callbacks.md
-        - Get geolocation:
-          - reference/funciones/geolocalization/get-geolocation/README.md
-          - Callbacks: reference/funciones/geolocalization/get-geolocation/callbacks.md
-          - Entry Vars: reference/funciones/geolocalization/get-geolocation/entry-vars.md
-        - Get distance:
-          - reference/funciones/geolocalization/get-distance/README.md
-          - Callbacks: reference/funciones/geolocalization/get-distance/callbacks.md
-          - Entry Vars: reference/funciones/geolocalization/get-distance/entry-vars.md
-        - Geocoding:
-          - reference/funciones/geolocalization/untitled/README.md
-          - Callbacks: reference/funciones/geolocalization/untitled/callbacks.md
-          - Entry Vars: reference/funciones/geolocalization/untitled/entry-vars.md
-        - Set fire geolocation:
-          - reference/funciones/geolocalization/set-fire-geolocation/README.md
-          - Entry Vars: reference/funciones/geolocalization/set-fire-geolocation/entry-vars.md
-        - Remove fire geolocation:
-          - reference/funciones/geolocalization/remove-fire-geolocation/README.md
-          - Callbacks: reference/funciones/geolocalization/remove-fire-geolocation/callbacks.md
-          - Entry Vars: reference/funciones/geolocalization/remove-fire-geolocation/entry-vars.md
-        - Query fire geolocation:
-          - reference/funciones/geolocalization/query-fire-geolocation/README.md
-          - Callbacks: reference/funciones/geolocalization/query-fire-geolocation/callbacks.md
-          - Entry Vars: reference/funciones/geolocalization/query-fire-geolocation/entry-vars.md
-        - Get All fire geolocation:
-          - reference/funciones/geolocalization/get-all-fire-geolocation/README.md
-          - Callbacks: reference/funciones/geolocalization/get-all-fire-geolocation/callbacks.md
-          - Entry Vars: reference/funciones/geolocalization/get-all-fire-geolocation/entry-vars.md
-        - Get fire geolocation:
-          - reference/funciones/geolocalization/get-fire-geolocation/README.md
-          - Callbacks: reference/funciones/geolocalization/get-fire-geolocation/callbacks.md
-          - Entry Vars: reference/funciones/geolocalization/get-fire-geolocation/entry-vars.md
+        - Start geolocation tracking http: reference/funciones/geolocalization/start-geolocation-tracking-http/README.md
+        - Start geolocation tracking: reference/funciones/geolocalization/start-geolocation-tracking/README.md
+        - Stop geolocation tracking: reference/funciones/geolocalization/stop-geolocation-tracking/README.md
+        - Get geolocation: reference/funciones/geolocalization/get-geolocation/README.md
+        - Get distance: reference/funciones/geolocalization/get-distance/README.md
+        - Geocoding: reference/funciones/geolocalization/untitled/README.md
+        - Set fire geolocation: reference/funciones/geolocalization/set-fire-geolocation/README.md
+        - Remove fire geolocation: reference/funciones/geolocalization/remove-fire-geolocation/README.md
+        - Query fire geolocation: reference/funciones/geolocalization/query-fire-geolocation/README.md
+        - Get All fire geolocation: reference/funciones/geolocalization/get-all-fire-geolocation/README.md
+        - Get fire geolocation: reference/funciones/geolocalization/get-fire-geolocation/README.md
         - Geo Fire: reference/funciones/geolocalization/geo-fire.md
       - 📲 Phone APIs (E):
         - reference/funciones/phone-apis-e/README.md
         - Set Audio Time: reference/funciones/phone-apis-e/set-audio-time.md
         - dismissKeyboard: reference/funciones/phone-apis-e/dismisskeyboard.md
-        - Read SMS (Android):
-          - reference/funciones/phone-apis-e/read-sms-android/README.md
-          - Callbacks: reference/funciones/phone-apis-e/read-sms-android/callbacks.md
-        - Is audio playing:
-          - reference/funciones/phone-apis-e/is-audio-playing/README.md
-          - Callbacks: reference/funciones/phone-apis-e/is-audio-playing/callbacks.md
-        - Get Screen Dimentions:
-          - reference/funciones/phone-apis-e/get-screen-dimentions/README.md
-          - Callbacks: reference/funciones/phone-apis-e/get-screen-dimentions/callbacks.md
-        - GetDeviceInfo:
-          - reference/funciones/phone-apis-e/getdeviceinfo/README.md
-          - Callbacks: reference/funciones/phone-apis-e/getdeviceinfo/callbacks.md
-          - Entry Vars: reference/funciones/phone-apis-e/getdeviceinfo/entry-vars.md
-        - Get connection type:
-          - reference/funciones/phone-apis-e/get-connection-type/README.md
-          - Callbacks: reference/funciones/phone-apis-e/get-connection-type/callbacks.md
-        - Vibration phone:
-          - reference/funciones/phone-apis-e/vibration-phone/README.md
-          - Entry Vars: reference/funciones/phone-apis-e/vibration-phone/entry-vars.md
-        - Take a video:
-          - reference/funciones/phone-apis-e/take-a-video/README.md
-          - Callbacks: reference/funciones/phone-apis-e/take-a-video/callbacks.md
-        - Take a photo:
-          - reference/funciones/phone-apis-e/take-a-photo/README.md
-          - Callbacks: reference/funciones/phone-apis-e/take-a-photo/callbacks.md
-        - Stop Recording Audio:
-          - reference/funciones/phone-apis-e/stop-recording-audio/README.md
-          - Callbacks: reference/funciones/phone-apis-e/stop-recording-audio/callbacks.md
-        - Stop playing audio:
-          - reference/funciones/phone-apis-e/stop-playing-audio/README.md
-          - Callbacks: reference/funciones/phone-apis-e/stop-playing-audio/callbacks.md
-        - Start Recording audio:
-          - reference/funciones/phone-apis-e/untitled/README.md
-          - Callbacks: reference/funciones/phone-apis-e/untitled/callbacks.md
+        - Read SMS (Android): reference/funciones/phone-apis-e/read-sms-android/README.md
+        - Is audio playing: reference/funciones/phone-apis-e/is-audio-playing/README.md
+        - Get Screen Dimentions: reference/funciones/phone-apis-e/get-screen-dimentions/README.md
+        - GetDeviceInfo: reference/funciones/phone-apis-e/getdeviceinfo/README.md
+        - Get connection type: reference/funciones/phone-apis-e/get-connection-type/README.md
+        - Vibration phone: reference/funciones/phone-apis-e/vibration-phone/README.md
+        - Take a video: reference/funciones/phone-apis-e/take-a-video/README.md
+        - Take a photo: reference/funciones/phone-apis-e/take-a-photo/README.md
+        - Stop Recording Audio: reference/funciones/phone-apis-e/stop-recording-audio/README.md
+        - Stop playing audio: reference/funciones/phone-apis-e/stop-playing-audio/README.md
+        - Start Recording audio: reference/funciones/phone-apis-e/untitled/README.md
         - Start playing audio:
           - reference/funciones/phone-apis-e/start-playing-audio/README.md
           - Callback: reference/funciones/phone-apis-e/start-playing-audio/callback.md
           - Entry Vars: reference/funciones/phone-apis-e/start-playing-audio/entry-vars.md
-        - Show file browser:
-          - reference/funciones/phone-apis-e/show-file-browser/README.md
-          - Callbacks: reference/funciones/phone-apis-e/show-file-browser/callbacks.md
-          - Entry Vars: reference/funciones/phone-apis-e/show-file-browser/entry-vars.md
-        - Share:
-          - reference/funciones/phone-apis-e/share/README.md
-          - Callbacks: reference/funciones/phone-apis-e/share/callbacks.md
-          - Entry Vars: reference/funciones/phone-apis-e/share/entry-vars.md
-        - read QR code:
-          - reference/funciones/phone-apis-e/read-qr-code/README.md
-          - Callbacks: reference/funciones/phone-apis-e/read-qr-code/callbacks.md
-        - Barcode Read:
-          - reference/funciones/phone-apis-e/barcode-read/README.md
-          - Callbacks: reference/funciones/phone-apis-e/barcode-read/callbacks.md
-        - Pause playing audio:
-          - reference/funciones/phone-apis-e/pause-playing-audio/README.md
-          - Callbacks: reference/funciones/phone-apis-e/pause-playing-audio/callbacks.md
-        - Open WhatsApp:
-          - reference/funciones/phone-apis-e/open-whatsapp/README.md
-          - Callbacks: reference/funciones/phone-apis-e/open-whatsapp/callbacks.md
-          - Entry Vars: reference/funciones/phone-apis-e/open-whatsapp/entry-vars.md
-        - Open Url:
-          - reference/funciones/phone-apis-e/open-url/README.md
-          - Entry Vars: reference/funciones/phone-apis-e/open-url/entry-vars.md
-        - Ope geo map:
-          - reference/funciones/phone-apis-e/ope-geo-map/README.md
-          - Callbacks: reference/funciones/phone-apis-e/ope-geo-map/callbacks.md
-          - Entry Vars: reference/funciones/phone-apis-e/ope-geo-map/entry-vars.md
-        - Open calendar:
-          - reference/funciones/phone-apis-e/open-calendar/README.md
-          - Callbacks: reference/funciones/phone-apis-e/open-calendar/callbacks.md
-        - Make a call:
-          - reference/funciones/phone-apis-e/make-a-call/README.md
-          - Entry Vars: reference/funciones/phone-apis-e/make-a-call/entry-vars.md
+        - Show file browser: reference/funciones/phone-apis-e/show-file-browser/README.md
+        - Share: reference/funciones/phone-apis-e/share/README.md
+        - read QR code: reference/funciones/phone-apis-e/read-qr-code/README.md
+        - Barcode Read: reference/funciones/phone-apis-e/barcode-read/README.md
+        - Pause playing audio: reference/funciones/phone-apis-e/pause-playing-audio/README.md
+        - Open WhatsApp: reference/funciones/phone-apis-e/open-whatsapp/README.md
+        - Open Url: reference/funciones/phone-apis-e/open-url/README.md
+        - Ope geo map: reference/funciones/phone-apis-e/ope-geo-map/README.md
+        - Open calendar: reference/funciones/phone-apis-e/open-calendar/README.md
+        - Make a call: reference/funciones/phone-apis-e/make-a-call/README.md
       - 🔔 Notifications (E):
         - reference/funciones/notifications-1/README.md
-        - Toast notification:
-          - reference/funciones/notifications-1/toast-notification/README.md
-          - Entry Vars: reference/funciones/notifications-1/toast-notification/entry-vars.md
-        - Send Alert:
-          - reference/funciones/notifications-1/send-alert/README.md
-          - Entry Vars: reference/funciones/notifications-1/send-alert/entry-vars.md
-        - Input dialog:
-          - reference/funciones/notifications-1/input-dialog/README.md
-          - Callbacks: reference/funciones/notifications-1/input-dialog/callbacks.md
-          - Entry Vars: reference/funciones/notifications-1/input-dialog/entry-vars.md
-        - Confirmation alert:
-          - reference/funciones/notifications-1/confirmation-alert/README.md
-          - Callbacks: reference/funciones/notifications-1/confirmation-alert/callbacks.md
-          - Entry Vars: reference/funciones/notifications-1/confirmation-alert/entry-vars.md
+        - Toast notification: reference/funciones/notifications-1/toast-notification/README.md
+        - Send Alert: reference/funciones/notifications-1/send-alert/README.md
+        - Input dialog: reference/funciones/notifications-1/input-dialog/README.md
+        - Confirmation alert: reference/funciones/notifications-1/confirmation-alert/README.md
       - ⛓️ Logic (E):
         - reference/funciones/logic-e/README.md
-        - Stop set interval:
-          - reference/funciones/logic-e/stop-set-interval/README.md
-          - Callbacks: reference/funciones/logic-e/stop-set-interval/callbacks.md
-          - Entry Vars: reference/funciones/logic-e/stop-set-interval/entry-vars.md
-        - JSON.stringify:
-          - reference/funciones/logic-e/json.stringify/README.md
-          - Entry Vars: reference/funciones/logic-e/json.stringify/entry-vars.md
+        - Stop set interval: reference/funciones/logic-e/stop-set-interval/README.md
+        - JSON.stringify: reference/funciones/logic-e/json.stringify/README.md
         - Generate uuid v1: reference/funciones/logic-e/generate-uuid-v1.md
-        - Switch:
-          - reference/funciones/logic-e/switch/README.md
-          - Callbacks: reference/funciones/logic-e/switch/callbacks.md
-          - Entry Vars: reference/funciones/logic-e/switch/entry-vars.md
-        - Set timeout:
-          - reference/funciones/logic-e/set-timeout/README.md
-          - Callbacks: reference/funciones/logic-e/set-timeout/callbacks.md
-          - Entry Vars: reference/funciones/logic-e/set-timeout/entry-vars.md
-        - Set interval:
-          - reference/funciones/logic-e/set-interval/README.md
-          - Callbacks: reference/funciones/logic-e/set-interval/callbacks.md
-          - Entry Vars: reference/funciones/logic-e/set-interval/entry-vars.md
-        - Search in Object:
-          - reference/funciones/logic-e/search-in-object/README.md
-          - Callbacks: reference/funciones/logic-e/search-in-object/callbacks.md
-          - Entry Vars: reference/funciones/logic-e/search-in-object/entry-vars.md
-        - Regex Test:
-          - reference/funciones/logic-e/regex-test/README.md
-          - Callbacks: reference/funciones/logic-e/regex-test/callbacks.md
-          - Entry Vars: reference/funciones/logic-e/regex-test/entry-vars.md
-        - Range Iteration:
-          - reference/funciones/logic-e/range-iteration/README.md
-          - Callbacks: reference/funciones/logic-e/range-iteration/callbacks.md
-          - Entry Vars: reference/funciones/logic-e/range-iteration/entry-vars.md
-        - Generate Random Numer:
-          - reference/funciones/logic-e/generate-random-numer/README.md
-          - Callbacks: reference/funciones/logic-e/generate-random-numer/callbacks.md
-          - Entry Vars: reference/funciones/logic-e/generate-random-numer/entry-vars.md
-        - Object keys:
-          - reference/funciones/logic-e/object-keys/README.md
-          - Entry Vars: reference/funciones/logic-e/object-keys/entry-vars.md
-        - Value is invalid:
-          - reference/funciones/logic-e/value-is-invalid/README.md
-          - Callbacks: reference/funciones/logic-e/value-is-invalid/callbacks.md
-          - Entry Vars: reference/funciones/logic-e/value-is-invalid/entry-vars.md
-        - Global Formater:
-          - reference/funciones/logic-e/global-formater/README.md
-          - Callbacks: reference/funciones/logic-e/global-formater/callbacks.md
-          - Entry Vars: reference/funciones/logic-e/global-formater/entry-vars.md
-        - forEach:
-          - reference/funciones/logic-e/foreach/README.md
-          - Callbacks: reference/funciones/logic-e/foreach/callbacks.md
-          - Entry Vars: reference/funciones/logic-e/foreach/entry-vars.md
-        - debounce:
-          - reference/funciones/logic-e/debounce/README.md
-          - Callbacks: reference/funciones/logic-e/debounce/callbacks.md
-          - Entry Vars: reference/funciones/logic-e/debounce/entry-vars.md
-        - Conditional:
-          - reference/funciones/logic-e/conditional/README.md
-          - Callbacks: reference/funciones/logic-e/conditional/callbacks.md
-          - Entry Vars: reference/funciones/logic-e/conditional/entry-vars.md
-        - Concat:
-          - reference/funciones/logic-e/concat/README.md
-          - Entry Vars: reference/funciones/logic-e/concat/entry-vars.md
-        - Chronometer:
-          - reference/funciones/logic-e/chronometer/README.md
-          - Callbacks: reference/funciones/logic-e/chronometer/callbacks.md
-        - Based on current OS:
-          - reference/funciones/logic-e/based-on-current-os/README.md
-          - Callbacks: reference/funciones/logic-e/based-on-current-os/callbacks.md
-        - Array from object:
-          - reference/funciones/logic-e/array-from-object/README.md
-          - Entry Vars: reference/funciones/logic-e/array-from-object/entry-vars.md
-        - Arithmetic Operation:
-          - reference/funciones/logic-e/arithmetic-operation/README.md
-          - Entry Vars: reference/funciones/logic-e/arithmetic-operation/entry-vars.md
+        - Switch: reference/funciones/logic-e/switch/README.md
+        - Set timeout: reference/funciones/logic-e/set-timeout/README.md
+        - Set interval: reference/funciones/logic-e/set-interval/README.md
+        - Search in Object: reference/funciones/logic-e/search-in-object/README.md
+        - Regex Test: reference/funciones/logic-e/regex-test/README.md
+        - Range Iteration: reference/funciones/logic-e/range-iteration/README.md
+        - Generate Random Numer: reference/funciones/logic-e/generate-random-numer/README.md
+        - Object keys: reference/funciones/logic-e/object-keys/README.md
+        - Value is invalid: reference/funciones/logic-e/value-is-invalid/README.md
+        - Global Formater: reference/funciones/logic-e/global-formater/README.md
+        - forEach: reference/funciones/logic-e/foreach/README.md
+        - debounce: reference/funciones/logic-e/debounce/README.md
+        - Conditional: reference/funciones/logic-e/conditional/README.md
+        - Concat: reference/funciones/logic-e/concat/README.md
+        - Chronometer: reference/funciones/logic-e/chronometer/README.md
+        - Based on current OS: reference/funciones/logic-e/based-on-current-os/README.md
+        - Array from object: reference/funciones/logic-e/array-from-object/README.md
+        - Arithmetic Operation: reference/funciones/logic-e/arithmetic-operation/README.md
       - 💿 Local Storage (E):
         - reference/funciones/local-storage-e/README.md
-        - Set page Value:
-          - reference/funciones/local-storage-e/set-page-value/README.md
-          - Entry Vars: reference/funciones/local-storage-e/set-page-value/entry-vars.md
-        - Save local storage data:
-          - reference/funciones/local-storage-e/save-local-storage-data/README.md
-          - Callbacks: reference/funciones/local-storage-e/save-local-storage-data/callbacks.md
-          - Entry Vars: reference/funciones/local-storage-e/save-local-storage-data/entry-vars.md
-        - Set data DB direct:
-          - reference/funciones/local-storage-e/set-data-db-direct/README.md
-          - Callbacks: reference/funciones/local-storage-e/set-data-db-direct/callbacks.md
-          - Entry Vars: reference/funciones/local-storage-e/set-data-db-direct/entry-vars.md
-        - Set app value:
-          - reference/funciones/local-storage-e/set-app-value/README.md
-          - Entry Vars: reference/funciones/local-storage-e/set-app-value/entry-vars.md
-        - Get local storage data:
-          - reference/funciones/local-storage-e/get-local-storage-data/README.md
-          - Callbacks: reference/funciones/local-storage-e/get-local-storage-data/callbacks.md
-          - Entry Vars: reference/funciones/local-storage-e/get-local-storage-data/entry-vars.md
-        - Delete local storage data:
-          - reference/funciones/local-storage-e/delete-local-storage-data/README.md
-          - Callbacks: reference/funciones/local-storage-e/delete-local-storage-data/callbacks.md
-          - Entry Vars: reference/funciones/local-storage-e/delete-local-storage-data/entry-vars.md
-        - Delete all local Data:
-          - reference/funciones/local-storage-e/delete-all-local-data/README.md
-          - Callbacks: reference/funciones/local-storage-e/delete-all-local-data/callbacks.md
+        - Set page Value: reference/funciones/local-storage-e/set-page-value/README.md
+        - Save local storage data: reference/funciones/local-storage-e/save-local-storage-data/README.md
+        - Set data DB direct: reference/funciones/local-storage-e/set-data-db-direct/README.md
+        - Set app value: reference/funciones/local-storage-e/set-app-value/README.md
+        - Get local storage data: reference/funciones/local-storage-e/get-local-storage-data/README.md
+        - Delete local storage data: reference/funciones/local-storage-e/delete-local-storage-data/README.md
+        - Delete all local Data: reference/funciones/local-storage-e/delete-all-local-data/README.md
       - 📀 Base de Datos (E):
         - reference/funciones/base-de-datos-e/README.md
-        - Upload file:
-          - reference/funciones/base-de-datos-e/upload-file/README.md
-          - Callbacks: reference/funciones/base-de-datos-e/upload-file/callbacks.md
-          - Entry Vars: reference/funciones/base-de-datos-e/upload-file/entry-vars.md
-        - Set data DB direct:
-          - reference/funciones/base-de-datos-e/set-data-db-direct/README.md
-          - Callbacks: reference/funciones/base-de-datos-e/set-data-db-direct/callbacks.md
-          - Entry Vars: reference/funciones/base-de-datos-e/set-data-db-direct/entry-vars.md
-        - Save in DB:
-          - reference/funciones/base-de-datos-e/save-in-db/README.md
-          - Callbacks: reference/funciones/base-de-datos-e/save-in-db/callbacks.md
-          - Entry Vars: reference/funciones/base-de-datos-e/save-in-db/entry-vars.md
-        - Get Database Data:
-          - reference/funciones/base-de-datos-e/get-database-data/README.md
-          - Callbacks: reference/funciones/base-de-datos-e/get-database-data/callbacks.md
-          - Entry Vars: reference/funciones/base-de-datos-e/get-database-data/entry-vars.md
-        - Delete database data:
-          - reference/funciones/base-de-datos-e/delete-database-data/README.md
-          - Callbacks: reference/funciones/base-de-datos-e/delete-database-data/callbacks.md
-          - Entry Vars: reference/funciones/base-de-datos-e/delete-database-data/entry-vars.md
-        - Copy Data From Path:
-          - reference/funciones/base-de-datos-e/copy-data-from-path/README.md
-          - Callbacks: reference/funciones/base-de-datos-e/copy-data-from-path/callbacks.md
-          - Entry Vars: reference/funciones/base-de-datos-e/copy-data-from-path/entry-vars.md
+        - Upload file: reference/funciones/base-de-datos-e/upload-file/README.md
+        - Set data DB direct: reference/funciones/base-de-datos-e/set-data-db-direct/README.md
+        - Save in DB: reference/funciones/base-de-datos-e/save-in-db/README.md
+        - Get Database Data: reference/funciones/base-de-datos-e/get-database-data/README.md
+        - Delete database data: reference/funciones/base-de-datos-e/delete-database-data/README.md
+        - Copy Data From Path: reference/funciones/base-de-datos-e/copy-data-from-path/README.md
       - 🚗 Navigation (E):
         - reference/funciones/navigation-e/README.md
-        - Replace screen:
-          - reference/funciones/navigation-e/replace-screen/README.md
-          - Entry vars: reference/funciones/navigation-e/replace-screen/entry-vars.md
-        - Push screen:
-          - reference/funciones/navigation-e/push-screen/README.md
-          - Entry vars: reference/funciones/navigation-e/push-screen/entry-vars.md
+        - Replace screen: reference/funciones/navigation-e/replace-screen/README.md
+        - Push screen: reference/funciones/navigation-e/push-screen/README.md
         - Return to last screen: reference/funciones/navigation-e/return-to-last-screen.md
       - 👨‍👩‍👧Users(E):
         - reference/funciones/users-e/README.md
-        - Update email:
-          - reference/funciones/users-e/update-email/README.md
-          - Callbacks: reference/funciones/users-e/update-email/callbacks.md
-          - Entry Vars: reference/funciones/users-e/update-email/entry-vars.md
-        - Update data from other user:
-          - reference/funciones/users-e/update-data-from-other-user/README.md
-          - Callbacks: reference/funciones/users-e/update-data-from-other-user/callbacks.md
-          - Entry Vars: reference/funciones/users-e/update-data-from-other-user/entry-vars.md
-        - Update AuthInfo:
-          - reference/funciones/users-e/update-authinfo/README.md
-          - Callbacks: reference/funciones/users-e/update-authinfo/callbacks.md
-          - Entry Vars: reference/funciones/users-e/update-authinfo/entry-vars.md
-        - Sign Up:
-          - reference/funciones/users-e/sign-up/README.md
-          - Callbacks: reference/funciones/users-e/sign-up/callbacks.md
-          - Entry Vars: reference/funciones/users-e/sign-up/entry-vars.md
-        - Set user custom data:
-          - reference/funciones/users-e/set-user-custom-data/README.md
-          - Callbacks: reference/funciones/users-e/set-user-custom-data/callbacks.md
-          - Entry Vars: reference/funciones/users-e/set-user-custom-data/entry-vars.md
-        - Set other user custom data:
-          - reference/funciones/users-e/set-other-user-custom-data/README.md
-          - Callbacks: reference/funciones/users-e/set-other-user-custom-data/callbacks.md
-          - Entry Vars: reference/funciones/users-e/set-other-user-custom-data/entry-vars.md
-        - Logout:
-          - reference/funciones/users-e/logout/README.md
-          - Callbacks: reference/funciones/users-e/logout/callbacks.md
-        - Login With Google:
-          - reference/funciones/users-e/login-with-google/README.md
-          - Callbacks: reference/funciones/users-e/login-with-google/callbacks.md
-          - Entry Vars: reference/funciones/users-e/login-with-google/entry-vars.md
-        - Login With Facebook:
-          - reference/funciones/users-e/login-with-facebook/README.md
-          - Callbacks: reference/funciones/users-e/login-with-facebook/callbacks.md
-        - Login with apple:
-          - reference/funciones/users-e/login-with-apple/README.md
-          - Callbacks: reference/funciones/users-e/login-with-apple/callbacks.md
-        - Login:
-          - reference/funciones/users-e/login/README.md
-          - Callbacks: reference/funciones/users-e/login/callbacks.md
-          - Entry Vars: reference/funciones/users-e/login/entry-vars.md
-        - Is Logged In?:
-          - reference/funciones/users-e/is-logged-in/README.md
-          - Callbacks: reference/funciones/users-e/is-logged-in/callbacks.md
-        - Get App Users:
-          - reference/funciones/users-e/get-app-users/README.md
-          - Callbacks: reference/funciones/users-e/get-app-users/callbacks.md
-          - Entry Vars: reference/funciones/users-e/get-app-users/entry-vars.md
-        - Get All Users:
-          - reference/funciones/users-e/get-all-users/README.md
-          - Callbacks: reference/funciones/users-e/get-all-users/callbacks.md
-        - Get Data From Other User:
-          - reference/funciones/users-e/get-data-from-other-user/README.md
-          - Callbacks: reference/funciones/users-e/get-data-from-other-user/callbacks.md
-          - Entry Vars: reference/funciones/users-e/get-data-from-other-user/entry-vars.md
-        - Forget Password:
-          - reference/funciones/users-e/forget-password/README.md
-          - Callbacks: reference/funciones/users-e/forget-password/callbacks.md
-          - Entry vars: reference/funciones/users-e/forget-password/entry-vars.md
-        - Change my password:
-          - reference/funciones/users-e/change-my-password/README.md
-          - Callbacks: reference/funciones/users-e/change-my-password/callbacks.md
-          - Entry Vars: reference/funciones/users-e/change-my-password/entry-vars.md
+        - Update email: reference/funciones/users-e/update-email/README.md
+        - Update data from other user: reference/funciones/users-e/update-data-from-other-user/README.md
+        - Update AuthInfo: reference/funciones/users-e/update-authinfo/README.md
+        - Sign Up: reference/funciones/users-e/sign-up/README.md
+        - Set user custom data: reference/funciones/users-e/set-user-custom-data/README.md
+        - Set other user custom data: reference/funciones/users-e/set-other-user-custom-data/README.md
+        - Logout: reference/funciones/users-e/logout/README.md
+        - Login With Google: reference/funciones/users-e/login-with-google/README.md
+        - Login With Facebook: reference/funciones/users-e/login-with-facebook/README.md
+        - Login with apple: reference/funciones/users-e/login-with-apple/README.md
+        - Login: reference/funciones/users-e/login/README.md
+        - Is Logged In?: reference/funciones/users-e/is-logged-in/README.md
+        - Get App Users: reference/funciones/users-e/get-app-users/README.md
+        - Get All Users: reference/funciones/users-e/get-all-users/README.md
+        - Get Data From Other User: reference/funciones/users-e/get-data-from-other-user/README.md
+        - Forget Password: reference/funciones/users-e/forget-password/README.md
+        - Change my password: reference/funciones/users-e/change-my-password/README.md
       - 📰 Información general de las funciones (E): reference/funciones/informacion-general-de-las-funciones.md
       - 📲 Tabla de controles (E):
         - reference/funciones/tabla-de-controles/README.md

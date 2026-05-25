@@ -6,3 +6,14 @@ La función Is audio playing permite saber si una pista se encuentra actualmente
 
 [Información general](https://docs.apphive.io/reference/funciones/informacion-general-de-las-funciones) 
 
+
+
+=== "Callbacks"
+
+    ## No
+
+    Se activa cuando no se encuentra una pista en reproducción
+
+    ## Yes
+
+    Se activa cuando se encuentra una pista en reproducción

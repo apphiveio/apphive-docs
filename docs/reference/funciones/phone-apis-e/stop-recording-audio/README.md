@@ -6,3 +6,10 @@ La función Stop Recording Audio permite al usuario parar la grabación del audi
 
 [Información general](https://docs.apphive.io/reference/funciones/informacion-general-de-las-funciones) 
 
+
+
+=== "Callbacks"
+
+    ## On Finish Recording
+
+    Se activa cuando se termina de grabar audio retornando el audio que se guardó durante el tiempo de grabación

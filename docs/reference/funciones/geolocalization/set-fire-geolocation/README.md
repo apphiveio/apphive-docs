@@ -6,3 +6,8 @@ La función set fire geolocation permite agregar nuevos registros en un grupo es
 
 [Información general](https://docs.apphive.io/reference/funciones/informacion-general-de-las-funciones) 
 
+
+
+=== "Entry Vars"
+
+

@@ -7,3 +7,14 @@ La función Is logged in? permite a la aplicación y al administrador saber si e
   
 ​[Información general](https://docs.apphive.io/reference/funciones/informacion-general-de-las-funciones)
 
+
+
+=== "Callbacks"
+
+    ## User is logged in
+
+    Se activa cuando se encuentra una sesión activa dentro de la aplicación retornando un valor true como afirmativo del proceso
+
+    ## User is not logged in
+
+    Se activa cuando no se encuentra una sesión activa dentro de la aplicación retornando un valor false como afirmativo del proceso

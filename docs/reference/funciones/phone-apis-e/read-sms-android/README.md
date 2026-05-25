@@ -11,3 +11,14 @@ La función Read SMS permite leer mensajes de texto entrantes en el dispositivo
 
 [Información general](https://docs.apphive.io/reference/funciones/informacion-general-de-las-funciones) 
 
+
+
+=== "Callbacks"
+
+    ## Failed to get message
+
+    Se activa cuando hay un error en la lectura de los mensajes
+
+    ## Incoming message
+
+    Se activa cuando se existe un mensaje entrante

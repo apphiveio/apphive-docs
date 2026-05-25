@@ -6,3 +6,12 @@ La función Make a call permite al usuario realizar llamadas telefónicas utiliz
 
 [Información general](https://docs.apphive.io/reference/funciones/informacion-general-de-las-funciones)
 
+
+
+=== "Entry Vars"
+
+    ## Phone number
+
+    ![](../../../../gitbook/assets/image%20%28504%29.png)
+
+    Se agrega un numero telefónico al cual se le hará la llamada

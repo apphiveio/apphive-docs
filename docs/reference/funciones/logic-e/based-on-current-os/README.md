@@ -8,3 +8,14 @@ La función Based on current OS permite saber en que tipo de Sistema operativo s
 
 
 
+
+
+=== "Callbacks"
+
+    ## On android
+
+    Se activa cuando se detecta que la aplicación actual se encuentra montada sobre un sistema operativo Android
+
+    ## On iOS
+
+    Se activa cuando se detecta que la aplicación actual se encuentra montada sobre un sistema operativo iOS

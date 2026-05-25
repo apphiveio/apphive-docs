@@ -6,3 +6,10 @@ La función Stat Recording audio permite al usuario grabar audios desde su dispo
 
 [Información general](https://docs.apphive.io/reference/funciones/informacion-general-de-las-funciones) 
 
+
+
+=== "Callbacks"
+
+    ## on Recording Started
+
+    Se activa cuando se inicia a grabar el audio en el dispositivo 
