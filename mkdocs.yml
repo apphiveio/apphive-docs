@@ -35,6 +35,7 @@ theme:
     - toc.follow
 
 extra:
+  generator: false
   alternate:
     - name: Español
       link: /
