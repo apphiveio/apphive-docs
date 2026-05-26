@@ -38,10 +38,10 @@ extra:
   generator: false
   alternate:
     - name: Español
-      link: /
+      link: .
       lang: es
     - name: English
-      link: /en/
+      link: en/
       lang: en
 
 plugins:
