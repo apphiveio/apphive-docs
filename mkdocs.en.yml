@@ -151,6 +151,7 @@ nav:
         - Return To Last Screen: reference/functions-sum/navigation/return-to-last-screen.md
         - Push Screen: reference/functions-sum/navigation/push-screen.md
         - Replace Screen: reference/functions-sum/navigation/replace-screen.md
+        - Replace Top Page: reference/functions-sum/navigation/replacetoppage.md
       - Elements:
         - reference/functions-sum/elements/README.md
         - Generate Swiper Content: reference/functions-sum/elements/generate-swiper-content.md
@@ -158,6 +159,9 @@ nav:
         - Toggle Side Menu: reference/functions-sum/elements/toogle-side-menu.md
         - Add Collections To UI: reference/functions-sum/elements/add-collections-to-ui.md
         - Toggle Page Loading: reference/functions-sum/elements/toggle-page-loading.md
+        - Bubble: reference/functions-sum/elements/bubble.md
+        - Set Palette Colors: reference/functions-sum/elements/set-palette-colors.md
+        - Show Image Viewer: reference/functions-sum/elements/show-image-viewer.md
       - Users:
         - reference/functions-sum/users/README.md
         - Change My Password: reference/functions-sum/users/change-my-password.md
@@ -174,6 +178,8 @@ nav:
         - Sign Up: reference/functions-sum/users/sign-up.md
         - Update Auth Info: reference/functions-sum/users/update-auth-info.md
         - Update Data From Other User: reference/functions-sum/users/update-data-from-other-user.md
+        - Get User Other App: reference/functions-sum/users/get-user-other-app.md
+        - Is Current User Email Verified: reference/functions-sum/users/is-current-user-email-verified.md
       - Cloud Database:
         - reference/functions-sum/cloud-database/README.md
         - Copy Data From Path: reference/functions-sum/cloud-database/copy-data-from-path.md
@@ -223,6 +229,16 @@ nav:
         - Stop Playing Audio: reference/functions-sum/phone-apis/stop-playing-audio.md
         - Take a Photo: reference/functions-sum/phone-apis/take-a-photo.md
         - Vibration Phone: reference/functions-sum/phone-apis/vibration-phone.md
+        - Avoid Suspension: reference/functions-sum/phone-apis/avoid-suspension.md
+        - Biometric Auth: reference/functions-sum/phone-apis/biometric-auth.md
+        - Copy Clipboard: reference/functions-sum/phone-apis/copy-clipboard.md
+        - Download File: reference/functions-sum/phone-apis/download-file.md
+        - Launch App Review: reference/functions-sum/phone-apis/launch-app-review.md
+        - Launch App Update: reference/functions-sum/phone-apis/launch-app-update.md
+        - Open Phone Settings: reference/functions-sum/phone-apis/open-phone-settings.md
+        - Print Remote PDF: reference/functions-sum/phone-apis/print-remote-pdf.md
+        - Resize Image: reference/functions-sum/phone-apis/resize-image.md
+        - UxCam Record: reference/functions-sum/phone-apis/uxcam-record.md
       - Geolocation:
         - reference/functions-sum/geolocation/README.md
         - Get Fire Geolocation: reference/functions-sum/geolocation/get-fire-geolocation.md
@@ -236,11 +252,16 @@ nav:
         - Get Geolocation: reference/functions-sum/geolocation/get-geolocation.md
         - Start Geolocation Tracking: reference/functions-sum/geolocation/start-geolocation-tracking.md
         - Stop Geolocation Tracking: reference/functions-sum/geolocation/stop-geolocation-tracking.md
+        - Coordinate Inside Polygon: reference/functions-sum/geolocation/coordinate-inside-poligon.md
+        - Query All Fire Geolocation: reference/functions-sum/geolocation/query-all-fire-geolocation.md
       - Push Notification:
         - reference/functions-sum/push-notification/README.md
         - Request Permission: reference/functions-sum/push-notification/request-permission.md
         - Send Push: reference/functions-sum/push-notification/send-push.md
         - Trigger Apps Process: reference/functions-sum/push-notification/trigger-apps-process.md
+        - Open Remote: reference/functions-sum/push-notification/open-remote.md
+        - Permission Request Remote: reference/functions-sum/push-notification/permissionrequestremote.md
+        - Push Notifications Cancel All: reference/functions-sum/push-notification/push-notifications-cancel-all.md
       - Apps Processes:
         - reference/functions-sum/apps-processes/README.md
         - Stars: reference/functions-sum/apps-processes/stars.md
@@ -261,6 +282,13 @@ nav:
         - Delete a Card: reference/functions-sum/stripe/delete-a-card.md
         - Create a Payment Intent: reference/functions-sum/stripe/create-a-payment-intent.md
         - Confirm a Payment Intent: reference/functions-sum/stripe/confirm-a-payment-intent.md
+      - AdMob:
+        - Interstitial Ads: reference/functions-sum/admob/interstitial-ads.md
+      - Google Analytics:
+        - Log Event: reference/functions-sum/google-analytics/log-event.md
+      - Payments:
+        - In-App Purchase Get History: reference/functions-sum/payments/inapppurchasegethistory.md
+        - Pay Using Apple Wallet: reference/functions-sum/payments/payusingapplewallet.md
     - User Management 👨: reference/user-management.md
   - Global Functions:
     - Global Functions: global-functions/global-functions.md
@@ -292,6 +320,15 @@ nav:
     - Functions Templates:
       - templates/functions/README.md
       - User Management: templates/functions/user-management.md
+  - Publish:
+    - Settings to compile:
+      - publish/settings/README.md
+      - Request APK and AAB: publish/settings/android-settings.md
+      - Service account file: publish/settings/get-services-accounts.md
+      - Realtime Database URL: publish/settings/get-realtime-database-url.md
+      - Firebase Storage URL: publish/settings/get-realtime-storage-url.md
+      - Facebook for developers: publish/settings/facebook-for-developers.md
+    - Web app login with Google: publish/webapp/login-with-google.md
   - Pricing:
     - Plans: pricing/pricing.md
     - Billing policy: pricing/billing-policy.md
