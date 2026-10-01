@@ -711,6 +711,83 @@ nav:
       - IOS App Preview: previsualizador-apphive/ios-app-preview.md
       - Android App Preview: previsualizador-apphive/android-app-preview.md
     - 🤖 Apphive AI: iniciar/apphive-ai.md
+  - GUÍAS:
+    - guias/index.md
+    - Publicación en Android:
+      - "Actualizaciones en Play Store: «Este App Bundle contiene código nativo, pero no has subido símbolos de depuración»": guias/actulizaciones-en-play-store-este-app-bundle-contiene-codigo-nativo-pero-no-has-subido-simbolos.md
+      - "Agregar un ID de compilación": guias/agregar-una-id-de-compilacion.md
+      - "Cambiar el nombre en una app compilada": guias/cambiar-nombre-en-app-compilada.md
+      - "Descargar los archivos APK y AAB": guias/descargar-archivos-apk-y-aab.md
+      - "Google pide Android 15 (nivel 35 de la API): cómo solucionarlo": guias/google-pide-android-15-nivel-35-de-la-api-como-hago-para-solucionar.md
+      - "Ocultar/Mostrar mi app en Google Play (Android)": guias/ocultar-mostrar-mi-app-en-google-play-android.md
+      - "Paso a paso para publicar tu app en Play Store": guias/paso-a-paso-para-publicar-tu-app-en-play-store.md
+      - "Políticas de privacidad para tu app": guias/politicas-de-privacidad-para-tu-app.md
+      - "Recursos gráficos para cargar tu app a Google Play": guias/recursos-graficos-para-cargar-tu-app-a-google-play.md
+      - "Tu Android App Bundle está firmado con la clave incorrecta": guias/tu-android-app-bundle-esta-firmado-con-la-clave-incorrecta.md
+    - Publicación en iOS:
+      - "Compilar versión en TestFlight": guias/compilar-version-en-testflight.md
+      - "Crear key para habilitar Push Notification en Firebase": guias/crear-key-para-habilitar-push-notification-en-firebase.md
+      - "Publicar actualización en App Store": guias/publicar-actualizacion-en-app-store.md
+    - Errores de compilación:
+      - "Código de error 03 en la compilación": guias/codigo-de-error-03.md
+      - "Código de error 07 (compilación iOS)": guias/codigo-de-error-07.md
+      - "Código de error 22 en la compilación": guias/codigo-de-error-22.md
+      - "Código de error: 01": guias/codigo-de-error-01.md
+      - "Código de error: 04": guias/codigo-de-error-04.md
+      - "Código de error: 17": guias/codigo-de-error-17.md
+      - "Código de error: 18": guias/codigo-de-error-18.md
+      - "Código de error: 20": guias/codigo-de-error-20.md
+    - Firebase y configuración:
+      - "Activar el sign-in method de correo electrónico y contraseña": guias/activar-sign-in-method-email-and-password.md
+      - "Actualización de Google Firebase de plan gratuito (Spark) a plan Blaze": guias/importante-actualizacion-de-google-firebase-de-plan-free-a-plan-blaze.md
+      - "Añadir la app de Android a Facebook": guias/anade-android-app-to-facebook.md
+      - "Facebook config: cómo obtener mi Facebook ID": guias/facebook-config-como-obtener-mi-facebook-id.md
+      - "Facebook for Developers: obtener el Facebook App ID (si tus apps usan inicio de sesión con Facebook)": guias/opcional-facebook-for-developers-si-cualquiera-de-tus-apps-utiliza-inicio-de-sesion-con-facebook.md
+      - "Firebase config: cómo obtener tu Firebase Project ID": guias/firebase-config-firebase-project-id.md
+      - "Inicio de sesión con Facebook (SHA en APK)": guias/inicio-de-sesion-con-facebook-sha-en-apk.md
+      - "Obtener Firebase: crear el proyecto de Firebase de tu app": guias/obtener-firebase.md
+      - "Obtener el service account file de Firebase": guias/obtener-service-account-file.md
+      - "Obtener la URL de Firebase Realtime Database": guias/obtener-firebase-realtime-database-url.md
+    - Funciones y lógica:
+      - "5 tipos de validación de contraseñas": guias/5-tipos-de-validacion-de-contrasenas.md
+      - "Concatenar con un salto de línea": guias/concatenar-con-un-salto-de-linea.md
+      - "Cortar textos largos": guias/cortar-textos-largos.md
+      - "Cómo hacer un pedido programado": guias/como-hacer-un-pedido-programado.md
+      - "El correo electrónico siempre aparece con la primera letra en mayúscula": guias/correo-electronico-siempre-aparece-con-primera-letra-en-mayuscula.md
+      - "Función Regex Test: ejemplos de expresiones regulares": guias/funcion-regex-test.md
+      - "Generador de notificaciones: historial del estado de una orden": guias/generador-de-notificaciones2.md
+      - "Lector de código de barras para código PDF417": guias/lector-de-barcode-para-codigo-pdf417.md
+      - "Mostrar u ocultar la contraseña al presionar el botón del ojo": guias/mostrar-ocultar-contrasena-al-presionar-boton-del-ojo-resuelto.md
+      - "Problema con Upload File": guias/problema-con-upload-file.md
+      - "Problema en el splash screen: la app se queda pegada": guias/problema-en-el-splash-screen.md
+      - "Quitar los decimales de un precio": guias/quitar-los-decimales.md
+      - "Refresh page o reload page: cómo volver a cargar los datos de una pantalla": guias/refresh-page-o-reload-page.md
+      - "¿Cómo puedo redondear a la centena más cercana?": guias/como-puedo-redondear-a-la-centena-mas-cercana.md
+    - Interfaz y diseño:
+      - "Chat con imágenes": guias/chat-con-imagenes.md
+      - "Cómo hacer el branding o logo de mi app (si no cuento con un diseñador)": guias/como-hacer-el-branding-o-logo-de-mi-app-si-no-cuento-con-un-disenador.md
+      - "Diseño de aplicación: loading personalizado con Lottie": guias/diseno-de-aplicacion-loading-personalizado.md
+      - "Splash screen de tu aplicación": guias/splash-screen-de-tu-aplicacion.md
+      - "Tamaño de imágenes para background": guias/tamano-de-imagenes-para-background.md
+      - "Todo sobre el Picker": guias/todo-sobre-el-picker.md
+      - "¿Cómo hacer un slider automático de promociones?": guias/como-hacer-un-slider-automatico-de-promociones.md
+    - Usuarios y datos:
+      - "Crear IDs de usuario personalizados": guias/crear-id-de-usuarios-personalizados.md
+      - "Cómo agregar una cuenta de usuario de forma manual en tu aplicación": guias/como-agregar-una-cuenta-de-usuario-de-forma-manual-en-tu-aplicacion.md
+      - "Cómo cambiar la foto de perfil que previamente se subió a la nube": guias/como-cambiar-la-foto-de-perfil-que-previamente-se-subio-a-la-nube.md
+    - Pagos e integraciones:
+      - "Comisiones de Play Store": guias/comisiones-play-store.md
+      - "Error null en Mercado Pago V2": guias/error-null-en-mercado-pago-v2.md
+      - "Guía definitiva para integrar Mercado Pago": guias/guia-definitiva-para-integrar-mercado-pago.md
+      - "Pasarelas de pago disponibles por país": guias/pasarelas-de-pago-disponibles-por-pais.md
+      - "Stripe: error «No such customer: 'undefined'»": guias/stripe-no-such-customer-unidefined.md
+    - Mapas y geolocalización:
+      - "API de Google Maps: no carga el autocompletado de direcciones": guias/api-google-maps-no-carga-el-autocomplete-de-direcciones.md
+      - "Función Places Autocomplete Predictions": guias/funcion-places-autocomplete-predictions.md
+      - "Paso a paso: cómo obtener tu API key de Google": guias/paso-a-paso-de-como-obtener-tu-api-key-de-google.md
+    - Otros:
+      - "Guía definitiva para instalar un emulador en mi PC": guias/guia-definitiva-para-instalar-un-emulador-en-mi-pc.md
+      - "Registro de la app en México (INDAUTOR)": guias/registro-del-app-en-mexico.md
   - REFERENCE:
     - 🎮 Controles:
       - reference/controles/README.md
