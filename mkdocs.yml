@@ -745,6 +745,8 @@ nav:
       - "Facebook for Developers: obtener el Facebook App ID (si tus apps usan inicio de sesión con Facebook)": guias/opcional-facebook-for-developers-si-cualquiera-de-tus-apps-utiliza-inicio-de-sesion-con-facebook.md
       - "Firebase config: cómo obtener tu Firebase Project ID": guias/firebase-config-firebase-project-id.md
       - "Inicio de sesión con Facebook (SHA en APK)": guias/inicio-de-sesion-con-facebook-sha-en-apk.md
+      - "Agregar la huella SHA-1 a Firebase": guias/agregar-sha1-a-firebase.md
+      - "El paquete de Android no está registrado en Firebase": guias/paquete-android-no-registrado-en-firebase.md
       - "Obtener Firebase: crear el proyecto de Firebase de tu app": guias/obtener-firebase.md
       - "Obtener el service account file de Firebase": guias/obtener-service-account-file.md
       - "Obtener la URL de Firebase Realtime Database": guias/obtener-firebase-realtime-database-url.md
@@ -1168,6 +1170,7 @@ nav:
       - compilaciones-y-cargas-a-tiendas/ios/README.md
       - Crear cuenta de desarrollador: compilaciones-y-cargas-a-tiendas/ios/crear-cuenta-de-desarrollador.md
     - 💻 WebApp: compilaciones-y-cargas-a-tiendas/webapp.md
+    - 🌐 Dominio propio para tu web app: guias/dominio-propio-para-tu-web-app.md
     - 📘 Facebook Developers: compilaciones-y-cargas-a-tiendas/facebook-developers.md
     - ❌ Compilation errors: compilaciones-y-cargas-a-tiendas/compilation-errors.md
   - Precios:
